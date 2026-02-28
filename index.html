@@ -212,33 +212,9 @@
 </div>
 
 <script>
-  // Romans seront chargés depuis romans.json
+  // Romans et personnages chargés depuis JSON
   var romans = [];
-
-  // Données personnages encore en dur pour l’instant
-  var personnages = [
-    {
-      nom: "Bob Morane",
-      romanId: "r1",
-      role: "Héros principal.",
-      physique: "Athlétique, regard déterminé.",
-      image: ""
-    },
-    {
-      nom: "Bill Ballantine",
-      romanId: "r1",
-      role: "Compagnon fidèle.",
-      physique: "Grand et robuste.",
-      image: ""
-    },
-    {
-      nom: "Personnage Roman 2",
-      romanId: "r2",
-      role: "Personnage du second roman.",
-      physique: "Silhouette élancée.",
-      image: ""
-    }
-  ];
+  var personnages = [];
 
   var romanActifId = null;
   var indexPersonnage = 0;
@@ -335,11 +311,23 @@
     function getPersosActifs() {
       if (!romanActifId) return [];
       var res = [];
+
+      // filtrer par romanId
       for (var i = 0; i < personnages.length; i++) {
         if (personnages[i].romanId === romanActifId) {
           res.push(personnages[i]);
         }
       }
+
+      // tri alphabétique par nom
+      res.sort(function (a, b) {
+        var na = (a.nom || "").toLocaleLowerCase("fr");
+        var nb = (b.nom || "").toLocaleLowerCase("fr");
+        if (na < nb) return -1;
+        if (na > nb) return 1;
+        return 0;
+      });
+
       return res;
     }
 
@@ -377,11 +365,14 @@
       if (indexPersonnage >= persos.length) indexPersonnage = persos.length - 1;
 
       var p = persos[indexPersonnage];
-      nomEl.textContent = p.nom;
-      roleEl.textContent = p.role || "—";
-      physEl.textContent = p.physique || "—";
+
+      nomEl.textContent = p.nom || "—";
+      // p.role (nom interne) vient de la colonne fonction
+      roleEl.textContent = (p.role || p.fonction || "—");
+      // p.physique vient de description_physique
+      physEl.textContent = (p.physique || p.description_physique || "—");
       imgEl.src = p.image || "";
-      imgEl.alt = p.nom;
+      imgEl.alt = p.nom || "";
     }
 
     // === Swipe sur la section Personnages ===
@@ -400,10 +391,18 @@
       var endX = e.changedTouches[0].clientX;
       var diff = endX - startX;
 
+      var persos = getPersosActifs();
+      if (persos.length === 0) {
+        startX = null;
+        return;
+      }
+
       if (Math.abs(diff) > 50) {
-        if (diff < 0) {
+        if (diff < 0 && indexPersonnage < persos.length - 1) {
+          // swipe gauche → suivant (si pas au dernier)
           indexPersonnage++;
-        } else {
+        } else if (diff > 0 && indexPersonnage > 0) {
+          // swipe droite → précédent (si pas au premier)
           indexPersonnage--;
         }
         afficherPersonnage();
@@ -411,7 +410,7 @@
       startX = null;
     });
 
-    // === Charger romans.json (XMLHttpRequest pour compat iOS) ===
+    // === Charger romans.json ===
 
     function chargerRomansDepuisJSON() {
       var xhr = new XMLHttpRequest();
@@ -437,8 +436,33 @@
       xhr.send();
     }
 
-    // Init
+    // === Charger personnages.json ===
+
+    function chargerPersonnagesDepuisJSON() {
+      var xhr = new XMLHttpRequest();
+      xhr.open("GET", "personnages.json", true);
+      xhr.onreadystatechange = function () {
+        if (xhr.readyState === 4) {
+          if (xhr.status >= 200 && xhr.status < 300) {
+            try {
+              var data = JSON.parse(xhr.responseText);
+              personnages = data || [];
+            } catch (e) {
+              console.error("Erreur de parsing personnages.json", e);
+              personnages = [];
+            }
+          } else {
+            console.error("Erreur HTTP pour personnages.json :", xhr.status);
+            personnages = [];
+          }
+        }
+      };
+      xhr.send();
+    }
+
+    // Init : on charge romans et personnages
     chargerRomansDepuisJSON();
+    chargerPersonnagesDepuisJSON();
   });
 </script>
 </body>
