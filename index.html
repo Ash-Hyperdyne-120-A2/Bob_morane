@@ -283,12 +283,17 @@
         (function (roman) {
           var li = document.createElement("li");
           li.className = "roman-item";
-          li.textContent = roman.titre;
+
+          // Affichage : ordre – titre (année)
+          var texte = roman.ordre + " – " + roman.titre;
+          if (roman.annee !== undefined && roman.annee !== null && roman.annee !== "") {
+            texte += " (" + roman.annee + ")";
+          }
+          li.textContent = texte;
 
           li.addEventListener("click", function () {
             romanActifId = roman.id;
             indexPersonnage = 0;
-            // visuel
             var items = document.querySelectorAll(".roman-item");
             for (var j = 0; j < items.length; j++) {
               items[j].classList.remove("active");
@@ -312,7 +317,6 @@
       if (!romanActifId) return [];
       var res = [];
 
-      // filtrer par romanId
       for (var i = 0; i < personnages.length; i++) {
         if (personnages[i].romanId === romanActifId) {
           res.push(personnages[i]);
@@ -366,13 +370,11 @@
 
       var p = persos[indexPersonnage];
 
-      nomEl.textContent = p.nom || "—";
-      // p.role (nom interne) vient de la colonne fonction
-      roleEl.textContent = (p.role || p.fonction || "—");
-      // p.physique vient de description_physique
-      physEl.textContent = (p.physique || p.description_physique || "—");
-      imgEl.src = p.image || "";
-      imgEl.alt = p.nom || "";
+      nomEl.textContent  = p.nom || "—";
+      roleEl.textContent = p.role || "—";
+      physEl.textContent = p.physique || "—";
+      imgEl.src          = p.image || "";
+      imgEl.alt          = p.nom || "";
     }
 
     // === Swipe sur la section Personnages ===
@@ -399,11 +401,9 @@
 
       if (Math.abs(diff) > 50) {
         if (diff < 0 && indexPersonnage < persos.length - 1) {
-          // swipe gauche → suivant (si pas au dernier)
-          indexPersonnage++;
+          indexPersonnage++;   // suivant
         } else if (diff > 0 && indexPersonnage > 0) {
-          // swipe droite → précédent (si pas au premier)
-          indexPersonnage--;
+          indexPersonnage--;   // précédent
         }
         afficherPersonnage();
       }
