@@ -1,0 +1,425 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <title>Bob Morane – Explorateur</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background-color: #f5f5f5;
+      color: #222;
+      min-height: 100vh;
+    }
+
+    .app-container {
+      min-height: 100vh;
+      max-width: 600px;
+      margin: 0 auto;
+      background-color: #ffffff;
+      border-left: 1px solid #ddd;
+      border-right: 1px solid #ddd;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .content {
+      flex: 1;
+      padding: 16px;
+      padding-bottom: 70px; /* laisser la place pour la barre du bas */
+      overflow-y: auto;
+    }
+
+    .screen {
+      display: none;
+    }
+
+    .screen.active {
+      display: block;
+    }
+
+    h1 {
+      font-size: 1.4rem;
+      margin-bottom: 10px;
+    }
+
+    .card {
+      background-color: #fafafa;
+      border-radius: 8px;
+      padding: 12px;
+      margin-top: 8px;
+      border: 1px solid #e0e0e0;
+    }
+
+    /* === Romans === */
+
+    .roman-list {
+      list-style: none;
+      margin-top: 8px;
+    }
+
+    .roman-item {
+      padding: 10px 12px;
+      border-radius: 6px;
+      border: 1px solid #e0e0e0;
+      margin-bottom: 6px;
+      cursor: pointer;
+      background-color: #fafafa;
+      font-size: 0.95rem;
+    }
+
+    .roman-item.active {
+      background-color: #dfe8ff;
+      border-color: #9bb4ff;
+      font-weight: 600;
+    }
+
+    /* === Personnage === */
+
+    .personnage-container {
+      display: flex;
+      flex-direction: column;
+      height: 100%;
+    }
+
+    .personnage-header {
+      text-align: center;
+      margin-bottom: 8px;
+    }
+
+    .roman-actif {
+      font-size: 0.85rem;
+      color: #666;
+    }
+
+    .personnage-image-wrapper {
+      display: flex;
+      justify-content: center;
+      margin: 10px 0 12px 0;
+    }
+
+    .personnage-image {
+      width: 70%;
+      max-width: 280px;
+      object-fit: cover;
+      border-radius: 12px;
+      border: 1px solid #ddd;
+      background-color: #eee;
+      /* fallback carré si aspect-ratio non supporté */
+    }
+
+    .section-titre {
+      font-weight: 600;
+      font-size: 0.9rem;
+      margin-bottom: 4px;
+    }
+
+    .hint {
+      margin-top: 12px;
+      font-size: 0.8rem;
+      color: #777;
+      text-align: center;
+    }
+
+    /* === Barre bas === */
+
+    .bottom-nav {
+      position: fixed;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      max-width: 600px;
+      margin: 0 auto;
+      display: flex;
+      border-top: 1px solid #ddd;
+      background-color: #f9f9f9;
+      padding-bottom: env(safe-area-inset-bottom);
+    }
+
+    .nav-button {
+      flex: 1;
+      padding: 10px 8px;
+      text-align: center;
+      font-size: 0.9rem;
+      border: none;
+      background: none;
+      cursor: pointer;
+      -webkit-appearance: none;
+    }
+
+    .nav-button.active {
+      background-color: #e0e0e0;
+      font-weight: 600;
+    }
+
+    .nav-button:focus {
+      outline: none;
+    }
+  </style>
+</head>
+<body>
+<div class="app-container">
+
+  <main class="content">
+
+    <!-- === Romans === -->
+    <section id="screen-romans" class="screen active">
+      <h1>Romans</h1>
+      <ul id="roman-list" class="roman-list"></ul>
+    </section>
+
+    <!-- === Personnages === -->
+    <section id="screen-personnages" class="screen">
+      <div class="personnage-container">
+
+        <div class="personnage-header">
+          <h1 id="personnage-nom">—</h1>
+          <div class="roman-actif" id="personnage-roman-actif">
+            Roman : —
+          </div>
+        </div>
+
+        <div class="personnage-image-wrapper">
+          <img id="personnage-image" class="personnage-image" src="" alt="">
+        </div>
+
+        <div class="card">
+          <div class="section-titre">Rôle dans le roman</div>
+          <p id="personnage-role">—</p>
+        </div>
+
+        <div class="card">
+          <div class="section-titre">Description physique</div>
+          <p id="personnage-physique">—</p>
+        </div>
+
+        <div class="hint">
+          Glissez vers la gauche ou la droite pour changer de personnage.
+        </div>
+
+      </div>
+    </section>
+
+    <!-- === Cartes (placeholder) === -->
+    <section id="screen-cartes" class="screen">
+      <h1>Cartes</h1>
+      <p>Section en développement.</p>
+    </section>
+
+  </main>
+
+  <nav class="bottom-nav">
+    <button type="button" class="nav-button active" data-target="romans">Romans</button>
+    <button type="button" class="nav-button" data-target="personnages">Personnages</button>
+    <button type="button" class="nav-button" data-target="cartes">Cartes</button>
+  </nav>
+
+</div>
+
+<script>
+  // Données simples pour tester
+  var romans = [
+    { id: "r1", titre: "Roman 1 – Exemple", ordre: 1 },
+    { id: "r2", titre: "Roman 2 – Exemple", ordre: 2 }
+  ];
+
+  var personnages = [
+    {
+      nom: "Bob Morane",
+      romanId: "r1",
+      role: "Héros principal.",
+      physique: "Athlétique, regard déterminé.",
+      image: ""
+    },
+    {
+      nom: "Bill Ballantine",
+      romanId: "r1",
+      role: "Compagnon fidèle.",
+      physique: "Grand et robuste.",
+      image: ""
+    },
+    {
+      nom: "Personnage Roman 2",
+      romanId: "r2",
+      role: "Personnage du second roman.",
+      physique: "Silhouette élancée.",
+      image: ""
+    }
+  ];
+
+  var romanActifId = null;
+  var indexPersonnage = 0;
+
+  document.addEventListener('DOMContentLoaded', function () {
+    var screens = {
+      romans: document.getElementById("screen-romans"),
+      personnages: document.getElementById("screen-personnages"),
+      cartes: document.getElementById("screen-cartes")
+    };
+
+    var navButtons = document.querySelectorAll(".nav-button");
+
+    function showScreen(name) {
+      // boutons actifs
+      for (var i = 0; i < navButtons.length; i++) {
+        var btn = navButtons[i];
+        if (btn.getAttribute("data-target") === name) {
+          btn.classList.add("active");
+        } else {
+          btn.classList.remove("active");
+        }
+      }
+
+      // écrans actifs
+      for (var key in screens) {
+        if (screens.hasOwnProperty(key)) {
+          if (key === name) {
+            screens[key].classList.add("active");
+          } else {
+            screens[key].classList.remove("active");
+          }
+        }
+      }
+
+      if (name === "personnages") {
+        afficherPersonnage();
+      }
+    }
+
+    for (var i = 0; i < navButtons.length; i++) {
+      navButtons[i].addEventListener("click", function () {
+        var target = this.getAttribute("data-target");
+        showScreen(target);
+      });
+    }
+
+    // === Romans : rendu et sélection ===
+
+    function renderRomans() {
+      var ul = document.getElementById("roman-list");
+      ul.innerHTML = "";
+
+      romans.sort(function (a, b) { return a.ordre - b.ordre; });
+
+      for (var i = 0; i < romans.length; i++) {
+        (function (roman) {
+          var li = document.createElement("li");
+          li.className = "roman-item";
+          li.textContent = roman.titre;
+
+          li.addEventListener("click", function () {
+            romanActifId = roman.id;
+            indexPersonnage = 0;
+            // visuel
+            var items = document.querySelectorAll(".roman-item");
+            for (var j = 0; j < items.length; j++) {
+              items[j].classList.remove("active");
+            }
+            li.classList.add("active");
+          });
+
+          ul.appendChild(li);
+        })(romans[i]);
+      }
+
+      if (romans.length > 0) {
+        romanActifId = romans[0].id;
+        if (ul.firstChild) {
+          ul.firstChild.classList.add("active");
+        }
+      }
+    }
+
+    function getPersosActifs() {
+      if (!romanActifId) return [];
+      var res = [];
+      for (var i = 0; i < personnages.length; i++) {
+        if (personnages[i].romanId === romanActifId) {
+          res.push(personnages[i]);
+        }
+      }
+      return res;
+    }
+
+    function getRomanActifTitre() {
+      for (var i = 0; i < romans.length; i++) {
+        if (romans[i].id === romanActifId) {
+          return romans[i].titre;
+        }
+      }
+      return "—";
+    }
+
+    // === Personnages : affichage ===
+
+    function afficherPersonnage() {
+      var persos = getPersosActifs();
+      var nomEl = document.getElementById("personnage-nom");
+      var romanEl = document.getElementById("personnage-roman-actif");
+      var roleEl = document.getElementById("personnage-role");
+      var physEl = document.getElementById("personnage-physique");
+      var imgEl = document.getElementById("personnage-image");
+
+      romanEl.textContent = "Roman : " + getRomanActifTitre();
+
+      if (persos.length === 0) {
+        nomEl.textContent = "Aucun personnage";
+        roleEl.textContent = "Aucun personnage défini pour ce roman.";
+        physEl.textContent = "—";
+        imgEl.src = "";
+        imgEl.alt = "";
+        return;
+      }
+
+      if (indexPersonnage < 0) indexPersonnage = 0;
+      if (indexPersonnage >= persos.length) indexPersonnage = persos.length - 1;
+
+      var p = persos[indexPersonnage];
+      nomEl.textContent = p.nom;
+      roleEl.textContent = p.role || "—";
+      physEl.textContent = p.physique || "—";
+      imgEl.src = p.image || "";
+      imgEl.alt = p.nom;
+    }
+
+    // === Swipe sur la section Personnages ===
+
+    var persoScreen = document.getElementById("screen-personnages");
+    var startX = null;
+
+    persoScreen.addEventListener("touchstart", function (e) {
+      if (e.touches && e.touches.length > 0) {
+        startX = e.touches[0].clientX;
+      }
+    });
+
+    persoScreen.addEventListener("touchend", function (e) {
+      if (startX === null) return;
+      var endX = e.changedTouches[0].clientX;
+      var diff = endX - startX;
+
+      if (Math.abs(diff) > 50) {
+        if (diff < 0) {
+          indexPersonnage++;
+        } else {
+          indexPersonnage--;
+        }
+        afficherPersonnage();
+      }
+      startX = null;
+    });
+
+    // Init
+    renderRomans();
+    showScreen("romans");
+  });
+</script>
+</body>
+</html>
