@@ -1,0 +1,8252 @@
+[
+  {
+    "id":"r1",
+    "ordre":1,
+    "titre":"La Vallée infernale",
+    "annee":-506304000000
+  },
+  {
+    "id":"r2",
+    "ordre":1,
+    "titre":"La Vallée infernale",
+    "annee":-378691200000
+  },
+  {
+    "id":"r3",
+    "ordre":1,
+    "titre":"La Vallée infernale",
+    "annee":-252460800000
+  },
+  {
+    "id":"r4",
+    "ordre":1,
+    "titre":"La Vallée infernale",
+    "annee":-220924800000
+  },
+  {
+    "id":"r5",
+    "ordre":1,
+    "titre":"La Vallée infernale",
+    "annee":0
+  },
+  {
+    "id":"r6",
+    "ordre":1,
+    "titre":"La Vallée infernale",
+    "annee":315532800000
+  },
+  {
+    "id":"r7",
+    "ordre":1,
+    "titre":"La Vallée infernale",
+    "annee":410227200000
+  },
+  {
+    "id":"r8",
+    "ordre":1,
+    "titre":"La Vallée infernale",
+    "annee":694224000000
+  },
+  {
+    "id":"r9",
+    "ordre":1,
+    "titre":"La Vallée infernale",
+    "annee":883612800000
+  },
+  {
+    "id":"r10",
+    "ordre":1,
+    "titre":"La Vallée infernale",
+    "annee":1104537600000
+  },
+  {
+    "id":"r11",
+    "ordre":1,
+    "titre":"La Vallée infernale",
+    "annee":null
+  },
+  {
+    "id":"r12",
+    "ordre":1,
+    "titre":"La Vallée infernale",
+    "annee":1300924800000
+  },
+  {
+    "id":"r13",
+    "ordre":1,
+    "titre":"La Vallée infernale",
+    "annee":null
+  },
+  {
+    "id":"r14",
+    "ordre":1,
+    "titre":"La Vallée infernale",
+    "annee":null
+  },
+  {
+    "id":"r15",
+    "ordre":1,
+    "titre":"La Vallée infernale",
+    "annee":null
+  },
+  {
+    "id":"r16",
+    "ordre":1,
+    "titre":"La Vallée infernale",
+    "annee":1696550400000
+  },
+  {
+    "id":"r17",
+    "ordre":2,
+    "titre":"La Galère engloutie",
+    "annee":-504921600000
+  },
+  {
+    "id":"r18",
+    "ordre":2,
+    "titre":"La Galère engloutie",
+    "annee":-378691200000
+  },
+  {
+    "id":"r19",
+    "ordre":2,
+    "titre":"La Galère engloutie",
+    "annee":-283996800000
+  },
+  {
+    "id":"r20",
+    "ordre":2,
+    "titre":"La Galère engloutie",
+    "annee":-220924800000
+  },
+  {
+    "id":"r21",
+    "ordre":2,
+    "titre":"La Galère engloutie",
+    "annee":0
+  },
+  {
+    "id":"r22",
+    "ordre":2,
+    "titre":"La Galère engloutie",
+    "annee":694224000000
+  },
+  {
+    "id":"r23",
+    "ordre":2,
+    "titre":"La Galère engloutie",
+    "annee":883612800000
+  },
+  {
+    "id":"r24",
+    "ordre":2,
+    "titre":"La Galère engloutie",
+    "annee":null
+  },
+  {
+    "id":"r25",
+    "ordre":2,
+    "titre":"La Galère engloutie",
+    "annee":820454400000
+  },
+  {
+    "id":"r26",
+    "ordre":2,
+    "titre":"La Galère engloutie",
+    "annee":null
+  },
+  {
+    "id":"r27",
+    "ordre":2,
+    "titre":"La Galère engloutie",
+    "annee":1699142400000
+  },
+  {
+    "id":"r28",
+    "ordre":3,
+    "titre":"Sur la piste de Fawcett",
+    "annee":-220924800000
+  },
+  {
+    "id":"r29",
+    "ordre":3,
+    "titre":"Sur la piste de Fawcett",
+    "annee":-378691200000
+  },
+  {
+    "id":"r30",
+    "ordre":3,
+    "titre":"Sur la piste de Fawcett",
+    "annee":-504921600000
+  },
+  {
+    "id":"r31",
+    "ordre":3,
+    "titre":"Sur la piste de Fawcett",
+    "annee":-63158400000
+  },
+  {
+    "id":"r32",
+    "ordre":3,
+    "titre":"Sur la piste de Fawcett",
+    "annee":0
+  },
+  {
+    "id":"r33",
+    "ordre":3,
+    "titre":"Sur la piste de Fawcett",
+    "annee":820454400000
+  },
+  {
+    "id":"r34",
+    "ordre":3,
+    "titre":"Sur la piste de Fawcett",
+    "annee":null
+  },
+  {
+    "id":"r35",
+    "ordre":3,
+    "titre":"Sur la piste de Fawcett",
+    "annee":1332806400000
+  },
+  {
+    "id":"r36",
+    "ordre":3,
+    "titre":"Sur la piste de Fawcett",
+    "annee":1700092800000
+  },
+  {
+    "id":"r37",
+    "ordre":4,
+    "titre":"La Griffe de feu",
+    "annee":-504921600000
+  },
+  {
+    "id":"r38",
+    "ordre":4,
+    "titre":"La Griffe de feu",
+    "annee":-378691200000
+  },
+  {
+    "id":"r39",
+    "ordre":4,
+    "titre":"La Griffe de feu",
+    "annee":-220924800000
+  },
+  {
+    "id":"r40",
+    "ordre":4,
+    "titre":"La Griffe de feu",
+    "annee":283996800000
+  },
+  {
+    "id":"r41",
+    "ordre":4,
+    "titre":"La Griffe de feu",
+    "annee":694224000000
+  },
+  {
+    "id":"r42",
+    "ordre":4,
+    "titre":"La Griffe de feu",
+    "annee":820454400000
+  },
+  {
+    "id":"r43",
+    "ordre":4,
+    "titre":"La Griffe de feu",
+    "annee":null
+  },
+  {
+    "id":"r44",
+    "ordre":4,
+    "titre":"La Griffe de feu",
+    "annee":1701561600000
+  },
+  {
+    "id":"r45",
+    "ordre":5,
+    "titre":"Panique dans le ciel",
+    "annee":-504921600000
+  },
+  {
+    "id":"r46",
+    "ordre":5,
+    "titre":"Panique dans le ciel",
+    "annee":-378691200000
+  },
+  {
+    "id":"r47",
+    "ordre":5,
+    "titre":"Panique dans le ciel",
+    "annee":-220924800000
+  },
+  {
+    "id":"r48",
+    "ordre":5,
+    "titre":"Panique dans le ciel",
+    "annee":0
+  },
+  {
+    "id":"r49",
+    "ordre":5,
+    "titre":"Panique dans le ciel",
+    "annee":820454400000
+  },
+  {
+    "id":"r50",
+    "ordre":5,
+    "titre":"Panique dans le ciel",
+    "annee":null
+  },
+  {
+    "id":"r51",
+    "ordre":5,
+    "titre":"Panique dans le ciel",
+    "annee":1704412800000
+  },
+  {
+    "id":"r52",
+    "ordre":6,
+    "titre":"L'Héritage du flibustier",
+    "annee":-504921600000
+  },
+  {
+    "id":"r53",
+    "ordre":6,
+    "titre":"L'Héritage du flibustier",
+    "annee":-378691200000
+  },
+  {
+    "id":"r54",
+    "ordre":6,
+    "titre":"L'Héritage du flibustier",
+    "annee":-283996800000
+  },
+  {
+    "id":"r55",
+    "ordre":6,
+    "titre":"L'Héritage du flibustier",
+    "annee":-220924800000
+  },
+  {
+    "id":"r56",
+    "ordre":6,
+    "titre":"L'Héritage du flibustier",
+    "annee":-63158400000
+  },
+  {
+    "id":"r57",
+    "ordre":6,
+    "titre":"L'Héritage du flibustier",
+    "annee":null
+  },
+  {
+    "id":"r58",
+    "ordre":6,
+    "titre":"L'Héritage du flibustier",
+    "annee":null
+  },
+  {
+    "id":"r59",
+    "ordre":6,
+    "titre":"L'Héritage du flibustier",
+    "annee":820454400000
+  },
+  {
+    "id":"r60",
+    "ordre":6,
+    "titre":"L'Héritage du flibustier",
+    "annee":null
+  },
+  {
+    "id":"r61",
+    "ordre":6,
+    "titre":"L'Héritage du flibustier",
+    "annee":1705190400000
+  },
+  {
+    "id":"r62",
+    "ordre":7,
+    "titre":"Les Faiseurs de désert",
+    "annee":-473385600000
+  },
+  {
+    "id":"r63",
+    "ordre":7,
+    "titre":"Les Faiseurs de désert",
+    "annee":-378691200000
+  },
+  {
+    "id":"r64",
+    "ordre":7,
+    "titre":"Les Faiseurs de désert",
+    "annee":-157766400000
+  },
+  {
+    "id":"r65",
+    "ordre":7,
+    "titre":"Les Faiseurs de désert",
+    "annee":820454400000
+  },
+  {
+    "id":"r66",
+    "ordre":7,
+    "titre":"Les Faiseurs de désert",
+    "annee":820454400000
+  },
+  {
+    "id":"r67",
+    "ordre":7,
+    "titre":"Les Faiseurs de désert",
+    "annee":null
+  },
+  {
+    "id":"r68",
+    "ordre":7,
+    "titre":"Les Faiseurs de désert",
+    "annee":1708041600000
+  },
+  {
+    "id":"r69",
+    "ordre":8,
+    "titre":"Le Sultan de Jarawak",
+    "annee":-473385600000
+  },
+  {
+    "id":"r70",
+    "ordre":8,
+    "titre":"Le Sultan de Jarawak",
+    "annee":-378691200000
+  },
+  {
+    "id":"r71",
+    "ordre":8,
+    "titre":"Le Sultan de Jarawak",
+    "annee":-220924800000
+  },
+  {
+    "id":"r72",
+    "ordre":8,
+    "titre":"Le Sultan de Jarawak",
+    "annee":0
+  },
+  {
+    "id":"r73",
+    "ordre":8,
+    "titre":"Le Sultan de Jarawak",
+    "annee":157766400000
+  },
+  {
+    "id":"r74",
+    "ordre":8,
+    "titre":"Le Sultan de Jarawak",
+    "annee":694224000000
+  },
+  {
+    "id":"r75",
+    "ordre":8,
+    "titre":"Le Sultan de Jarawak",
+    "annee":852076800000
+  },
+  {
+    "id":"r76",
+    "ordre":8,
+    "titre":"Le Sultan de Jarawak",
+    "annee":null
+  },
+  {
+    "id":"r77",
+    "ordre":8,
+    "titre":"Le Sultan de Jarawak",
+    "annee":1708041600000
+  },
+  {
+    "id":"r78",
+    "ordre":9,
+    "titre":"Oasis K ne répond plus",
+    "annee":-473385600000
+  },
+  {
+    "id":"r79",
+    "ordre":9,
+    "titre":"Oasis K ne répond plus",
+    "annee":-378691200000
+  },
+  {
+    "id":"r80",
+    "ordre":9,
+    "titre":"Oasis K ne répond plus",
+    "annee":-220924800000
+  },
+  {
+    "id":"r81",
+    "ordre":9,
+    "titre":"Oasis K ne répond plus",
+    "annee":0
+  },
+  {
+    "id":"r82",
+    "ordre":9,
+    "titre":"Oasis K ne répond plus",
+    "annee":852076800000
+  },
+  {
+    "id":"r83",
+    "ordre":9,
+    "titre":"Oasis K ne répond plus",
+    "annee":null
+  },
+  {
+    "id":"r84",
+    "ordre":9,
+    "titre":"Oasis K ne répond plus",
+    "annee":1714435200000
+  },
+  {
+    "id":"r85",
+    "ordre":10,
+    "titre":"La Vallée des Brontosaures",
+    "annee":-473385600000
+  },
+  {
+    "id":"r86",
+    "ordre":10,
+    "titre":"La Vallée des Brontosaures",
+    "annee":-378691200000
+  },
+  {
+    "id":"r87",
+    "ordre":10,
+    "titre":"La Vallée des Brontosaures",
+    "annee":-220924800000
+  },
+  {
+    "id":"r88",
+    "ordre":10,
+    "titre":"La Vallée des Brontosaures",
+    "annee":-63158400000
+  },
+  {
+    "id":"r89",
+    "ordre":10,
+    "titre":"La Vallée des Brontosaures",
+    "annee":0
+  },
+  {
+    "id":"r90",
+    "ordre":10,
+    "titre":"La Vallée des Brontosaures",
+    "annee":599616000000
+  },
+  {
+    "id":"r91",
+    "ordre":10,
+    "titre":"La Vallée des Brontosaures",
+    "annee":883612800000
+  },
+  {
+    "id":"r92",
+    "ordre":10,
+    "titre":"La Vallée des Brontosaures",
+    "annee":null
+  },
+  {
+    "id":"r93",
+    "ordre":10,
+    "titre":"La Vallée des Brontosaures",
+    "annee":852076800000
+  },
+  {
+    "id":"r94",
+    "ordre":10,
+    "titre":"La Vallée des Brontosaures",
+    "annee":null
+  },
+  {
+    "id":"r95",
+    "ordre":10,
+    "titre":"La Vallée des Brontosaures",
+    "annee":880934400000
+  },
+  {
+    "id":"r96",
+    "ordre":10,
+    "titre":"La Vallée des Brontosaures",
+    "annee":1714694400000
+  },
+  {
+    "id":"r97",
+    "ordre":11,
+    "titre":"Les Requins d'acier",
+    "annee":-473385600000
+  },
+  {
+    "id":"r98",
+    "ordre":11,
+    "titre":"Les Requins d'acier",
+    "annee":-378691200000
+  },
+  {
+    "id":"r99",
+    "ordre":11,
+    "titre":"Les Requins d'acier",
+    "annee":-220924800000
+  },
+  {
+    "id":"r100",
+    "ordre":11,
+    "titre":"Les Requins d'acier",
+    "annee":0
+  },
+  {
+    "id":"r101",
+    "ordre":11,
+    "titre":"Les Requins d'acier",
+    "annee":852076800000
+  },
+  {
+    "id":"r102",
+    "ordre":11,
+    "titre":"Les Requins d'acier",
+    "annee":null
+  },
+  {
+    "id":"r103",
+    "ordre":11,
+    "titre":"Les Requins d'acier",
+    "annee":1716940800000
+  },
+  {
+    "id":"r104",
+    "ordre":12,
+    "titre":"Le Secret des Mayas",
+    "annee":-447120000000
+  },
+  {
+    "id":"r105",
+    "ordre":12,
+    "titre":"Le Secret des Mayas",
+    "annee":-378691200000
+  },
+  {
+    "id":"r106",
+    "ordre":12,
+    "titre":"Le Secret des Mayas",
+    "annee":-220924800000
+  },
+  {
+    "id":"r107",
+    "ordre":12,
+    "titre":"Le Secret des Mayas",
+    "annee":0
+  },
+  {
+    "id":"r108",
+    "ordre":12,
+    "titre":"Le Secret des Mayas",
+    "annee":694224000000
+  },
+  {
+    "id":"r109",
+    "ordre":12,
+    "titre":"Le Secret des Mayas",
+    "annee":852076800000
+  },
+  {
+    "id":"r110",
+    "ordre":12,
+    "titre":"Le Secret des Mayas",
+    "annee":null
+  },
+  {
+    "id":"r111",
+    "ordre":12,
+    "titre":"Le Secret des Mayas",
+    "annee":1716940800000
+  },
+  {
+    "id":"r112",
+    "ordre":13,
+    "titre":"La Croisière du Mégophias",
+    "annee":-441849600000
+  },
+  {
+    "id":"r113",
+    "ordre":13,
+    "titre":"La Croisière du Mégophias",
+    "annee":-378691200000
+  },
+  {
+    "id":"r114",
+    "ordre":13,
+    "titre":"La Croisière du Mégophias",
+    "annee":-220924800000
+  },
+  {
+    "id":"r115",
+    "ordre":13,
+    "titre":"La Croisière du Mégophias",
+    "annee":0
+  },
+  {
+    "id":"r116",
+    "ordre":13,
+    "titre":"La Croisière du Mégophias",
+    "annee":null
+  },
+  {
+    "id":"r117",
+    "ordre":13,
+    "titre":"La Croisière du Mégophias",
+    "annee":null
+  },
+  {
+    "id":"r118",
+    "ordre":13,
+    "titre":"La Croisière du Mégophias",
+    "annee":852076800000
+  },
+  {
+    "id":"r119",
+    "ordre":13,
+    "titre":"La Croisière du Mégophias",
+    "annee":null
+  },
+  {
+    "id":"r120",
+    "ordre":13,
+    "titre":"La Croisière du Mégophias",
+    "annee":1718150400000
+  },
+  {
+    "id":"r121",
+    "ordre":14,
+    "titre":"Opération Atlantide",
+    "annee":-441849600000
+  },
+  {
+    "id":"r122",
+    "ordre":14,
+    "titre":"Opération Atlantide",
+    "annee":1718755200000
+  },
+  {
+    "id":"r123",
+    "ordre":14,
+    "titre":"Opération Atlantide",
+    "annee":157766400000
+  },
+  {
+    "id":"r124",
+    "ordre":14,
+    "titre":"Opération Atlantide",
+    "annee":-378691200000
+  },
+  {
+    "id":"r125",
+    "ordre":14,
+    "titre":"Opération Atlantide",
+    "annee":-252460800000
+  },
+  {
+    "id":"r126",
+    "ordre":14,
+    "titre":"Opération Atlantide",
+    "annee":-220924800000
+  },
+  {
+    "id":"r127",
+    "ordre":14,
+    "titre":"Opération Atlantide",
+    "annee":-63158400000
+  },
+  {
+    "id":"r128",
+    "ordre":14,
+    "titre":"Opération Atlantide",
+    "annee":599616000000
+  },
+  {
+    "id":"r129",
+    "ordre":14,
+    "titre":"Opération Atlantide",
+    "annee":null
+  },
+  {
+    "id":"r130",
+    "ordre":14,
+    "titre":"Opération Atlantide",
+    "annee":null
+  },
+  {
+    "id":"r131",
+    "ordre":14,
+    "titre":"Opération Atlantide",
+    "annee":null
+  },
+  {
+    "id":"r132",
+    "ordre":14,
+    "titre":"Opération Atlantide",
+    "annee":852076800000
+  },
+  {
+    "id":"r133",
+    "ordre":14,
+    "titre":"Opération Atlantide",
+    "annee":null
+  },
+  {
+    "id":"r134",
+    "ordre":15,
+    "titre":"La Marque de Kali",
+    "annee":-441849600000
+  },
+  {
+    "id":"r135",
+    "ordre":15,
+    "titre":"La Marque de Kali",
+    "annee":-378691200000
+  },
+  {
+    "id":"r136",
+    "ordre":15,
+    "titre":"La Marque de Kali",
+    "annee":-252460800000
+  },
+  {
+    "id":"r137",
+    "ordre":15,
+    "titre":"La Marque de Kali",
+    "annee":-220924800000
+  },
+  {
+    "id":"r138",
+    "ordre":15,
+    "titre":"La Marque de Kali",
+    "annee":-63158400000
+  },
+  {
+    "id":"r139",
+    "ordre":15,
+    "titre":"La Marque de Kali",
+    "annee":567993600000
+  },
+  {
+    "id":"r140",
+    "ordre":15,
+    "titre":"La Marque de Kali",
+    "annee":852076800000
+  },
+  {
+    "id":"r141",
+    "ordre":15,
+    "titre":"La Marque de Kali",
+    "annee":null
+  },
+  {
+    "id":"r142",
+    "ordre":15,
+    "titre":"La Marque de Kali",
+    "annee":1720569600000
+  },
+  {
+    "id":"r143",
+    "ordre":16,
+    "titre":"Mission pour Thulé",
+    "annee":-441849600000
+  },
+  {
+    "id":"r144",
+    "ordre":16,
+    "titre":"Mission pour Thulé",
+    "annee":-378691200000
+  },
+  {
+    "id":"r145",
+    "ordre":16,
+    "titre":"Mission pour Thulé",
+    "annee":-283996800000
+  },
+  {
+    "id":"r146",
+    "ordre":16,
+    "titre":"Mission pour Thulé",
+    "annee":-220924800000
+  },
+  {
+    "id":"r147",
+    "ordre":16,
+    "titre":"Mission pour Thulé",
+    "annee":0
+  },
+  {
+    "id":"r148",
+    "ordre":16,
+    "titre":"Mission pour Thulé",
+    "annee":852076800000
+  },
+  {
+    "id":"r149",
+    "ordre":16,
+    "titre":"Mission pour Thulé",
+    "annee":null
+  },
+  {
+    "id":"r150",
+    "ordre":16,
+    "titre":"Mission pour Thulé",
+    "annee":null
+  },
+  {
+    "id":"r151",
+    "ordre":16,
+    "titre":"Mission pour Thulé",
+    "annee":1720569600000
+  },
+  {
+    "id":"r152",
+    "ordre":17,
+    "titre":"La Cité des sables",
+    "annee":-441849600000
+  },
+  {
+    "id":"r153",
+    "ordre":17,
+    "titre":"La Cité des sables",
+    "annee":-378691200000
+  },
+  {
+    "id":"r154",
+    "ordre":17,
+    "titre":"La Cité des sables",
+    "annee":-283996800000
+  },
+  {
+    "id":"r155",
+    "ordre":17,
+    "titre":"La Cité des sables",
+    "annee":-220924800000
+  },
+  {
+    "id":"r156",
+    "ordre":17,
+    "titre":"La Cité des sables",
+    "annee":0
+  },
+  {
+    "id":"r157",
+    "ordre":17,
+    "titre":"La Cité des sables",
+    "annee":157766400000
+  },
+  {
+    "id":"r158",
+    "ordre":17,
+    "titre":"La Cité des sables",
+    "annee":852076800000
+  },
+  {
+    "id":"r159",
+    "ordre":17,
+    "titre":"La Cité des sables",
+    "annee":null
+  },
+  {
+    "id":"r160",
+    "ordre":17,
+    "titre":"La Cité des sables",
+    "annee":1723593600000
+  },
+  {
+    "id":"r161",
+    "ordre":18,
+    "titre":"Les Monstres de l'espace",
+    "annee":-441849600000
+  },
+  {
+    "id":"r162",
+    "ordre":18,
+    "titre":"Les Monstres de l'espace",
+    "annee":-378691200000
+  },
+  {
+    "id":"r163",
+    "ordre":18,
+    "titre":"Les Monstres de l'espace",
+    "annee":-283996800000
+  },
+  {
+    "id":"r164",
+    "ordre":18,
+    "titre":"Les Monstres de l'espace",
+    "annee":-220924800000
+  },
+  {
+    "id":"r165",
+    "ordre":18,
+    "titre":"Les Monstres de l'espace",
+    "annee":0
+  },
+  {
+    "id":"r166",
+    "ordre":18,
+    "titre":"Les Monstres de l'espace",
+    "annee":599616000000
+  },
+  {
+    "id":"r167",
+    "ordre":18,
+    "titre":"Les Monstres de l'espace",
+    "annee":852076800000
+  },
+  {
+    "id":"r168",
+    "ordre":18,
+    "titre":"Les Monstres de l'espace",
+    "annee":null
+  },
+  {
+    "id":"r169",
+    "ordre":18,
+    "titre":"Les Monstres de l'espace",
+    "annee":1723593600000
+  },
+  {
+    "id":"r170",
+    "ordre":19,
+    "titre":"Le Masque de jade",
+    "annee":-441849600000
+  },
+  {
+    "id":"r171",
+    "ordre":19,
+    "titre":"Le Masque de jade",
+    "annee":-378691200000
+  },
+  {
+    "id":"r172",
+    "ordre":19,
+    "titre":"Le Masque de jade",
+    "annee":-220924800000
+  },
+  {
+    "id":"r173",
+    "ordre":19,
+    "titre":"Le Masque de jade",
+    "annee":567993600000
+  },
+  {
+    "id":"r174",
+    "ordre":19,
+    "titre":"Le Masque de jade",
+    "annee":0
+  },
+  {
+    "id":"r175",
+    "ordre":19,
+    "titre":"Le Masque de jade",
+    "annee":852076800000
+  },
+  {
+    "id":"r176",
+    "ordre":19,
+    "titre":"Le Masque de jade",
+    "annee":null
+  },
+  {
+    "id":"r177",
+    "ordre":19,
+    "titre":"Le Masque de jade",
+    "annee":660009600000
+  },
+  {
+    "id":"r178",
+    "ordre":19,
+    "titre":"Le Masque de jade",
+    "annee":1725408000000
+  },
+  {
+    "id":"r179",
+    "ordre":20,
+    "titre":"Les Chasseurs de dinosaures",
+    "annee":-410227200000
+  },
+  {
+    "id":"r180",
+    "ordre":20,
+    "titre":"Les Chasseurs de dinosaures",
+    "annee":-378691200000
+  },
+  {
+    "id":"r181",
+    "ordre":20,
+    "titre":"Les Chasseurs de dinosaures",
+    "annee":-283996800000
+  },
+  {
+    "id":"r182",
+    "ordre":20,
+    "titre":"Les Chasseurs de dinosaures",
+    "annee":-220924800000
+  },
+  {
+    "id":"r183",
+    "ordre":20,
+    "titre":"Les Chasseurs de dinosaures",
+    "annee":-63158400000
+  },
+  {
+    "id":"r184",
+    "ordre":20,
+    "titre":"Les Chasseurs de dinosaures",
+    "annee":252460800000
+  },
+  {
+    "id":"r185",
+    "ordre":20,
+    "titre":"Les Chasseurs de dinosaures",
+    "annee":410227200000
+  },
+  {
+    "id":"r186",
+    "ordre":20,
+    "titre":"Les Chasseurs de dinosaures",
+    "annee":694224000000
+  },
+  {
+    "id":"r187",
+    "ordre":20,
+    "titre":"Les Chasseurs de dinosaures",
+    "annee":1104537600000
+  },
+  {
+    "id":"r188",
+    "ordre":20,
+    "titre":"Les Chasseurs de dinosaures",
+    "annee":null
+  },
+  {
+    "id":"r189",
+    "ordre":20,
+    "titre":"Les Chasseurs de dinosaures",
+    "annee":null
+  },
+  {
+    "id":"r190",
+    "ordre":20,
+    "titre":"Les Chasseurs de dinosaures",
+    "annee":null
+  },
+  {
+    "id":"r191",
+    "ordre":20,
+    "titre":"Les Chasseurs de dinosaures",
+    "annee":852076800000
+  },
+  {
+    "id":"r192",
+    "ordre":20,
+    "titre":"Les Chasseurs de dinosaures",
+    "annee":null
+  },
+  {
+    "id":"r193",
+    "ordre":20,
+    "titre":"Les Chasseurs de dinosaures",
+    "annee":null
+  },
+  {
+    "id":"r194",
+    "ordre":20,
+    "titre":"Les Chasseurs de dinosaures",
+    "annee":null
+  },
+  {
+    "id":"r195",
+    "ordre":20,
+    "titre":"Les Chasseurs de dinosaures",
+    "annee":null
+  },
+  {
+    "id":"r196",
+    "ordre":20,
+    "titre":"Les Chasseurs de dinosaures",
+    "annee":446947200000
+  },
+  {
+    "id":"r197",
+    "ordre":20,
+    "titre":"Les Chasseurs de dinosaures",
+    "annee":1725408000000
+  },
+  {
+    "id":"r198",
+    "ordre":21,
+    "titre":"Échec à la Main Noire",
+    "annee":-410227200000
+  },
+  {
+    "id":"r199",
+    "ordre":21,
+    "titre":"Échec à la Main Noire",
+    "annee":-378691200000
+  },
+  {
+    "id":"r200",
+    "ordre":21,
+    "titre":"Échec à la Main Noire",
+    "annee":-283996800000
+  },
+  {
+    "id":"r201",
+    "ordre":21,
+    "titre":"Échec à la Main Noire",
+    "annee":-220924800000
+  },
+  {
+    "id":"r202",
+    "ordre":21,
+    "titre":"Échec à la Main Noire",
+    "annee":-157766400000
+  },
+  {
+    "id":"r203",
+    "ordre":21,
+    "titre":"Échec à la Main Noire",
+    "annee":0
+  },
+  {
+    "id":"r204",
+    "ordre":21,
+    "titre":"Échec à la Main Noire",
+    "annee":283996800000
+  },
+  {
+    "id":"r205",
+    "ordre":21,
+    "titre":"Échec à la Main Noire",
+    "annee":694224000000
+  },
+  {
+    "id":"r206",
+    "ordre":21,
+    "titre":"Échec à la Main Noire",
+    "annee":852076800000
+  },
+  {
+    "id":"r207",
+    "ordre":21,
+    "titre":"Échec à la Main Noire",
+    "annee":null
+  },
+  {
+    "id":"r208",
+    "ordre":21,
+    "titre":"Échec à la Main Noire",
+    "annee":1726617600000
+  },
+  {
+    "id":"r209",
+    "ordre":22,
+    "titre":"Les Démons des cataractes",
+    "annee":-410227200000
+  },
+  {
+    "id":"r210",
+    "ordre":22,
+    "titre":"Les Démons des cataractes",
+    "annee":-378691200000
+  },
+  {
+    "id":"r211",
+    "ordre":22,
+    "titre":"Les Démons des cataractes",
+    "annee":-283996800000
+  },
+  {
+    "id":"r212",
+    "ordre":22,
+    "titre":"Les Démons des cataractes",
+    "annee":-220924800000
+  },
+  {
+    "id":"r213",
+    "ordre":22,
+    "titre":"Les Démons des cataractes",
+    "annee":31536000000
+  },
+  {
+    "id":"r214",
+    "ordre":22,
+    "titre":"Les Démons des cataractes",
+    "annee":852076800000
+  },
+  {
+    "id":"r215",
+    "ordre":22,
+    "titre":"Les Démons des cataractes",
+    "annee":null
+  },
+  {
+    "id":"r216",
+    "ordre":22,
+    "titre":"Les Démons des cataractes",
+    "annee":1726617600000
+  },
+  {
+    "id":"r217",
+    "ordre":23,
+    "titre":"La Fleur du sommeil",
+    "annee":-410227200000
+  },
+  {
+    "id":"r218",
+    "ordre":23,
+    "titre":"La Fleur du sommeil",
+    "annee":-378691200000
+  },
+  {
+    "id":"r219",
+    "ordre":23,
+    "titre":"La Fleur du sommeil",
+    "annee":-283996800000
+  },
+  {
+    "id":"r220",
+    "ordre":23,
+    "titre":"La Fleur du sommeil",
+    "annee":-220924800000
+  },
+  {
+    "id":"r221",
+    "ordre":23,
+    "titre":"La Fleur du sommeil",
+    "annee":0
+  },
+  {
+    "id":"r222",
+    "ordre":23,
+    "titre":"La Fleur du sommeil",
+    "annee":757382400000
+  },
+  {
+    "id":"r223",
+    "ordre":23,
+    "titre":"La Fleur du sommeil",
+    "annee":852076800000
+  },
+  {
+    "id":"r224",
+    "ordre":23,
+    "titre":"La Fleur du sommeil",
+    "annee":null
+  },
+  {
+    "id":"r225",
+    "ordre":23,
+    "titre":"La Fleur du sommeil",
+    "annee":1727222400000
+  },
+  {
+    "id":"r226",
+    "ordre":24,
+    "titre":"L'Idole verte",
+    "annee":-410227200000
+  },
+  {
+    "id":"r227",
+    "ordre":24,
+    "titre":"L'Idole verte",
+    "annee":-283996800000
+  },
+  {
+    "id":"r228",
+    "ordre":24,
+    "titre":"L'Idole verte",
+    "annee":-252460800000
+  },
+  {
+    "id":"r229",
+    "ordre":24,
+    "titre":"L'Idole verte",
+    "annee":0
+  },
+  {
+    "id":"r230",
+    "ordre":24,
+    "titre":"L'Idole verte",
+    "annee":852076800000
+  },
+  {
+    "id":"r231",
+    "ordre":24,
+    "titre":"L'Idole verte",
+    "annee":null
+  },
+  {
+    "id":"r232",
+    "ordre":24,
+    "titre":"L'Idole verte",
+    "annee":1727222400000
+  },
+  {
+    "id":"r233",
+    "ordre":25,
+    "titre":"L'Empereur de Macao",
+    "annee":-378691200000
+  },
+  {
+    "id":"r234",
+    "ordre":25,
+    "titre":"L'Empereur de Macao",
+    "annee":-378691200000
+  },
+  {
+    "id":"r235",
+    "ordre":25,
+    "titre":"L'Empereur de Macao",
+    "annee":-220924800000
+  },
+  {
+    "id":"r236",
+    "ordre":25,
+    "titre":"L'Empereur de Macao",
+    "annee":0
+  },
+  {
+    "id":"r237",
+    "ordre":25,
+    "titre":"L'Empereur de Macao",
+    "annee":252460800000
+  },
+  {
+    "id":"r238",
+    "ordre":25,
+    "titre":"L'Empereur de Macao",
+    "annee":694224000000
+  },
+  {
+    "id":"r239",
+    "ordre":25,
+    "titre":"L'Empereur de Macao",
+    "annee":852076800000
+  },
+  {
+    "id":"r240",
+    "ordre":25,
+    "titre":"L'Empereur de Macao",
+    "annee":null
+  },
+  {
+    "id":"r241",
+    "ordre":25,
+    "titre":"L'Empereur de Macao",
+    "annee":325987200000
+  },
+  {
+    "id":"r242",
+    "ordre":25,
+    "titre":"L'Empereur de Macao",
+    "annee":1727913600000
+  },
+  {
+    "id":"r243",
+    "ordre":26,
+    "titre":"Tempête sur les Andes",
+    "annee":-378691200000
+  },
+  {
+    "id":"r244",
+    "ordre":26,
+    "titre":"Tempête sur les Andes",
+    "annee":-378691200000
+  },
+  {
+    "id":"r245",
+    "ordre":26,
+    "titre":"Tempête sur les Andes",
+    "annee":-220924800000
+  },
+  {
+    "id":"r246",
+    "ordre":26,
+    "titre":"Tempête sur les Andes",
+    "annee":31536000000
+  },
+  {
+    "id":"r247",
+    "ordre":26,
+    "titre":"Tempête sur les Andes",
+    "annee":852076800000
+  },
+  {
+    "id":"r248",
+    "ordre":26,
+    "titre":"Tempête sur les Andes",
+    "annee":null
+  },
+  {
+    "id":"r249",
+    "ordre":26,
+    "titre":"Tempête sur les Andes",
+    "annee":1729296000000
+  },
+  {
+    "id":"r250",
+    "ordre":27,
+    "titre":"L'Orchidée noire",
+    "annee":-378691200000
+  },
+  {
+    "id":"r251",
+    "ordre":27,
+    "titre":"L'Orchidée noire",
+    "annee":-378691200000
+  },
+  {
+    "id":"r252",
+    "ordre":27,
+    "titre":"L'Orchidée noire",
+    "annee":-283996800000
+  },
+  {
+    "id":"r253",
+    "ordre":27,
+    "titre":"L'Orchidée noire",
+    "annee":-252460800000
+  },
+  {
+    "id":"r254",
+    "ordre":27,
+    "titre":"L'Orchidée noire",
+    "annee":-157766400000
+  },
+  {
+    "id":"r255",
+    "ordre":27,
+    "titre":"L'Orchidée noire",
+    "annee":694224000000
+  },
+  {
+    "id":"r256",
+    "ordre":27,
+    "titre":"L'Orchidée noire",
+    "annee":852076800000
+  },
+  {
+    "id":"r257",
+    "ordre":27,
+    "titre":"L'Orchidée noire",
+    "annee":null
+  },
+  {
+    "id":"r258",
+    "ordre":27,
+    "titre":"L'Orchidée noire",
+    "annee":"2025-01-00"
+  },
+  {
+    "id":"r259",
+    "ordre":28,
+    "titre":"Les Compagnons de Damballah",
+    "annee":-378691200000
+  },
+  {
+    "id":"r260",
+    "ordre":28,
+    "titre":"Les Compagnons de Damballah",
+    "annee":-378691200000
+  },
+  {
+    "id":"r261",
+    "ordre":28,
+    "titre":"Les Compagnons de Damballah",
+    "annee":-283996800000
+  },
+  {
+    "id":"r262",
+    "ordre":28,
+    "titre":"Les Compagnons de Damballah",
+    "annee":-252460800000
+  },
+  {
+    "id":"r263",
+    "ordre":28,
+    "titre":"Les Compagnons de Damballah",
+    "annee":-157766400000
+  },
+  {
+    "id":"r264",
+    "ordre":28,
+    "titre":"Les Compagnons de Damballah",
+    "annee":0
+  },
+  {
+    "id":"r265",
+    "ordre":28,
+    "titre":"Les Compagnons de Damballah",
+    "annee":694224000000
+  },
+  {
+    "id":"r266",
+    "ordre":28,
+    "titre":"Les Compagnons de Damballah",
+    "annee":852076800000
+  },
+  {
+    "id":"r267",
+    "ordre":28,
+    "titre":"Les Compagnons de Damballah",
+    "annee":null
+  },
+  {
+    "id":"r268",
+    "ordre":28,
+    "titre":"Les Compagnons de Damballah",
+    "annee":1735862400000
+  },
+  {
+    "id":"r269",
+    "ordre":29,
+    "titre":"Les Géants de la taïga",
+    "annee":-378691200000
+  },
+  {
+    "id":"r270",
+    "ordre":29,
+    "titre":"Les Géants de la taïga",
+    "annee":-378691200000
+  },
+  {
+    "id":"r271",
+    "ordre":29,
+    "titre":"Les Géants de la taïga",
+    "annee":-252460800000
+  },
+  {
+    "id":"r272",
+    "ordre":29,
+    "titre":"Les Géants de la taïga",
+    "annee":-220924800000
+  },
+  {
+    "id":"r273",
+    "ordre":29,
+    "titre":"Les Géants de la taïga",
+    "annee":31536000000
+  },
+  {
+    "id":"r274",
+    "ordre":29,
+    "titre":"Les Géants de la taïga",
+    "annee":252460800000
+  },
+  {
+    "id":"r275",
+    "ordre":29,
+    "titre":"Les Géants de la taïga",
+    "annee":694224000000
+  },
+  {
+    "id":"r276",
+    "ordre":29,
+    "titre":"Les Géants de la taïga",
+    "annee":852076800000
+  },
+  {
+    "id":"r277",
+    "ordre":29,
+    "titre":"Les Géants de la taïga",
+    "annee":null
+  },
+  {
+    "id":"r278",
+    "ordre":29,
+    "titre":"Les Géants de la taïga",
+    "annee":1737331200000
+  },
+  {
+    "id":"r279",
+    "ordre":30,
+    "titre":"Les Dents du tigre - Tome 1 - Les Cavernes d'acier",
+    "annee":1238544000000
+  },
+  {
+    "id":"r280",
+    "ordre":30,
+    "titre":"Les Dents du tigre - Tome 1 - Les Cavernes d'acier",
+    "annee":-378691200000
+  },
+  {
+    "id":"r281",
+    "ordre":30,
+    "titre":"Les Dents du tigre - Tome 1 - Les Cavernes d'acier",
+    "annee":-347155200000
+  },
+  {
+    "id":"r282",
+    "ordre":30,
+    "titre":"Les Dents du tigre - Tome 1 - Les Cavernes d'acier",
+    "annee":-94694400000
+  },
+  {
+    "id":"r283",
+    "ordre":30,
+    "titre":"Les Dents du tigre - Tome 1 - Les Cavernes d'acier",
+    "annee":0
+  },
+  {
+    "id":"r284",
+    "ordre":30,
+    "titre":"Les Dents du tigre - Tome 1 - Les Cavernes d'acier",
+    "annee":599616000000
+  },
+  {
+    "id":"r285",
+    "ordre":30,
+    "titre":"Les Dents du tigre - Tome 1 - Les Cavernes d'acier",
+    "annee":852076800000
+  },
+  {
+    "id":"r286",
+    "ordre":30,
+    "titre":"Les Dents du tigre - Tome 1 - Les Cavernes d'acier",
+    "annee":null
+  },
+  {
+    "id":"r287",
+    "ordre":30,
+    "titre":"Les Dents du tigre - Tome 1 - Les Cavernes d'acier",
+    "annee":1747958400000
+  },
+  {
+    "id":"r288",
+    "ordre":31,
+    "titre":"Les Dents du tigre - Tome 2 - La Terreur verte",
+    "annee":1270080000000
+  },
+  {
+    "id":"r289",
+    "ordre":31,
+    "titre":"Les Dents du tigre - Tome 2 - La Terreur verte",
+    "annee":-350870400000
+  },
+  {
+    "id":"r290",
+    "ordre":31,
+    "titre":"Les Dents du tigre - Tome 2 - La Terreur verte",
+    "annee":-347155200000
+  },
+  {
+    "id":"r291",
+    "ordre":31,
+    "titre":"Les Dents du tigre - Tome 2 - La Terreur verte",
+    "annee":-94694400000
+  },
+  {
+    "id":"r292",
+    "ordre":31,
+    "titre":"Les Dents du tigre - Tome 2 - La Terreur verte",
+    "annee":0
+  },
+  {
+    "id":"r293",
+    "ordre":31,
+    "titre":"Les Dents du tigre - Tome 2 - La Terreur verte",
+    "annee":599616000000
+  },
+  {
+    "id":"r294",
+    "ordre":31,
+    "titre":"Les Dents du tigre - Tome 2 - La Terreur verte",
+    "annee":852076800000
+  },
+  {
+    "id":"r295",
+    "ordre":31,
+    "titre":"Les Dents du tigre - Tome 2 - La Terreur verte",
+    "annee":null
+  },
+  {
+    "id":"r296",
+    "ordre":31,
+    "titre":"Les Dents du tigre - Tome 2 - La Terreur verte",
+    "annee":1750982400000
+  },
+  {
+    "id":"r297",
+    "ordre":32,
+    "titre":"Le Gorille blanc",
+    "annee":-347155200000
+  },
+  {
+    "id":"r298",
+    "ordre":32,
+    "titre":"Le Gorille blanc",
+    "annee":-252460800000
+  },
+  {
+    "id":"r299",
+    "ordre":32,
+    "titre":"Le Gorille blanc",
+    "annee":-157766400000
+  },
+  {
+    "id":"r300",
+    "ordre":32,
+    "titre":"Le Gorille blanc",
+    "annee":0
+  },
+  {
+    "id":"r301",
+    "ordre":32,
+    "titre":"Le Gorille blanc",
+    "annee":252460800000
+  },
+  {
+    "id":"r302",
+    "ordre":32,
+    "titre":"Le Gorille blanc",
+    "annee":725846400000
+  },
+  {
+    "id":"r303",
+    "ordre":32,
+    "titre":"Le Gorille blanc",
+    "annee":820454400000
+  },
+  {
+    "id":"r304",
+    "ordre":32,
+    "titre":"Le Gorille blanc",
+    "annee":852076800000
+  },
+  {
+    "id":"r305",
+    "ordre":32,
+    "titre":"Le Gorille blanc",
+    "annee":null
+  },
+  {
+    "id":"r306",
+    "ordre":32,
+    "titre":"Le Gorille blanc",
+    "annee":1752019200000
+  },
+  {
+    "id":"r307",
+    "ordre":33,
+    "titre":"La Couronne de Golconde",
+    "annee":-347155200000
+  },
+  {
+    "id":"r308",
+    "ordre":33,
+    "titre":"La Couronne de Golconde",
+    "annee":-252460800000
+  },
+  {
+    "id":"r309",
+    "ordre":33,
+    "titre":"La Couronne de Golconde",
+    "annee":-220924800000
+  },
+  {
+    "id":"r310",
+    "ordre":33,
+    "titre":"La Couronne de Golconde",
+    "annee":0
+  },
+  {
+    "id":"r311",
+    "ordre":33,
+    "titre":"La Couronne de Golconde",
+    "annee":252460800000
+  },
+  {
+    "id":"r312",
+    "ordre":33,
+    "titre":"La Couronne de Golconde",
+    "annee":410227200000
+  },
+  {
+    "id":"r313",
+    "ordre":33,
+    "titre":"La Couronne de Golconde",
+    "annee":599616000000
+  },
+  {
+    "id":"r314",
+    "ordre":33,
+    "titre":"La Couronne de Golconde",
+    "annee":820454400000
+  },
+  {
+    "id":"r315",
+    "ordre":33,
+    "titre":"La Couronne de Golconde",
+    "annee":852076800000
+  },
+  {
+    "id":"r316",
+    "ordre":33,
+    "titre":"La Couronne de Golconde",
+    "annee":null
+  },
+  {
+    "id":"r317",
+    "ordre":33,
+    "titre":"La Couronne de Golconde",
+    "annee":null
+  },
+  {
+    "id":"r318",
+    "ordre":33,
+    "titre":"La Couronne de Golconde",
+    "annee":null
+  },
+  {
+    "id":"r319",
+    "ordre":33,
+    "titre":"La Couronne de Golconde",
+    "annee":1752105600000
+  },
+  {
+    "id":"r320",
+    "ordre":34,
+    "titre":"Le Maître du silence",
+    "annee":-347155200000
+  },
+  {
+    "id":"r321",
+    "ordre":34,
+    "titre":"Le Maître du silence",
+    "annee":-252460800000
+  },
+  {
+    "id":"r322",
+    "ordre":34,
+    "titre":"Le Maître du silence",
+    "annee":-157766400000
+  },
+  {
+    "id":"r323",
+    "ordre":34,
+    "titre":"Le Maître du silence",
+    "annee":31536000000
+  },
+  {
+    "id":"r324",
+    "ordre":34,
+    "titre":"Le Maître du silence",
+    "annee":852076800000
+  },
+  {
+    "id":"r325",
+    "ordre":34,
+    "titre":"Le Maître du silence",
+    "annee":null
+  },
+  {
+    "id":"r326",
+    "ordre":34,
+    "titre":"Le Maître du silence",
+    "annee":1752192000000
+  },
+  {
+    "id":"r327",
+    "ordre":35,
+    "titre":"L'Ombre jaune",
+    "annee":-347155200000
+  },
+  {
+    "id":"r328",
+    "ordre":35,
+    "titre":"L'Ombre jaune",
+    "annee":-283996800000
+  },
+  {
+    "id":"r329",
+    "ordre":35,
+    "titre":"L'Ombre jaune",
+    "annee":-252460800000
+  },
+  {
+    "id":"r330",
+    "ordre":35,
+    "titre":"L'Ombre jaune",
+    "annee":-220924800000
+  },
+  {
+    "id":"r331",
+    "ordre":35,
+    "titre":"L'Ombre jaune",
+    "annee":-63158400000
+  },
+  {
+    "id":"r332",
+    "ordre":35,
+    "titre":"L'Ombre jaune",
+    "annee":31536000000
+  },
+  {
+    "id":"r333",
+    "ordre":35,
+    "titre":"L'Ombre jaune",
+    "annee":283996800000
+  },
+  {
+    "id":"r334",
+    "ordre":35,
+    "titre":"L'Ombre jaune",
+    "annee":410227200000
+  },
+  {
+    "id":"r335",
+    "ordre":35,
+    "titre":"L'Ombre jaune",
+    "annee":599616000000
+  },
+  {
+    "id":"r336",
+    "ordre":35,
+    "titre":"L'Ombre jaune",
+    "annee":820454400000
+  },
+  {
+    "id":"r337",
+    "ordre":35,
+    "titre":"L'Ombre jaune",
+    "annee":null
+  },
+  {
+    "id":"r338",
+    "ordre":35,
+    "titre":"L'Ombre jaune",
+    "annee":852076800000
+  },
+  {
+    "id":"r339",
+    "ordre":35,
+    "titre":"L'Ombre jaune",
+    "annee":null
+  },
+  {
+    "id":"r340",
+    "ordre":35,
+    "titre":"L'Ombre jaune",
+    "annee":null
+  },
+  {
+    "id":"r341",
+    "ordre":35,
+    "titre":"L'Ombre jaune",
+    "annee":null
+  },
+  {
+    "id":"r342",
+    "ordre":35,
+    "titre":"L'Ombre jaune",
+    "annee":1752624000000
+  },
+  {
+    "id":"r343",
+    "ordre":36,
+    "titre":"L'Ennemi invisible",
+    "annee":-347155200000
+  },
+  {
+    "id":"r344",
+    "ordre":36,
+    "titre":"L'Ennemi invisible",
+    "annee":-252460800000
+  },
+  {
+    "id":"r345",
+    "ordre":36,
+    "titre":"L'Ennemi invisible",
+    "annee":-157766400000
+  },
+  {
+    "id":"r346",
+    "ordre":36,
+    "titre":"L'Ennemi invisible",
+    "annee":-31536000000
+  },
+  {
+    "id":"r347",
+    "ordre":36,
+    "titre":"L'Ennemi invisible",
+    "annee":725846400000
+  },
+  {
+    "id":"r348",
+    "ordre":36,
+    "titre":"L'Ennemi invisible",
+    "annee":852076800000
+  },
+  {
+    "id":"r349",
+    "ordre":36,
+    "titre":"L'Ennemi invisible",
+    "annee":null
+  },
+  {
+    "id":"r350",
+    "ordre":36,
+    "titre":"L'Ennemi invisible",
+    "annee":1752710400000
+  },
+  {
+    "id":"r351",
+    "ordre":37,
+    "titre":"La Revanche de l'Ombre Jaune",
+    "annee":-347155200000
+  },
+  {
+    "id":"r352",
+    "ordre":37,
+    "titre":"La Revanche de l'Ombre Jaune",
+    "annee":-283996800000
+  },
+  {
+    "id":"r353",
+    "ordre":37,
+    "titre":"La Revanche de l'Ombre Jaune",
+    "annee":-252460800000
+  },
+  {
+    "id":"r354",
+    "ordre":37,
+    "titre":"La Revanche de l'Ombre Jaune",
+    "annee":-220924800000
+  },
+  {
+    "id":"r355",
+    "ordre":37,
+    "titre":"La Revanche de l'Ombre Jaune",
+    "annee":-63158400000
+  },
+  {
+    "id":"r356",
+    "ordre":37,
+    "titre":"La Revanche de l'Ombre Jaune",
+    "annee":0
+  },
+  {
+    "id":"r357",
+    "ordre":37,
+    "titre":"La Revanche de l'Ombre Jaune",
+    "annee":31536000000
+  },
+  {
+    "id":"r358",
+    "ordre":37,
+    "titre":"La Revanche de l'Ombre Jaune",
+    "annee":283996800000
+  },
+  {
+    "id":"r359",
+    "ordre":37,
+    "titre":"La Revanche de l'Ombre Jaune",
+    "annee":410227200000
+  },
+  {
+    "id":"r360",
+    "ordre":37,
+    "titre":"La Revanche de l'Ombre Jaune",
+    "annee":599616000000
+  },
+  {
+    "id":"r361",
+    "ordre":37,
+    "titre":"La Revanche de l'Ombre Jaune",
+    "annee":820454400000
+  },
+  {
+    "id":"r362",
+    "ordre":37,
+    "titre":"La Revanche de l'Ombre Jaune",
+    "annee":852076800000
+  },
+  {
+    "id":"r363",
+    "ordre":37,
+    "titre":"La Revanche de l'Ombre Jaune",
+    "annee":null
+  },
+  {
+    "id":"r364",
+    "ordre":37,
+    "titre":"La Revanche de l'Ombre Jaune",
+    "annee":null
+  },
+  {
+    "id":"r365",
+    "ordre":37,
+    "titre":"La Revanche de l'Ombre Jaune",
+    "annee":null
+  },
+  {
+    "id":"r366",
+    "ordre":37,
+    "titre":"La Revanche de l'Ombre Jaune",
+    "annee":907200000000
+  },
+  {
+    "id":"r367",
+    "ordre":37,
+    "titre":"La Revanche de l'Ombre Jaune",
+    "annee":1752796800000
+  },
+  {
+    "id":"r368",
+    "ordre":38,
+    "titre":"Le Châtiment de l'Ombre Jaune",
+    "annee":-315619200000
+  },
+  {
+    "id":"r369",
+    "ordre":38,
+    "titre":"Le Châtiment de l'Ombre Jaune",
+    "annee":-283996800000
+  },
+  {
+    "id":"r370",
+    "ordre":38,
+    "titre":"Le Châtiment de l'Ombre Jaune",
+    "annee":-252460800000
+  },
+  {
+    "id":"r371",
+    "ordre":38,
+    "titre":"Le Châtiment de l'Ombre Jaune",
+    "annee":-220924800000
+  },
+  {
+    "id":"r372",
+    "ordre":38,
+    "titre":"Le Châtiment de l'Ombre Jaune",
+    "annee":94694400000
+  },
+  {
+    "id":"r373",
+    "ordre":38,
+    "titre":"Le Châtiment de l'Ombre Jaune",
+    "annee":283996800000
+  },
+  {
+    "id":"r374",
+    "ordre":38,
+    "titre":"Le Châtiment de l'Ombre Jaune",
+    "annee":410227200000
+  },
+  {
+    "id":"r375",
+    "ordre":38,
+    "titre":"Le Châtiment de l'Ombre Jaune",
+    "annee":599616000000
+  },
+  {
+    "id":"r376",
+    "ordre":38,
+    "titre":"Le Châtiment de l'Ombre Jaune",
+    "annee":820454400000
+  },
+  {
+    "id":"r377",
+    "ordre":38,
+    "titre":"Le Châtiment de l'Ombre Jaune",
+    "annee":852076800000
+  },
+  {
+    "id":"r378",
+    "ordre":38,
+    "titre":"Le Châtiment de l'Ombre Jaune",
+    "annee":null
+  },
+  {
+    "id":"r379",
+    "ordre":38,
+    "titre":"Le Châtiment de l'Ombre Jaune",
+    "annee":null
+  },
+  {
+    "id":"r380",
+    "ordre":38,
+    "titre":"Le Châtiment de l'Ombre Jaune",
+    "annee":null
+  },
+  {
+    "id":"r381",
+    "ordre":38,
+    "titre":"Le Châtiment de l'Ombre Jaune",
+    "annee":936144000000
+  },
+  {
+    "id":"r382",
+    "ordre":38,
+    "titre":"Le Châtiment de l'Ombre Jaune",
+    "annee":1753228800000
+  },
+  {
+    "id":"r383",
+    "ordre":39,
+    "titre":"L'Espion aux cent visages",
+    "annee":-315619200000
+  },
+  {
+    "id":"r384",
+    "ordre":39,
+    "titre":"L'Espion aux cent visages",
+    "annee":-283996800000
+  },
+  {
+    "id":"r385",
+    "ordre":39,
+    "titre":"L'Espion aux cent visages",
+    "annee":-252460800000
+  },
+  {
+    "id":"r386",
+    "ordre":39,
+    "titre":"L'Espion aux cent visages",
+    "annee":-220924800000
+  },
+  {
+    "id":"r387",
+    "ordre":39,
+    "titre":"L'Espion aux cent visages",
+    "annee":0
+  },
+  {
+    "id":"r388",
+    "ordre":39,
+    "titre":"L'Espion aux cent visages",
+    "annee":852076800000
+  },
+  {
+    "id":"r389",
+    "ordre":39,
+    "titre":"L'Espion aux cent visages",
+    "annee":null
+  },
+  {
+    "id":"r390",
+    "ordre":39,
+    "titre":"L'Espion aux cent visages",
+    "annee":1753315200000
+  },
+  {
+    "id":"r391",
+    "ordre":40,
+    "titre":"Le Diable du Labrador",
+    "annee":-315619200000
+  },
+  {
+    "id":"r392",
+    "ordre":40,
+    "titre":"Le Diable du Labrador",
+    "annee":-252460800000
+  },
+  {
+    "id":"r393",
+    "ordre":40,
+    "titre":"Le Diable du Labrador",
+    "annee":-63158400000
+  },
+  {
+    "id":"r394",
+    "ordre":40,
+    "titre":"Le Diable du Labrador",
+    "annee":0
+  },
+  {
+    "id":"r395",
+    "ordre":40,
+    "titre":"Le Diable du Labrador",
+    "annee":883612800000
+  },
+  {
+    "id":"r396",
+    "ordre":40,
+    "titre":"Le Diable du Labrador",
+    "annee":1753401600000
+  },
+  {
+    "id":"r397",
+    "ordre":41,
+    "titre":"L'Homme aux dents d'or",
+    "annee":1753833600000
+  },
+  {
+    "id":"r398",
+    "ordre":41,
+    "titre":"L'Homme aux dents d'or",
+    "annee":-315619200000
+  },
+  {
+    "id":"r399",
+    "ordre":41,
+    "titre":"L'Homme aux dents d'or",
+    "annee":-252460800000
+  },
+  {
+    "id":"r400",
+    "ordre":41,
+    "titre":"L'Homme aux dents d'or",
+    "annee":-220924800000
+  },
+  {
+    "id":"r401",
+    "ordre":41,
+    "titre":"L'Homme aux dents d'or",
+    "annee":0
+  },
+  {
+    "id":"r402",
+    "ordre":41,
+    "titre":"L'Homme aux dents d'or",
+    "annee":567993600000
+  },
+  {
+    "id":"r403",
+    "ordre":41,
+    "titre":"L'Homme aux dents d'or",
+    "annee":883612800000
+  },
+  {
+    "id":"r404",
+    "ordre":42,
+    "titre":"La Vallée des mille soleils",
+    "annee":-315619200000
+  },
+  {
+    "id":"r405",
+    "ordre":42,
+    "titre":"La Vallée des mille soleils",
+    "annee":-283996800000
+  },
+  {
+    "id":"r406",
+    "ordre":42,
+    "titre":"La Vallée des mille soleils",
+    "annee":-252460800000
+  },
+  {
+    "id":"r407",
+    "ordre":42,
+    "titre":"La Vallée des mille soleils",
+    "annee":-157766400000
+  },
+  {
+    "id":"r408",
+    "ordre":42,
+    "titre":"La Vallée des mille soleils",
+    "annee":null
+  },
+  {
+    "id":"r409",
+    "ordre":42,
+    "titre":"La Vallée des mille soleils",
+    "annee":631152000000
+  },
+  {
+    "id":"r410",
+    "ordre":42,
+    "titre":"La Vallée des mille soleils",
+    "annee":883612800000
+  },
+  {
+    "id":"r411",
+    "ordre":42,
+    "titre":"La Vallée des mille soleils",
+    "annee":1753920000000
+  },
+  {
+    "id":"r412",
+    "ordre":43,
+    "titre":"Le Retour de l'Ombre Jaune",
+    "annee":-315619200000
+  },
+  {
+    "id":"r413",
+    "ordre":43,
+    "titre":"Le Retour de l'Ombre Jaune",
+    "annee":-252460800000
+  },
+  {
+    "id":"r414",
+    "ordre":43,
+    "titre":"Le Retour de l'Ombre Jaune",
+    "annee":-220924800000
+  },
+  {
+    "id":"r415",
+    "ordre":43,
+    "titre":"Le Retour de l'Ombre Jaune",
+    "annee":-63158400000
+  },
+  {
+    "id":"r416",
+    "ordre":43,
+    "titre":"Le Retour de l'Ombre Jaune",
+    "annee":0
+  },
+  {
+    "id":"r417",
+    "ordre":43,
+    "titre":"Le Retour de l'Ombre Jaune",
+    "annee":31536000000
+  },
+  {
+    "id":"r418",
+    "ordre":43,
+    "titre":"Le Retour de l'Ombre Jaune",
+    "annee":283996800000
+  },
+  {
+    "id":"r419",
+    "ordre":43,
+    "titre":"Le Retour de l'Ombre Jaune",
+    "annee":410227200000
+  },
+  {
+    "id":"r420",
+    "ordre":43,
+    "titre":"Le Retour de l'Ombre Jaune",
+    "annee":599616000000
+  },
+  {
+    "id":"r421",
+    "ordre":43,
+    "titre":"Le Retour de l'Ombre Jaune",
+    "annee":820454400000
+  },
+  {
+    "id":"r422",
+    "ordre":43,
+    "titre":"Le Retour de l'Ombre Jaune",
+    "annee":883612800000
+  },
+  {
+    "id":"r423",
+    "ordre":43,
+    "titre":"Le Retour de l'Ombre Jaune",
+    "annee":null
+  },
+  {
+    "id":"r424",
+    "ordre":43,
+    "titre":"Le Retour de l'Ombre Jaune",
+    "annee":null
+  },
+  {
+    "id":"r425",
+    "ordre":43,
+    "titre":"Le Retour de l'Ombre Jaune",
+    "annee":1754006400000
+  },
+  {
+    "id":"r426",
+    "ordre":44,
+    "titre":"Le Démon solitaire",
+    "annee":-315619200000
+  },
+  {
+    "id":"r427",
+    "ordre":44,
+    "titre":"Le Démon solitaire",
+    "annee":-220924800000
+  },
+  {
+    "id":"r428",
+    "ordre":44,
+    "titre":"Le Démon solitaire",
+    "annee":0
+  },
+  {
+    "id":"r429",
+    "ordre":44,
+    "titre":"Le Démon solitaire",
+    "annee":883612800000
+  },
+  {
+    "id":"r430",
+    "ordre":44,
+    "titre":"Le Démon solitaire",
+    "annee":1755820800000
+  },
+  {
+    "id":"r431",
+    "ordre":45,
+    "titre":"Les Mangeurs d'atomes",
+    "annee":-283996800000
+  },
+  {
+    "id":"r432",
+    "ordre":45,
+    "titre":"Les Mangeurs d'atomes",
+    "annee":-252460800000
+  },
+  {
+    "id":"r433",
+    "ordre":45,
+    "titre":"Les Mangeurs d'atomes",
+    "annee":-157766400000
+  },
+  {
+    "id":"r434",
+    "ordre":45,
+    "titre":"Les Mangeurs d'atomes",
+    "annee":0
+  },
+  {
+    "id":"r435",
+    "ordre":45,
+    "titre":"Les Mangeurs d'atomes",
+    "annee":283996800000
+  },
+  {
+    "id":"r436",
+    "ordre":45,
+    "titre":"Les Mangeurs d'atomes",
+    "annee":883612800000
+  },
+  {
+    "id":"r437",
+    "ordre":45,
+    "titre":"Les Mangeurs d'atomes",
+    "annee":1756252800000
+  },
+  {
+    "id":"r438",
+    "ordre":46,
+    "titre":"Le Temple des crocodiles",
+    "annee":-283996800000
+  },
+  {
+    "id":"r439",
+    "ordre":46,
+    "titre":"Le Temple des crocodiles",
+    "annee":-220924800000
+  },
+  {
+    "id":"r440",
+    "ordre":46,
+    "titre":"Le Temple des crocodiles",
+    "annee":0
+  },
+  {
+    "id":"r441",
+    "ordre":46,
+    "titre":"Le Temple des crocodiles",
+    "annee":883612800000
+  },
+  {
+    "id":"r442",
+    "ordre":46,
+    "titre":"Le Temple des crocodiles",
+    "annee":638928000000
+  },
+  {
+    "id":"r443",
+    "ordre":46,
+    "titre":"Le Temple des crocodiles",
+    "annee":1756339200000
+  },
+  {
+    "id":"r444",
+    "ordre":47,
+    "titre":"Le Tigre des lagunes",
+    "annee":-283996800000
+  },
+  {
+    "id":"r445",
+    "ordre":47,
+    "titre":"Le Tigre des lagunes",
+    "annee":-220924800000
+  },
+  {
+    "id":"r446",
+    "ordre":47,
+    "titre":"Le Tigre des lagunes",
+    "annee":-63158400000
+  },
+  {
+    "id":"r447",
+    "ordre":47,
+    "titre":"Le Tigre des lagunes",
+    "annee":0
+  },
+  {
+    "id":"r448",
+    "ordre":47,
+    "titre":"Le Tigre des lagunes",
+    "annee":567993600000
+  },
+  {
+    "id":"r449",
+    "ordre":47,
+    "titre":"Le Tigre des lagunes",
+    "annee":883612800000
+  },
+  {
+    "id":"r450",
+    "ordre":47,
+    "titre":"Le Tigre des lagunes",
+    "annee":615254400000
+  },
+  {
+    "id":"r451",
+    "ordre":47,
+    "titre":"Le Tigre des lagunes",
+    "annee":1756425600000
+  },
+  {
+    "id":"r452",
+    "ordre":48,
+    "titre":"Le Dragon des Fenstone",
+    "annee":-283996800000
+  },
+  {
+    "id":"r453",
+    "ordre":48,
+    "titre":"Le Dragon des Fenstone",
+    "annee":-157766400000
+  },
+  {
+    "id":"r454",
+    "ordre":48,
+    "titre":"Le Dragon des Fenstone",
+    "annee":-63158400000
+  },
+  {
+    "id":"r455",
+    "ordre":48,
+    "titre":"Le Dragon des Fenstone",
+    "annee":315532800000
+  },
+  {
+    "id":"r456",
+    "ordre":48,
+    "titre":"Le Dragon des Fenstone",
+    "annee":883612800000
+  },
+  {
+    "id":"r457",
+    "ordre":48,
+    "titre":"Le Dragon des Fenstone",
+    "annee":318211200000
+  },
+  {
+    "id":"r458",
+    "ordre":48,
+    "titre":"Le Dragon des Fenstone",
+    "annee":"2025-08-00"
+  },
+  {
+    "id":"r459",
+    "ordre":49,
+    "titre":"Trafic aux Caraïbes",
+    "annee":-283996800000
+  },
+  {
+    "id":"r460",
+    "ordre":49,
+    "titre":"Trafic aux Caraïbes",
+    "annee":-220924800000
+  },
+  {
+    "id":"r461",
+    "ordre":49,
+    "titre":"Trafic aux Caraïbes",
+    "annee":0
+  },
+  {
+    "id":"r462",
+    "ordre":49,
+    "titre":"Trafic aux Caraïbes",
+    "annee":252460800000
+  },
+  {
+    "id":"r463",
+    "ordre":49,
+    "titre":"Trafic aux Caraïbes",
+    "annee":883612800000
+  },
+  {
+    "id":"r464",
+    "ordre":49,
+    "titre":"Trafic aux Caraïbes",
+    "annee":1756944000000
+  },
+  {
+    "id":"r465",
+    "ordre":50,
+    "titre":"Les Sosies de l'Ombre Jaune",
+    "annee":-283996800000
+  },
+  {
+    "id":"r466",
+    "ordre":50,
+    "titre":"Les Sosies de l'Ombre Jaune",
+    "annee":-220924800000
+  },
+  {
+    "id":"r467",
+    "ordre":50,
+    "titre":"Les Sosies de l'Ombre Jaune",
+    "annee":-63158400000
+  },
+  {
+    "id":"r468",
+    "ordre":50,
+    "titre":"Les Sosies de l'Ombre Jaune",
+    "annee":0
+  },
+  {
+    "id":"r469",
+    "ordre":50,
+    "titre":"Les Sosies de l'Ombre Jaune",
+    "annee":31536000000
+  },
+  {
+    "id":"r470",
+    "ordre":50,
+    "titre":"Les Sosies de l'Ombre Jaune",
+    "annee":567993600000
+  },
+  {
+    "id":"r471",
+    "ordre":50,
+    "titre":"Les Sosies de l'Ombre Jaune",
+    "annee":820454400000
+  },
+  {
+    "id":"r472",
+    "ordre":50,
+    "titre":"Les Sosies de l'Ombre Jaune",
+    "annee":883612800000
+  },
+  {
+    "id":"r473",
+    "ordre":50,
+    "titre":"Les Sosies de l'Ombre Jaune",
+    "annee":null
+  },
+  {
+    "id":"r474",
+    "ordre":50,
+    "titre":"Les Sosies de l'Ombre Jaune",
+    "annee":null
+  },
+  {
+    "id":"r475",
+    "ordre":50,
+    "titre":"Les Sosies de l'Ombre Jaune",
+    "annee":1757030400000
+  },
+  {
+    "id":"r476",
+    "ordre":51,
+    "titre":"Formule X-33",
+    "annee":-252460800000
+  },
+  {
+    "id":"r477",
+    "ordre":51,
+    "titre":"Formule X-33",
+    "annee":-157766400000
+  },
+  {
+    "id":"r478",
+    "ordre":51,
+    "titre":"Formule X-33",
+    "annee":0
+  },
+  {
+    "id":"r479",
+    "ordre":51,
+    "titre":"Formule X-33",
+    "annee":157766400000
+  },
+  {
+    "id":"r480",
+    "ordre":51,
+    "titre":"Formule X-33",
+    "annee":410227200000
+  },
+  {
+    "id":"r481",
+    "ordre":51,
+    "titre":"Formule X-33",
+    "annee":883612800000
+  },
+  {
+    "id":"r482",
+    "ordre":51,
+    "titre":"Formule X-33",
+    "annee":1757462400000
+  },
+  {
+    "id":"r483",
+    "ordre":52,
+    "titre":"Le Lagon aux requins",
+    "annee":-252460800000
+  },
+  {
+    "id":"r484",
+    "ordre":52,
+    "titre":"Le Lagon aux requins",
+    "annee":-157766400000
+  },
+  {
+    "id":"r485",
+    "ordre":52,
+    "titre":"Le Lagon aux requins",
+    "annee":-31536000000
+  },
+  {
+    "id":"r486",
+    "ordre":52,
+    "titre":"Le Lagon aux requins",
+    "annee":0
+  },
+  {
+    "id":"r487",
+    "ordre":52,
+    "titre":"Le Lagon aux requins",
+    "annee":883612800000
+  },
+  {
+    "id":"r488",
+    "ordre":52,
+    "titre":"Le Lagon aux requins",
+    "annee":1757548800000
+  },
+  {
+    "id":"r489",
+    "ordre":53,
+    "titre":"Le Masque bleu",
+    "annee":-252460800000
+  },
+  {
+    "id":"r490",
+    "ordre":53,
+    "titre":"Le Masque bleu",
+    "annee":-220924800000
+  },
+  {
+    "id":"r491",
+    "ordre":53,
+    "titre":"Le Masque bleu",
+    "annee":-31536000000
+  },
+  {
+    "id":"r492",
+    "ordre":53,
+    "titre":"Le Masque bleu",
+    "annee":0
+  },
+  {
+    "id":"r493",
+    "ordre":53,
+    "titre":"Le Masque bleu",
+    "annee":883612800000
+  },
+  {
+    "id":"r494",
+    "ordre":53,
+    "titre":"Le Masque bleu",
+    "annee":1757635200000
+  },
+  {
+    "id":"r495",
+    "ordre":54,
+    "titre":"Les Semeurs de foudre",
+    "annee":-252460800000
+  },
+  {
+    "id":"r496",
+    "ordre":54,
+    "titre":"Les Semeurs de foudre",
+    "annee":-220924800000
+  },
+  {
+    "id":"r497",
+    "ordre":54,
+    "titre":"Les Semeurs de foudre",
+    "annee":-157766400000
+  },
+  {
+    "id":"r498",
+    "ordre":54,
+    "titre":"Les Semeurs de foudre",
+    "annee":-31536000000
+  },
+  {
+    "id":"r499",
+    "ordre":54,
+    "titre":"Les Semeurs de foudre",
+    "annee":0
+  },
+  {
+    "id":"r500",
+    "ordre":54,
+    "titre":"Les Semeurs de foudre",
+    "annee":157766400000
+  },
+  {
+    "id":"r501",
+    "ordre":54,
+    "titre":"Les Semeurs de foudre",
+    "annee":599616000000
+  },
+  {
+    "id":"r502",
+    "ordre":54,
+    "titre":"Les Semeurs de foudre",
+    "annee":883612800000
+  },
+  {
+    "id":"r503",
+    "ordre":54,
+    "titre":"Les Semeurs de foudre",
+    "annee":1758067200000
+  },
+  {
+    "id":"r504",
+    "ordre":55,
+    "titre":"Le Club des longs couteaux",
+    "annee":-252460800000
+  },
+  {
+    "id":"r505",
+    "ordre":55,
+    "titre":"Le Club des longs couteaux",
+    "annee":-220924800000
+  },
+  {
+    "id":"r506",
+    "ordre":55,
+    "titre":"Le Club des longs couteaux",
+    "annee":-157766400000
+  },
+  {
+    "id":"r507",
+    "ordre":55,
+    "titre":"Le Club des longs couteaux",
+    "annee":0
+  },
+  {
+    "id":"r508",
+    "ordre":55,
+    "titre":"Le Club des longs couteaux",
+    "annee":252460800000
+  },
+  {
+    "id":"r509",
+    "ordre":55,
+    "titre":"Le Club des longs couteaux",
+    "annee":883612800000
+  },
+  {
+    "id":"r510",
+    "ordre":55,
+    "titre":"Le Club des longs couteaux",
+    "annee":1758153600000
+  },
+  {
+    "id":"r511",
+    "ordre":56,
+    "titre":"La Voix du mainate",
+    "annee":-252460800000
+  },
+  {
+    "id":"r512",
+    "ordre":56,
+    "titre":"La Voix du mainate",
+    "annee":-220924800000
+  },
+  {
+    "id":"r513",
+    "ordre":56,
+    "titre":"La Voix du mainate",
+    "annee":0
+  },
+  {
+    "id":"r514",
+    "ordre":56,
+    "titre":"La Voix du mainate",
+    "annee":883612800000
+  },
+  {
+    "id":"r515",
+    "ordre":56,
+    "titre":"La Voix du mainate",
+    "annee":1758153600000
+  },
+  {
+    "id":"r516",
+    "ordre":57,
+    "titre":"Les Yeux de l'Ombre Jaune",
+    "annee":-252460800000
+  },
+  {
+    "id":"r517",
+    "ordre":57,
+    "titre":"Les Yeux de l'Ombre Jaune",
+    "annee":-220924800000
+  },
+  {
+    "id":"r518",
+    "ordre":57,
+    "titre":"Les Yeux de l'Ombre Jaune",
+    "annee":-31536000000
+  },
+  {
+    "id":"r519",
+    "ordre":57,
+    "titre":"Les Yeux de l'Ombre Jaune",
+    "annee":0
+  },
+  {
+    "id":"r520",
+    "ordre":57,
+    "titre":"Les Yeux de l'Ombre Jaune",
+    "annee":31536000000
+  },
+  {
+    "id":"r521",
+    "ordre":57,
+    "titre":"Les Yeux de l'Ombre Jaune",
+    "annee":599616000000
+  },
+  {
+    "id":"r522",
+    "ordre":57,
+    "titre":"Les Yeux de l'Ombre Jaune",
+    "annee":820454400000
+  },
+  {
+    "id":"r523",
+    "ordre":57,
+    "titre":"Les Yeux de l'Ombre Jaune",
+    "annee":883612800000
+  },
+  {
+    "id":"r524",
+    "ordre":57,
+    "titre":"Les Yeux de l'Ombre Jaune",
+    "annee":null
+  },
+  {
+    "id":"r525",
+    "ordre":57,
+    "titre":"Les Yeux de l'Ombre Jaune",
+    "annee":null
+  },
+  {
+    "id":"r526",
+    "ordre":57,
+    "titre":"Les Yeux de l'Ombre Jaune",
+    "annee":1758240000000
+  },
+  {
+    "id":"r527",
+    "ordre":58,
+    "titre":"La Guerre des baleines",
+    "annee":-220924800000
+  },
+  {
+    "id":"r528",
+    "ordre":58,
+    "titre":"La Guerre des baleines",
+    "annee":-157766400000
+  },
+  {
+    "id":"r529",
+    "ordre":58,
+    "titre":"La Guerre des baleines",
+    "annee":0
+  },
+  {
+    "id":"r530",
+    "ordre":58,
+    "titre":"La Guerre des baleines",
+    "annee":157766400000
+  },
+  {
+    "id":"r531",
+    "ordre":58,
+    "titre":"La Guerre des baleines",
+    "annee":283996800000
+  },
+  {
+    "id":"r532",
+    "ordre":58,
+    "titre":"La Guerre des baleines",
+    "annee":915148800000
+  },
+  {
+    "id":"r533",
+    "ordre":58,
+    "titre":"La Guerre des baleines",
+    "annee":499651200000
+  },
+  {
+    "id":"r534",
+    "ordre":58,
+    "titre":"La Guerre des baleines",
+    "annee":1758672000000
+  },
+  {
+    "id":"r535",
+    "ordre":59,
+    "titre":"Les Sept Croix de plomb",
+    "annee":-220924800000
+  },
+  {
+    "id":"r536",
+    "ordre":59,
+    "titre":"Les Sept Croix de plomb",
+    "annee":-220924800000
+  },
+  {
+    "id":"r537",
+    "ordre":59,
+    "titre":"Les Sept Croix de plomb",
+    "annee":157766400000
+  },
+  {
+    "id":"r538",
+    "ordre":59,
+    "titre":"Les Sept Croix de plomb",
+    "annee":915148800000
+  },
+  {
+    "id":"r539",
+    "ordre":59,
+    "titre":"Les Sept Croix de plomb",
+    "annee":189302400000
+  },
+  {
+    "id":"r540",
+    "ordre":59,
+    "titre":"Les Sept Croix de plomb",
+    "annee":1757894400000
+  },
+  {
+    "id":"r541",
+    "ordre":60,
+    "titre":"Opération Wolf",
+    "annee":-220924800000
+  },
+  {
+    "id":"r542",
+    "ordre":60,
+    "titre":"Opération Wolf",
+    "annee":0
+  },
+  {
+    "id":"r543",
+    "ordre":60,
+    "titre":"Opération Wolf",
+    "annee":157766400000
+  },
+  {
+    "id":"r544",
+    "ordre":60,
+    "titre":"Opération Wolf",
+    "annee":315532800000
+  },
+  {
+    "id":"r545",
+    "ordre":60,
+    "titre":"Opération Wolf",
+    "annee":631152000000
+  },
+  {
+    "id":"r546",
+    "ordre":60,
+    "titre":"Opération Wolf",
+    "annee":820454400000
+  },
+  {
+    "id":"r547",
+    "ordre":60,
+    "titre":"Opération Wolf",
+    "annee":915148800000
+  },
+  {
+    "id":"r548",
+    "ordre":60,
+    "titre":"Opération Wolf",
+    "annee":315532800000
+  },
+  {
+    "id":"r549",
+    "ordre":60,
+    "titre":"Opération Wolf",
+    "annee":1758758400000
+  },
+  {
+    "id":"r550",
+    "ordre":61,
+    "titre":"La Rivière de perles",
+    "annee":-220924800000
+  },
+  {
+    "id":"r551",
+    "ordre":61,
+    "titre":"La Rivière de perles",
+    "annee":-31536000000
+  },
+  {
+    "id":"r552",
+    "ordre":61,
+    "titre":"La Rivière de perles",
+    "annee":157766400000
+  },
+  {
+    "id":"r553",
+    "ordre":61,
+    "titre":"La Rivière de perles",
+    "annee":410227200000
+  },
+  {
+    "id":"r554",
+    "ordre":61,
+    "titre":"La Rivière de perles",
+    "annee":915148800000
+  },
+  {
+    "id":"r555",
+    "ordre":61,
+    "titre":"La Rivière de perles",
+    "annee":1758844800000
+  },
+  {
+    "id":"r556",
+    "ordre":62,
+    "titre":"La Vapeur du Passé",
+    "annee":-220924800000
+  },
+  {
+    "id":"r557",
+    "ordre":62,
+    "titre":"La Vapeur du Passé",
+    "annee":-31536000000
+  },
+  {
+    "id":"r558",
+    "ordre":62,
+    "titre":"La Vapeur du Passé",
+    "annee":157766400000
+  },
+  {
+    "id":"r559",
+    "ordre":62,
+    "titre":"La Vapeur du Passé",
+    "annee":315532800000
+  },
+  {
+    "id":"r560",
+    "ordre":62,
+    "titre":"La Vapeur du Passé",
+    "annee":410227200000
+  },
+  {
+    "id":"r561",
+    "ordre":62,
+    "titre":"La Vapeur du Passé",
+    "annee":915148800000
+  },
+  {
+    "id":"r562",
+    "ordre":62,
+    "titre":"La Vapeur du Passé",
+    "annee":1759276800000
+  },
+  {
+    "id":"r563",
+    "ordre":63,
+    "titre":"L'Héritage de l'Ombre Jaune",
+    "annee":-220924800000
+  },
+  {
+    "id":"r564",
+    "ordre":63,
+    "titre":"L'Héritage de l'Ombre Jaune",
+    "annee":-157766400000
+  },
+  {
+    "id":"r565",
+    "ordre":63,
+    "titre":"L'Héritage de l'Ombre Jaune",
+    "annee":-31536000000
+  },
+  {
+    "id":"r566",
+    "ordre":63,
+    "titre":"L'Héritage de l'Ombre Jaune",
+    "annee":-31536000000
+  },
+  {
+    "id":"r567",
+    "ordre":63,
+    "titre":"L'Héritage de l'Ombre Jaune",
+    "annee":31536000000
+  },
+  {
+    "id":"r568",
+    "ordre":63,
+    "titre":"L'Héritage de l'Ombre Jaune",
+    "annee":820454400000
+  },
+  {
+    "id":"r569",
+    "ordre":63,
+    "titre":"L'Héritage de l'Ombre Jaune",
+    "annee":915148800000
+  },
+  {
+    "id":"r570",
+    "ordre":63,
+    "titre":"L'Héritage de l'Ombre Jaune",
+    "annee":null
+  },
+  {
+    "id":"r571",
+    "ordre":63,
+    "titre":"L'Héritage de l'Ombre Jaune",
+    "annee":null
+  },
+  {
+    "id":"r572",
+    "ordre":63,
+    "titre":"L'Héritage de l'Ombre Jaune",
+    "annee":1759363200000
+  },
+  {
+    "id":"r573",
+    "ordre":64,
+    "titre":"Mission à Orly",
+    "annee":-189388800000
+  },
+  {
+    "id":"r574",
+    "ordre":64,
+    "titre":"Mission à Orly",
+    "annee":0
+  },
+  {
+    "id":"r575",
+    "ordre":64,
+    "titre":"Mission à Orly",
+    "annee":599616000000
+  },
+  {
+    "id":"r576",
+    "ordre":64,
+    "titre":"Mission à Orly",
+    "annee":915148800000
+  },
+  {
+    "id":"r577",
+    "ordre":64,
+    "titre":"Mission à Orly",
+    "annee":1759449600000
+  },
+  {
+    "id":"r578",
+    "ordre":65,
+    "titre":"L'Oeil d'émeraude",
+    "annee":-189388800000
+  },
+  {
+    "id":"r579",
+    "ordre":65,
+    "titre":"L'Oeil d'émeraude",
+    "annee":null
+  },
+  {
+    "id":"r580",
+    "ordre":65,
+    "titre":"L'Oeil d'émeraude",
+    "annee":915148800000
+  },
+  {
+    "id":"r581",
+    "ordre":65,
+    "titre":"L'Oeil d'émeraude",
+    "annee":null
+  },
+  {
+    "id":"r582",
+    "ordre":65,
+    "titre":"L'Oeil d'émeraude",
+    "annee":1759449600000
+  },
+  {
+    "id":"r583",
+    "ordre":65,
+    "titre":"L'Oeil d'émeraude",
+    "annee":-189388800000
+  },
+  {
+    "id":"r584",
+    "ordre":65,
+    "titre":"L'Oeil d'émeraude",
+    "annee":0
+  },
+  {
+    "id":"r585",
+    "ordre":65,
+    "titre":"L'Oeil d'émeraude",
+    "annee":599616000000
+  },
+  {
+    "id":"r586",
+    "ordre":65,
+    "titre":"L'Oeil d'émeraude",
+    "annee":915148800000
+  },
+  {
+    "id":"r587",
+    "ordre":66,
+    "titre":"Les Joyaux du maharajah",
+    "annee":-189388800000
+  },
+  {
+    "id":"r588",
+    "ordre":66,
+    "titre":"Les Joyaux du maharajah",
+    "annee":-31536000000
+  },
+  {
+    "id":"r589",
+    "ordre":66,
+    "titre":"Les Joyaux du maharajah",
+    "annee":-31536000000
+  },
+  {
+    "id":"r590",
+    "ordre":66,
+    "titre":"Les Joyaux du maharajah",
+    "annee":157766400000
+  },
+  {
+    "id":"r591",
+    "ordre":66,
+    "titre":"Les Joyaux du maharajah",
+    "annee":915148800000
+  },
+  {
+    "id":"r592",
+    "ordre":66,
+    "titre":"Les Joyaux du maharajah",
+    "annee":1760054400000
+  },
+  {
+    "id":"r593",
+    "ordre":67,
+    "titre":"Escale à Felicidad",
+    "annee":null
+  },
+  {
+    "id":"r594",
+    "ordre":67,
+    "titre":"Escale à Felicidad",
+    "annee":-189388800000
+  },
+  {
+    "id":"r595",
+    "ordre":67,
+    "titre":"Escale à Felicidad",
+    "annee":31536000000
+  },
+  {
+    "id":"r596",
+    "ordre":67,
+    "titre":"Escale à Felicidad",
+    "annee":915148800000
+  },
+  {
+    "id":"r597",
+    "ordre":67,
+    "titre":"Escale à Felicidad",
+    "annee":1760054400000
+  },
+  {
+    "id":"r598",
+    "ordre":68,
+    "titre":"L'Ennemi masqué",
+    "annee":-189388800000
+  },
+  {
+    "id":"r599",
+    "ordre":68,
+    "titre":"L'Ennemi masqué",
+    "annee":31536000000
+  },
+  {
+    "id":"r600",
+    "ordre":68,
+    "titre":"L'Ennemi masqué",
+    "annee":410227200000
+  },
+  {
+    "id":"r601",
+    "ordre":68,
+    "titre":"L'Ennemi masqué",
+    "annee":915148800000
+  },
+  {
+    "id":"r602",
+    "ordre":68,
+    "titre":"L'Ennemi masqué",
+    "annee":1760486400000
+  },
+  {
+    "id":"r603",
+    "ordre":69,
+    "titre":"S.S.S.",
+    "annee":-189388800000
+  },
+  {
+    "id":"r604",
+    "ordre":69,
+    "titre":"S.S.S.",
+    "annee":-31536000000
+  },
+  {
+    "id":"r605",
+    "ordre":69,
+    "titre":"S.S.S.",
+    "annee":31536000000
+  },
+  {
+    "id":"r606",
+    "ordre":69,
+    "titre":"S.S.S.",
+    "annee":631152000000
+  },
+  {
+    "id":"r607",
+    "ordre":69,
+    "titre":"S.S.S.",
+    "annee":915148800000
+  },
+  {
+    "id":"r608",
+    "ordre":69,
+    "titre":"S.S.S.",
+    "annee":null
+  },
+  {
+    "id":"r609",
+    "ordre":69,
+    "titre":"S.S.S.",
+    "annee":null
+  },
+  {
+    "id":"r610",
+    "ordre":69,
+    "titre":"S.S.S.",
+    "annee":null
+  },
+  {
+    "id":"r611",
+    "ordre":69,
+    "titre":"S.S.S.",
+    "annee":1760572800000
+  },
+  {
+    "id":"r612",
+    "ordre":70,
+    "titre":"Le Camion infernal",
+    "annee":-189388800000
+  },
+  {
+    "id":"r613",
+    "ordre":70,
+    "titre":"Le Camion infernal",
+    "annee":-63158400000
+  },
+  {
+    "id":"r614",
+    "ordre":70,
+    "titre":"Le Camion infernal",
+    "annee":31536000000
+  },
+  {
+    "id":"r615",
+    "ordre":70,
+    "titre":"Le Camion infernal",
+    "annee":946684800000
+  },
+  {
+    "id":"r616",
+    "ordre":70,
+    "titre":"Le Camion infernal",
+    "annee":1760572800000
+  },
+  {
+    "id":"r617",
+    "ordre":71,
+    "titre":"Terreur à la Manicouagan",
+    "annee":-157766400000
+  },
+  {
+    "id":"r618",
+    "ordre":71,
+    "titre":"Terreur à la Manicouagan",
+    "annee":-31536000000
+  },
+  {
+    "id":"r619",
+    "ordre":71,
+    "titre":"Terreur à la Manicouagan",
+    "annee":757382400000
+  },
+  {
+    "id":"r620",
+    "ordre":71,
+    "titre":"Terreur à la Manicouagan",
+    "annee":946684800000
+  },
+  {
+    "id":"r621",
+    "ordre":71,
+    "titre":"Terreur à la Manicouagan",
+    "annee":null
+  },
+  {
+    "id":"r622",
+    "ordre":71,
+    "titre":"Terreur à la Manicouagan",
+    "annee":1760659200000
+  },
+  {
+    "id":"r623",
+    "ordre":72,
+    "titre":"Les Guerriers de l'Ombre Jaune",
+    "annee":-157766400000
+  },
+  {
+    "id":"r624",
+    "ordre":72,
+    "titre":"Les Guerriers de l'Ombre Jaune",
+    "annee":-31536000000
+  },
+  {
+    "id":"r625",
+    "ordre":72,
+    "titre":"Les Guerriers de l'Ombre Jaune",
+    "annee":31536000000
+  },
+  {
+    "id":"r626",
+    "ordre":72,
+    "titre":"Les Guerriers de l'Ombre Jaune",
+    "annee":883612800000
+  },
+  {
+    "id":"r627",
+    "ordre":72,
+    "titre":"Les Guerriers de l'Ombre Jaune",
+    "annee":946684800000
+  },
+  {
+    "id":"r628",
+    "ordre":72,
+    "titre":"Les Guerriers de l'Ombre Jaune",
+    "annee":null
+  },
+  {
+    "id":"r629",
+    "ordre":72,
+    "titre":"Les Guerriers de l'Ombre Jaune",
+    "annee":null
+  },
+  {
+    "id":"r630",
+    "ordre":72,
+    "titre":"Les Guerriers de l'Ombre Jaune",
+    "annee":378691200000
+  },
+  {
+    "id":"r631",
+    "ordre":72,
+    "titre":"Les Guerriers de l'Ombre Jaune",
+    "annee":1761091200000
+  },
+  {
+    "id":"r632",
+    "ordre":73,
+    "titre":"Le Président ne mourra pas",
+    "annee":-157766400000
+  },
+  {
+    "id":"r633",
+    "ordre":73,
+    "titre":"Le Président ne mourra pas",
+    "annee":-63158400000
+  },
+  {
+    "id":"r634",
+    "ordre":73,
+    "titre":"Le Président ne mourra pas",
+    "annee":283996800000
+  },
+  {
+    "id":"r635",
+    "ordre":73,
+    "titre":"Le Président ne mourra pas",
+    "annee":631152000000
+  },
+  {
+    "id":"r636",
+    "ordre":73,
+    "titre":"Le Président ne mourra pas",
+    "annee":946684800000
+  },
+  {
+    "id":"r637",
+    "ordre":73,
+    "titre":"Le Président ne mourra pas",
+    "annee":428544000000
+  },
+  {
+    "id":"r638",
+    "ordre":73,
+    "titre":"Le Président ne mourra pas",
+    "annee":1761091200000
+  },
+  {
+    "id":"r639",
+    "ordre":74,
+    "titre":"Le Secret de l'Antarctique",
+    "annee":-157766400000
+  },
+  {
+    "id":"r640",
+    "ordre":74,
+    "titre":"Le Secret de l'Antarctique",
+    "annee":-31536000000
+  },
+  {
+    "id":"r641",
+    "ordre":74,
+    "titre":"Le Secret de l'Antarctique",
+    "annee":157766400000
+  },
+  {
+    "id":"r642",
+    "ordre":74,
+    "titre":"Le Secret de l'Antarctique",
+    "annee":1104537600000
+  },
+  {
+    "id":"r643",
+    "ordre":74,
+    "titre":"Le Secret de l'Antarctique",
+    "annee":null
+  },
+  {
+    "id":"r644",
+    "ordre":74,
+    "titre":"Le Secret de l'Antarctique",
+    "annee":946684800000
+  },
+  {
+    "id":"r645",
+    "ordre":74,
+    "titre":"Le Secret de l'Antarctique",
+    "annee":null
+  },
+  {
+    "id":"r646",
+    "ordre":74,
+    "titre":"Le Secret de l'Antarctique",
+    "annee":1761177600000
+  },
+  {
+    "id":"r647",
+    "ordre":75,
+    "titre":"La Cité de l'Ombre Jaune",
+    "annee":-157766400000
+  },
+  {
+    "id":"r648",
+    "ordre":75,
+    "titre":"La Cité de l'Ombre Jaune",
+    "annee":0
+  },
+  {
+    "id":"r649",
+    "ordre":75,
+    "titre":"La Cité de l'Ombre Jaune",
+    "annee":31536000000
+  },
+  {
+    "id":"r650",
+    "ordre":75,
+    "titre":"La Cité de l'Ombre Jaune",
+    "annee":883612800000
+  },
+  {
+    "id":"r651",
+    "ordre":75,
+    "titre":"La Cité de l'Ombre Jaune",
+    "annee":946684800000
+  },
+  {
+    "id":"r652",
+    "ordre":75,
+    "titre":"La Cité de l'Ombre Jaune",
+    "annee":null
+  },
+  {
+    "id":"r653",
+    "ordre":75,
+    "titre":"La Cité de l'Ombre Jaune",
+    "annee":null
+  },
+  {
+    "id":"r654",
+    "ordre":75,
+    "titre":"La Cité de l'Ombre Jaune",
+    "annee":1761177600000
+  },
+  {
+    "id":"r655",
+    "ordre":76,
+    "titre":"Les Jardins de l'Ombre Jaune",
+    "annee":-126230400000
+  },
+  {
+    "id":"r656",
+    "ordre":76,
+    "titre":"Les Jardins de l'Ombre Jaune",
+    "annee":0
+  },
+  {
+    "id":"r657",
+    "ordre":76,
+    "titre":"Les Jardins de l'Ombre Jaune",
+    "annee":0
+  },
+  {
+    "id":"r658",
+    "ordre":76,
+    "titre":"Les Jardins de l'Ombre Jaune",
+    "annee":883612800000
+  },
+  {
+    "id":"r659",
+    "ordre":76,
+    "titre":"Les Jardins de l'Ombre Jaune",
+    "annee":946684800000
+  },
+  {
+    "id":"r660",
+    "ordre":76,
+    "titre":"Les Jardins de l'Ombre Jaune",
+    "annee":null
+  },
+  {
+    "id":"r661",
+    "ordre":76,
+    "titre":"Les Jardins de l'Ombre Jaune",
+    "annee":null
+  },
+  {
+    "id":"r662",
+    "ordre":76,
+    "titre":"Les Jardins de l'Ombre Jaune",
+    "annee":1761177600000
+  },
+  {
+    "id":"r663",
+    "ordre":77,
+    "titre":"Le Collier de Civa",
+    "annee":-126230400000
+  },
+  {
+    "id":"r664",
+    "ordre":77,
+    "titre":"Le Collier de Civa",
+    "annee":-31536000000
+  },
+  {
+    "id":"r665",
+    "ordre":77,
+    "titre":"Le Collier de Civa",
+    "annee":0
+  },
+  {
+    "id":"r666",
+    "ordre":77,
+    "titre":"Le Collier de Civa",
+    "annee":1104537600000
+  },
+  {
+    "id":"r667",
+    "ordre":77,
+    "titre":"Le Collier de Civa",
+    "annee":null
+  },
+  {
+    "id":"r668",
+    "ordre":77,
+    "titre":"Le Collier de Civa",
+    "annee":946684800000
+  },
+  {
+    "id":"r669",
+    "ordre":78,
+    "titre":"Organisation SMOG",
+    "annee":-126230400000
+  },
+  {
+    "id":"r670",
+    "ordre":78,
+    "titre":"Organisation SMOG",
+    "annee":0
+  },
+  {
+    "id":"r671",
+    "ordre":78,
+    "titre":"Organisation SMOG",
+    "annee":946684800000
+  },
+  {
+    "id":"r672",
+    "ordre":78,
+    "titre":"Organisation SMOG",
+    "annee":null
+  },
+  {
+    "id":"r673",
+    "ordre":79,
+    "titre":"Le Mystérieux Docteur Xhatan",
+    "annee":-126230400000
+  },
+  {
+    "id":"r674",
+    "ordre":79,
+    "titre":"Le Mystérieux Docteur Xhatan",
+    "annee":-31536000000
+  },
+  {
+    "id":"r675",
+    "ordre":79,
+    "titre":"Le Mystérieux Docteur Xhatan",
+    "annee":631152000000
+  },
+  {
+    "id":"r676",
+    "ordre":79,
+    "titre":"Le Mystérieux Docteur Xhatan",
+    "annee":820454400000
+  },
+  {
+    "id":"r677",
+    "ordre":79,
+    "titre":"Le Mystérieux Docteur Xhatan",
+    "annee":946684800000
+  },
+  {
+    "id":"r678",
+    "ordre":80,
+    "titre":"Xhatan, maître de la lumière",
+    "annee":-126230400000
+  },
+  {
+    "id":"r679",
+    "ordre":80,
+    "titre":"Xhatan, maître de la lumière",
+    "annee":94694400000
+  },
+  {
+    "id":"r680",
+    "ordre":80,
+    "titre":"Xhatan, maître de la lumière",
+    "annee":820454400000
+  },
+  {
+    "id":"r681",
+    "ordre":80,
+    "titre":"Xhatan, maître de la lumière",
+    "annee":946684800000
+  },
+  {
+    "id":"r682",
+    "ordre":81,
+    "titre":"Le Roi des archipels",
+    "annee":-126230400000
+  },
+  {
+    "id":"r683",
+    "ordre":81,
+    "titre":"Le Roi des archipels",
+    "annee":94694400000
+  },
+  {
+    "id":"r684",
+    "ordre":81,
+    "titre":"Le Roi des archipels",
+    "annee":1009843200000
+  },
+  {
+    "id":"r685",
+    "ordre":81,
+    "titre":"Le Roi des archipels",
+    "annee":946684800000
+  },
+  {
+    "id":"r686",
+    "ordre":82,
+    "titre":"Le Samouraï aux mille soleils",
+    "annee":-94694400000
+  },
+  {
+    "id":"r687",
+    "ordre":82,
+    "titre":"Le Samouraï aux mille soleils",
+    "annee":31536000000
+  },
+  {
+    "id":"r688",
+    "ordre":82,
+    "titre":"Le Samouraï aux mille soleils",
+    "annee":252460800000
+  },
+  {
+    "id":"r689",
+    "ordre":82,
+    "titre":"Le Samouraï aux mille soleils",
+    "annee":1104537600000
+  },
+  {
+    "id":"r690",
+    "ordre":83,
+    "titre":"Un parfum d'Ylang-Ylang",
+    "annee":-94694400000
+  },
+  {
+    "id":"r691",
+    "ordre":83,
+    "titre":"Un parfum d'Ylang-Ylang",
+    "annee":31536000000
+  },
+  {
+    "id":"r692",
+    "ordre":83,
+    "titre":"Un parfum d'Ylang-Ylang",
+    "annee":567993600000
+  },
+  {
+    "id":"r693",
+    "ordre":83,
+    "titre":"Un parfum d'Ylang-Ylang",
+    "annee":1104537600000
+  },
+  {
+    "id":"r694",
+    "ordre":83,
+    "titre":"Un parfum d'Ylang-Ylang",
+    "annee":null
+  },
+  {
+    "id":"r695",
+    "ordre":83,
+    "titre":"Un parfum d'Ylang-Ylang",
+    "annee":794016000000
+  },
+  {
+    "id":"r696",
+    "ordre":84,
+    "titre":"Le Talisman des Voïvodes",
+    "annee":-94694400000
+  },
+  {
+    "id":"r697",
+    "ordre":84,
+    "titre":"Le Talisman des Voïvodes",
+    "annee":31536000000
+  },
+  {
+    "id":"r698",
+    "ordre":84,
+    "titre":"Le Talisman des Voïvodes",
+    "annee":567993600000
+  },
+  {
+    "id":"r699",
+    "ordre":84,
+    "titre":"Le Talisman des Voïvodes",
+    "annee":1104537600000
+  },
+  {
+    "id":"r700",
+    "ordre":85,
+    "titre":"Le Cratère des immortels",
+    "annee":-94694400000
+  },
+  {
+    "id":"r701",
+    "ordre":85,
+    "titre":"Le Cratère des immortels",
+    "annee":31536000000
+  },
+  {
+    "id":"r702",
+    "ordre":85,
+    "titre":"Le Cratère des immortels",
+    "annee":283996800000
+  },
+  {
+    "id":"r703",
+    "ordre":85,
+    "titre":"Le Cratère des immortels",
+    "annee":631152000000
+  },
+  {
+    "id":"r704",
+    "ordre":85,
+    "titre":"Le Cratère des immortels",
+    "annee":1104537600000
+  },
+  {
+    "id":"r705",
+    "ordre":86,
+    "titre":"Les Crapauds de la mort",
+    "annee":-94694400000
+  },
+  {
+    "id":"r706",
+    "ordre":86,
+    "titre":"Les Crapauds de la mort",
+    "annee":31536000000
+  },
+  {
+    "id":"r707",
+    "ordre":86,
+    "titre":"Les Crapauds de la mort",
+    "annee":410227200000
+  },
+  {
+    "id":"r708",
+    "ordre":86,
+    "titre":"Les Crapauds de la mort",
+    "annee":757382400000
+  },
+  {
+    "id":"r709",
+    "ordre":86,
+    "titre":"Les Crapauds de la mort",
+    "annee":1104537600000
+  },
+  {
+    "id":"r710",
+    "ordre":86,
+    "titre":"Les Crapauds de la mort",
+    "annee":null
+  },
+  {
+    "id":"r711",
+    "ordre":86,
+    "titre":"Les Crapauds de la mort",
+    "annee":null
+  },
+  {
+    "id":"r712",
+    "ordre":87,
+    "titre":"Les Papillons de l'Ombre Jaune",
+    "annee":-63158400000
+  },
+  {
+    "id":"r713",
+    "ordre":87,
+    "titre":"Les Papillons de l'Ombre Jaune",
+    "annee":31536000000
+  },
+  {
+    "id":"r714",
+    "ordre":87,
+    "titre":"Les Papillons de l'Ombre Jaune",
+    "annee":1104537600000
+  },
+  {
+    "id":"r715",
+    "ordre":87,
+    "titre":"Les Papillons de l'Ombre Jaune",
+    "annee":null
+  },
+  {
+    "id":"r716",
+    "ordre":87,
+    "titre":"Les Papillons de l'Ombre Jaune",
+    "annee":null
+  },
+  {
+    "id":"r717",
+    "ordre":88,
+    "titre":"Alias M.D.O.",
+    "annee":-63158400000
+  },
+  {
+    "id":"r718",
+    "ordre":88,
+    "titre":"Alias M.D.O.",
+    "annee":31536000000
+  },
+  {
+    "id":"r719",
+    "ordre":88,
+    "titre":"Alias M.D.O.",
+    "annee":567993600000
+  },
+  {
+    "id":"r720",
+    "ordre":88,
+    "titre":"Alias M.D.O.",
+    "annee":1230768000000
+  },
+  {
+    "id":"r721",
+    "ordre":88,
+    "titre":"Alias M.D.O.",
+    "annee":null
+  },
+  {
+    "id":"r722",
+    "ordre":88,
+    "titre":"Alias M.D.O.",
+    "annee":823132800000
+  },
+  {
+    "id":"r723",
+    "ordre":89,
+    "titre":"L'Empreinte du crapaud",
+    "annee":-63158400000
+  },
+  {
+    "id":"r724",
+    "ordre":89,
+    "titre":"L'Empreinte du crapaud",
+    "annee":31536000000
+  },
+  {
+    "id":"r725",
+    "ordre":89,
+    "titre":"L'Empreinte du crapaud",
+    "annee":410227200000
+  },
+  {
+    "id":"r726",
+    "ordre":89,
+    "titre":"L'Empreinte du crapaud",
+    "annee":757382400000
+  },
+  {
+    "id":"r727",
+    "ordre":89,
+    "titre":"L'Empreinte du crapaud",
+    "annee":1230768000000
+  },
+  {
+    "id":"r728",
+    "ordre":89,
+    "titre":"L'Empreinte du crapaud",
+    "annee":null
+  },
+  {
+    "id":"r729",
+    "ordre":89,
+    "titre":"L'Empreinte du crapaud",
+    "annee":null
+  },
+  {
+    "id":"r730",
+    "ordre":89,
+    "titre":"L'Empreinte du crapaud",
+    "annee":283996800000
+  },
+  {
+    "id":"r731",
+    "ordre":90,
+    "titre":"La Forteresse de Ombre Jaune",
+    "annee":-63158400000
+  },
+  {
+    "id":"r732",
+    "ordre":90,
+    "titre":"La Forteresse de Ombre Jaune",
+    "annee":0
+  },
+  {
+    "id":"r733",
+    "ordre":90,
+    "titre":"La Forteresse de Ombre Jaune",
+    "annee":31536000000
+  },
+  {
+    "id":"r734",
+    "ordre":90,
+    "titre":"La Forteresse de Ombre Jaune",
+    "annee":1230768000000
+  },
+  {
+    "id":"r735",
+    "ordre":90,
+    "titre":"La Forteresse de Ombre Jaune",
+    "annee":null
+  },
+  {
+    "id":"r736",
+    "ordre":90,
+    "titre":"La Forteresse de Ombre Jaune",
+    "annee":null
+  },
+  {
+    "id":"r737",
+    "ordre":91,
+    "titre":"Le Satellite de l'Ombre Jaune",
+    "annee":-63158400000
+  },
+  {
+    "id":"r738",
+    "ordre":91,
+    "titre":"Le Satellite de l'Ombre Jaune",
+    "annee":0
+  },
+  {
+    "id":"r739",
+    "ordre":91,
+    "titre":"Le Satellite de l'Ombre Jaune",
+    "annee":31536000000
+  },
+  {
+    "id":"r740",
+    "ordre":91,
+    "titre":"Le Satellite de l'Ombre Jaune",
+    "annee":null
+  },
+  {
+    "id":"r741",
+    "ordre":91,
+    "titre":"Le Satellite de l'Ombre Jaune",
+    "annee":1230768000000
+  },
+  {
+    "id":"r742",
+    "ordre":91,
+    "titre":"Le Satellite de l'Ombre Jaune",
+    "annee":null
+  },
+  {
+    "id":"r743",
+    "ordre":91,
+    "titre":"Le Satellite de l'Ombre Jaune",
+    "annee":null
+  },
+  {
+    "id":"r744",
+    "ordre":92,
+    "titre":"Les Captifs de l'Ombre Jaune",
+    "annee":-63158400000
+  },
+  {
+    "id":"r745",
+    "ordre":92,
+    "titre":"Les Captifs de l'Ombre Jaune",
+    "annee":-31536000000
+  },
+  {
+    "id":"r746",
+    "ordre":92,
+    "titre":"Les Captifs de l'Ombre Jaune",
+    "annee":31536000000
+  },
+  {
+    "id":"r747",
+    "ordre":92,
+    "titre":"Les Captifs de l'Ombre Jaune",
+    "annee":1230768000000
+  },
+  {
+    "id":"r748",
+    "ordre":92,
+    "titre":"Les Captifs de l'Ombre Jaune",
+    "annee":null
+  },
+  {
+    "id":"r749",
+    "ordre":92,
+    "titre":"Les Captifs de l'Ombre Jaune",
+    "annee":null
+  },
+  {
+    "id":"r750",
+    "ordre":93,
+    "titre":"Les Sortilèges de l'Ombre Jaune",
+    "annee":-31536000000
+  },
+  {
+    "id":"r751",
+    "ordre":93,
+    "titre":"Les Sortilèges de l'Ombre Jaune",
+    "annee":-31536000000
+  },
+  {
+    "id":"r752",
+    "ordre":93,
+    "titre":"Les Sortilèges de l'Ombre Jaune",
+    "annee":31536000000
+  },
+  {
+    "id":"r753",
+    "ordre":93,
+    "titre":"Les Sortilèges de l'Ombre Jaune",
+    "annee":1230768000000
+  },
+  {
+    "id":"r754",
+    "ordre":93,
+    "titre":"Les Sortilèges de l'Ombre Jaune",
+    "annee":null
+  },
+  {
+    "id":"r755",
+    "ordre":93,
+    "titre":"Les Sortilèges de l'Ombre Jaune",
+    "annee":null
+  },
+  {
+    "id":"r756",
+    "ordre":93,
+    "titre":"Les Sortilèges de l'Ombre Jaune",
+    "annee":189302400000
+  },
+  {
+    "id":"r757",
+    "ordre":94,
+    "titre":"Les Mangeurs d'âmes",
+    "annee":-31536000000
+  },
+  {
+    "id":"r758",
+    "ordre":94,
+    "titre":"Les Mangeurs d'âmes",
+    "annee":31536000000
+  },
+  {
+    "id":"r759",
+    "ordre":94,
+    "titre":"Les Mangeurs d'âmes",
+    "annee":567993600000
+  },
+  {
+    "id":"r760",
+    "ordre":94,
+    "titre":"Les Mangeurs d'âmes",
+    "annee":820454400000
+  },
+  {
+    "id":"r761",
+    "ordre":95,
+    "titre":"La Terreur verte",
+    "annee":-31536000000
+  },
+  {
+    "id":"r762",
+    "ordre":95,
+    "titre":"La Terreur verte",
+    "annee":31536000000
+  },
+  {
+    "id":"r763",
+    "ordre":95,
+    "titre":"La Terreur verte",
+    "annee":1104537600000
+  },
+  {
+    "id":"r764",
+    "ordre":95,
+    "titre":"La Terreur verte",
+    "annee":null
+  },
+  {
+    "id":"r765",
+    "ordre":96,
+    "titre":"Menace sous la mer",
+    "annee":-31536000000
+  },
+  {
+    "id":"r766",
+    "ordre":96,
+    "titre":"Menace sous la mer",
+    "annee":31536000000
+  },
+  {
+    "id":"r767",
+    "ordre":96,
+    "titre":"Menace sous la mer",
+    "annee":315532800000
+  },
+  {
+    "id":"r768",
+    "ordre":96,
+    "titre":"Menace sous la mer",
+    "annee":null
+  },
+  {
+    "id":"r769",
+    "ordre":97,
+    "titre":"Les Masques de soie",
+    "annee":-31536000000
+  },
+  {
+    "id":"r770",
+    "ordre":97,
+    "titre":"Les Masques de soie",
+    "annee":31536000000
+  },
+  {
+    "id":"r771",
+    "ordre":97,
+    "titre":"Les Masques de soie",
+    "annee":283996800000
+  },
+  {
+    "id":"r772",
+    "ordre":97,
+    "titre":"Les Masques de soie",
+    "annee":631152000000
+  },
+  {
+    "id":"r773",
+    "ordre":98,
+    "titre":"L'Oiseau de feu",
+    "annee":-31536000000
+  },
+  {
+    "id":"r774",
+    "ordre":98,
+    "titre":"L'Oiseau de feu",
+    "annee":31536000000
+  },
+  {
+    "id":"r775",
+    "ordre":98,
+    "titre":"L'Oiseau de feu",
+    "annee":1104537600000
+  },
+  {
+    "id":"r776",
+    "ordre":98,
+    "titre":"L'Oiseau de feu",
+    "annee":null
+  },
+  {
+    "id":"r777",
+    "ordre":99,
+    "titre":"Les Bulles de l'Ombre Jaune",
+    "annee":0
+  },
+  {
+    "id":"r778",
+    "ordre":99,
+    "titre":"Les Bulles de l'Ombre Jaune",
+    "annee":31536000000
+  },
+  {
+    "id":"r779",
+    "ordre":99,
+    "titre":"Les Bulles de l'Ombre Jaune",
+    "annee":null
+  },
+  {
+    "id":"r780",
+    "ordre":99,
+    "titre":"Les Bulles de l'Ombre Jaune",
+    "annee":null
+  },
+  {
+    "id":"r781",
+    "ordre":99,
+    "titre":"Les Bulles de l'Ombre Jaune",
+    "annee":255139200000
+  },
+  {
+    "id":"r782",
+    "ordre":100,
+    "titre":"Commando épouvante",
+    "annee":0
+  },
+  {
+    "id":"r783",
+    "ordre":100,
+    "titre":"Commando épouvante",
+    "annee":31536000000
+  },
+  {
+    "id":"r784",
+    "ordre":100,
+    "titre":"Commando épouvante",
+    "annee":315532800000
+  },
+  {
+    "id":"r785",
+    "ordre":100,
+    "titre":"Commando épouvante",
+    "annee":978307200000
+  },
+  {
+    "id":"r786",
+    "ordre":100,
+    "titre":"Commando épouvante",
+    "annee":null
+  },
+  {
+    "id":"r787",
+    "ordre":100,
+    "titre":"Commando épouvante",
+    "annee":347155200000
+  },
+  {
+    "id":"r788",
+    "ordre":101,
+    "titre":"La Piste de l'ivoire",
+    "annee":0
+  },
+  {
+    "id":"r789",
+    "ordre":101,
+    "titre":"La Piste de l'ivoire",
+    "annee":31536000000
+  },
+  {
+    "id":"r790",
+    "ordre":101,
+    "titre":"La Piste de l'ivoire",
+    "annee":1104537600000
+  },
+  {
+    "id":"r791",
+    "ordre":101,
+    "titre":"La Piste de l'ivoire",
+    "annee":null
+  },
+  {
+    "id":"r792",
+    "ordre":102,
+    "titre":"Les Tours de cristal",
+    "annee":0
+  },
+  {
+    "id":"r793",
+    "ordre":102,
+    "titre":"Les Tours de cristal",
+    "annee":31536000000
+  },
+  {
+    "id":"r794",
+    "ordre":102,
+    "titre":"Les Tours de cristal",
+    "annee":1104537600000
+  },
+  {
+    "id":"r795",
+    "ordre":102,
+    "titre":"Les Tours de cristal",
+    "annee":null
+  },
+  {
+    "id":"r796",
+    "ordre":103,
+    "titre":"Les Cavernes de la nuit",
+    "annee":0
+  },
+  {
+    "id":"r797",
+    "ordre":103,
+    "titre":"Les Cavernes de la nuit",
+    "annee":31536000000
+  },
+  {
+    "id":"r798",
+    "ordre":103,
+    "titre":"Les Cavernes de la nuit",
+    "annee":978307200000
+  },
+  {
+    "id":"r799",
+    "ordre":104,
+    "titre":"L'Île du passé",
+    "annee":0
+  },
+  {
+    "id":"r800",
+    "ordre":104,
+    "titre":"L'Île du passé",
+    "annee":283996800000
+  },
+  {
+    "id":"r801",
+    "ordre":104,
+    "titre":"L'Île du passé",
+    "annee":1104537600000
+  },
+  {
+    "id":"r802",
+    "ordre":104,
+    "titre":"L'Île du passé",
+    "annee":null
+  },
+  {
+    "id":"r803",
+    "ordre":105,
+    "titre":"Une rose pour l'Ombre Jaune",
+    "annee":0
+  },
+  {
+    "id":"r804",
+    "ordre":105,
+    "titre":"Une rose pour l'Ombre Jaune",
+    "annee":31536000000
+  },
+  {
+    "id":"r805",
+    "ordre":105,
+    "titre":"Une rose pour l'Ombre Jaune",
+    "annee":null
+  },
+  {
+    "id":"r806",
+    "ordre":105,
+    "titre":"Une rose pour l'Ombre Jaune",
+    "annee":null
+  },
+  {
+    "id":"r807",
+    "ordre":105,
+    "titre":"Une rose pour l'Ombre Jaune",
+    "annee":468115200000
+  },
+  {
+    "id":"r808",
+    "ordre":106,
+    "titre":"Rendez-vous à Nulle-Part",
+    "annee":31536000000
+  },
+  {
+    "id":"r809",
+    "ordre":106,
+    "titre":"Rendez-vous à Nulle-Part",
+    "annee":31536000000
+  },
+  {
+    "id":"r810",
+    "ordre":106,
+    "titre":"Rendez-vous à Nulle-Part",
+    "annee":820454400000
+  },
+  {
+    "id":"r811",
+    "ordre":107,
+    "titre":"Les Contrebandiers de l'atome",
+    "annee":31536000000
+  },
+  {
+    "id":"r812",
+    "ordre":107,
+    "titre":"Les Contrebandiers de l'atome",
+    "annee":283996800000
+  },
+  {
+    "id":"r813",
+    "ordre":107,
+    "titre":"Les Contrebandiers de l'atome",
+    "annee":null
+  },
+  {
+    "id":"r814",
+    "ordre":107,
+    "titre":"Les Contrebandiers de l'atome",
+    "annee":126230400000
+  },
+  {
+    "id":"r815",
+    "ordre":108,
+    "titre":"L'Archipel de la terreur",
+    "annee":31536000000
+  },
+  {
+    "id":"r816",
+    "ordre":108,
+    "titre":"L'Archipel de la terreur",
+    "annee":283996800000
+  },
+  {
+    "id":"r817",
+    "ordre":108,
+    "titre":"L'Archipel de la terreur",
+    "annee":78796800000
+  },
+  {
+    "id":"r818",
+    "ordre":108,
+    "titre":"L'Archipel de la terreur",
+    "annee":63072000000
+  },
+  {
+    "id":"r819",
+    "ordre":109,
+    "titre":"La Vallée des crotales",
+    "annee":31536000000
+  },
+  {
+    "id":"r820",
+    "ordre":109,
+    "titre":"La Vallée des crotales",
+    "annee":1104537600000
+  },
+  {
+    "id":"r821",
+    "ordre":109,
+    "titre":"La Vallée des crotales",
+    "annee":null
+  },
+  {
+    "id":"r822",
+    "ordre":109,
+    "titre":"La Vallée des crotales",
+    "annee":null
+  },
+  {
+    "id":"r823",
+    "ordre":109,
+    "titre":"La Vallée des crotales",
+    "annee":-31536000000
+  },
+  {
+    "id":"r824",
+    "ordre":110,
+    "titre":"Les Spectres d'Atlantis",
+    "annee":63072000000
+  },
+  {
+    "id":"r825",
+    "ordre":110,
+    "titre":"Les Spectres d'Atlantis",
+    "annee":283996800000
+  },
+  {
+    "id":"r826",
+    "ordre":110,
+    "titre":"Les Spectres d'Atlantis",
+    "annee":631152000000
+  },
+  {
+    "id":"r827",
+    "ordre":110,
+    "titre":"Les Spectres d'Atlantis",
+    "annee":null
+  },
+  {
+    "id":"r828",
+    "ordre":111,
+    "titre":"Ceux-des-roches-qui-parlent",
+    "annee":63072000000
+  },
+  {
+    "id":"r829",
+    "ordre":111,
+    "titre":"Ceux-des-roches-qui-parlent",
+    "annee":978307200000
+  },
+  {
+    "id":"r830",
+    "ordre":112,
+    "titre":"Poison blanc",
+    "annee":63072000000
+  },
+  {
+    "id":"r831",
+    "ordre":112,
+    "titre":"Poison blanc",
+    "annee":1009843200000
+  },
+  {
+    "id":"r832",
+    "ordre":113,
+    "titre":"Krouic",
+    "annee":63072000000
+  },
+  {
+    "id":"r833",
+    "ordre":113,
+    "titre":"Krouic",
+    "annee":1009843200000
+  },
+  {
+    "id":"r834",
+    "ordre":114,
+    "titre":"Piège au Zacadalgo",
+    "annee":63072000000
+  },
+  {
+    "id":"r835",
+    "ordre":114,
+    "titre":"Piège au Zacadalgo",
+    "annee":1009843200000
+  },
+  {
+    "id":"r836",
+    "ordre":115,
+    "titre":"La Prison de l'Ombre Jaune",
+    "annee":94694400000
+  },
+  {
+    "id":"r837",
+    "ordre":115,
+    "titre":"La Prison de l'Ombre Jaune",
+    "annee":null
+  },
+  {
+    "id":"r838",
+    "ordre":115,
+    "titre":"La Prison de l'Ombre Jaune",
+    "annee":null
+  },
+  {
+    "id":"r839",
+    "ordre":116,
+    "titre":"Le Secret des sept temples",
+    "annee":-63158400000
+  },
+  {
+    "id":"r840",
+    "ordre":116,
+    "titre":"Le Secret des sept temples",
+    "annee":94694400000
+  },
+  {
+    "id":"r841",
+    "ordre":117,
+    "titre":"Zone Z",
+    "annee":94694400000
+  },
+  {
+    "id":"r842",
+    "ordre":117,
+    "titre":"Zone Z",
+    "annee":1104537600000
+  },
+  {
+    "id":"r843",
+    "ordre":117,
+    "titre":"Zone Z",
+    "annee":null
+  },
+  {
+    "id":"r844",
+    "ordre":117,
+    "titre":"Zone Z",
+    "annee":null
+  },
+  {
+    "id":"r845",
+    "ordre":117,
+    "titre":"Le Mystère de la zone Z",
+    "annee":0
+  },
+  {
+    "id":"r846",
+    "ordre":118,
+    "titre":"Panne sèche à Serado",
+    "annee":94694400000
+  },
+  {
+    "id":"r847",
+    "ordre":118,
+    "titre":"Panne sèche à Serado",
+    "annee":599616000000
+  },
+  {
+    "id":"r848",
+    "ordre":118,
+    "titre":"Panne sèche à Serado",
+    "annee":178761600000
+  },
+  {
+    "id":"r849",
+    "ordre":119,
+    "titre":"L'Épée du paladin",
+    "annee":94694400000
+  },
+  {
+    "id":"r850",
+    "ordre":119,
+    "titre":"L'Épée du paladin",
+    "annee":631152000000
+  },
+  {
+    "id":"r851",
+    "ordre":119,
+    "titre":"L'Épée du paladin",
+    "annee":1104537600000
+  },
+  {
+    "id":"r852",
+    "ordre":119,
+    "titre":"L'Épée du paladin",
+    "annee":null
+  },
+  {
+    "id":"r853",
+    "ordre":119,
+    "titre":"L'Épée du paladin",
+    "annee":null
+  },
+  {
+    "id":"r854",
+    "ordre":119,
+    "titre":"L'Épée du paladin",
+    "annee":-79056000000
+  },
+  {
+    "id":"r855",
+    "ordre":120,
+    "titre":"Le Sentier de la guerre",
+    "annee":94694400000
+  },
+  {
+    "id":"r856",
+    "ordre":120,
+    "titre":"Le Sentier de la guerre",
+    "annee":1009843200000
+  },
+  {
+    "id":"r857",
+    "ordre":121,
+    "titre":"Les Voleurs de mémoires",
+    "annee":94694400000
+  },
+  {
+    "id":"r858",
+    "ordre":121,
+    "titre":"Les Voleurs de mémoires",
+    "annee":820454400000
+  },
+  {
+    "id":"r859",
+    "ordre":121,
+    "titre":"Les Voleurs de mémoires",
+    "annee":null
+  },
+  {
+    "id":"r860",
+    "ordre":122,
+    "titre":"Les Poupées de l'Ombre Jaune",
+    "annee":126230400000
+  },
+  {
+    "id":"r861",
+    "ordre":122,
+    "titre":"Les Poupées de l'Ombre Jaune",
+    "annee":null
+  },
+  {
+    "id":"r862",
+    "ordre":122,
+    "titre":"Les Poupées de l'Ombre Jaune",
+    "annee":null
+  },
+  {
+    "id":"r863",
+    "ordre":122,
+    "titre":"Les Poupées de l'Ombre Jaune",
+    "annee":23587200000
+  },
+  {
+    "id":"r864",
+    "ordre":123,
+    "titre":"Opération Chevalier Noir",
+    "annee":126230400000
+  },
+  {
+    "id":"r865",
+    "ordre":123,
+    "titre":"Opération Chevalier Noir",
+    "annee":null
+  },
+  {
+    "id":"r866",
+    "ordre":123,
+    "titre":"Opération Chevalier Noir",
+    "annee":-31536000000
+  },
+  {
+    "id":"r867",
+    "ordre":124,
+    "titre":"La Mémoire du Tigre",
+    "annee":126230400000
+  },
+  {
+    "id":"r868",
+    "ordre":124,
+    "titre":"La Mémoire du Tigre",
+    "annee":820454400000
+  },
+  {
+    "id":"r869",
+    "ordre":124,
+    "titre":"La Mémoire du Tigre",
+    "annee":null
+  },
+  {
+    "id":"r870",
+    "ordre":125,
+    "titre":"La Colère du Tigre",
+    "annee":126230400000
+  },
+  {
+    "id":"r871",
+    "ordre":126,
+    "titre":"Les Fourmis de l'Ombre Jaune",
+    "annee":126230400000
+  },
+  {
+    "id":"r872",
+    "ordre":126,
+    "titre":"Les Fourmis de l'Ombre Jaune",
+    "annee":null
+  },
+  {
+    "id":"r873",
+    "ordre":126,
+    "titre":"Les Fourmis de l'Ombre Jaune",
+    "annee":null
+  },
+  {
+    "id":"r874",
+    "ordre":126,
+    "titre":"Les Fourmis de l'Ombre Jaune",
+    "annee":549504000000
+  },
+  {
+    "id":"r875",
+    "ordre":127,
+    "titre":"Les Murailles d'Ananké",
+    "annee":126230400000
+  },
+  {
+    "id":"r876",
+    "ordre":127,
+    "titre":"Les Murailles d'Ananké",
+    "annee":null
+  },
+  {
+    "id":"r877",
+    "ordre":127,
+    "titre":"Les Murailles d'Ananké",
+    "annee":null
+  },
+  {
+    "id":"r878",
+    "ordre":127,
+    "titre":"Les Murailles d'Ananké",
+    "annee":null
+  },
+  {
+    "id":"r879",
+    "ordre":128,
+    "titre":"Les Damnés de l'or",
+    "annee":157766400000
+  },
+  {
+    "id":"r880",
+    "ordre":128,
+    "titre":"Les Damnés de l'or",
+    "annee":757382400000
+  },
+  {
+    "id":"r881",
+    "ordre":128,
+    "titre":"Les Damnés de l'or",
+    "annee":null
+  },
+  {
+    "id":"r882",
+    "ordre":129,
+    "titre":"Le Masque du crapaud",
+    "annee":157766400000
+  },
+  {
+    "id":"r883",
+    "ordre":129,
+    "titre":"Le Masque du crapaud",
+    "annee":757382400000
+  },
+  {
+    "id":"r884",
+    "ordre":129,
+    "titre":"Le Masque du crapaud",
+    "annee":null
+  },
+  {
+    "id":"r885",
+    "ordre":129,
+    "titre":"Le Masque du crapaud",
+    "annee":null
+  },
+  {
+    "id":"r886",
+    "ordre":130,
+    "titre":"Les Périls d'Ananké",
+    "annee":157766400000
+  },
+  {
+    "id":"r887",
+    "ordre":130,
+    "titre":"Les Périls d'Ananké",
+    "annee":null
+  },
+  {
+    "id":"r888",
+    "ordre":130,
+    "titre":"Les Périls d'Ananké",
+    "annee":null
+  },
+  {
+    "id":"r889",
+    "ordre":130,
+    "titre":"Les Périls d'Ananké",
+    "annee":null
+  },
+  {
+    "id":"r890",
+    "ordre":131,
+    "titre":"Guérilla à Tumbaga",
+    "annee":157766400000
+  },
+  {
+    "id":"r891",
+    "ordre":131,
+    "titre":"Guérilla à Tumbaga",
+    "annee":149817600000
+  },
+  {
+    "id":"r892",
+    "ordre":132,
+    "titre":"La Tête du serpent",
+    "annee":157766400000
+  },
+  {
+    "id":"r893",
+    "ordre":132,
+    "titre":"La Tête du serpent",
+    "annee":null
+  },
+  {
+    "id":"r894",
+    "ordre":133,
+    "titre":"El Matador",
+    "annee":157766400000
+  },
+  {
+    "id":"r895",
+    "ordre":133,
+    "titre":"El Matador",
+    "annee":820454400000
+  },
+  {
+    "id":"r896",
+    "ordre":133,
+    "titre":"El Matador",
+    "annee":1301616000000
+  },
+  {
+    "id":"r897",
+    "ordre":134,
+    "titre":"Les Anges d'Ananké",
+    "annee":189302400000
+  },
+  {
+    "id":"r898",
+    "ordre":134,
+    "titre":"Les Anges d'Ananké",
+    "annee":null
+  },
+  {
+    "id":"r899",
+    "ordre":134,
+    "titre":"Les Anges d'Ananké",
+    "annee":null
+  },
+  {
+    "id":"r900",
+    "ordre":135,
+    "titre":"Le Poison de l'Ombre Jaune",
+    "annee":189302400000
+  },
+  {
+    "id":"r901",
+    "ordre":135,
+    "titre":"Le Poison de l'Ombre Jaune",
+    "annee":null
+  },
+  {
+    "id":"r902",
+    "ordre":135,
+    "titre":"Le Poison de l'Ombre Jaune",
+    "annee":null
+  },
+  {
+    "id":"r903",
+    "ordre":136,
+    "titre":"Le Revenant des Terres Rouges",
+    "annee":189302400000
+  },
+  {
+    "id":"r904",
+    "ordre":136,
+    "titre":"Le Revenant des Terres Rouges",
+    "annee":1009843200000
+  },
+  {
+    "id":"r905",
+    "ordre":137,
+    "titre":"Les Jeux de l'Ombre Jaune",
+    "annee":189302400000
+  },
+  {
+    "id":"r906",
+    "ordre":137,
+    "titre":"Les Jeux de l'Ombre Jaune",
+    "annee":null
+  },
+  {
+    "id":"r907",
+    "ordre":137,
+    "titre":"Les Jeux de l'Ombre Jaune",
+    "annee":null
+  },
+  {
+    "id":"r908",
+    "ordre":138,
+    "titre":"La Malle à malice",
+    "annee":189302400000
+  },
+  {
+    "id":"r909",
+    "ordre":138,
+    "titre":"La Malle à malice",
+    "annee":1009843200000
+  },
+  {
+    "id":"r910",
+    "ordre":139,
+    "titre":"L'Ombre Jaune fait trembler la terre",
+    "annee":189302400000
+  },
+  {
+    "id":"r911",
+    "ordre":139,
+    "titre":"L'Ombre Jaune fait trembler la terre",
+    "annee":null
+  },
+  {
+    "id":"r912",
+    "ordre":139,
+    "titre":"L'Ombre Jaune fait trembler la terre",
+    "annee":null
+  },
+  {
+    "id":"r913",
+    "ordre":140,
+    "titre":"Mise en boite maison",
+    "annee":189302400000
+  },
+  {
+    "id":"r914",
+    "ordre":140,
+    "titre":"Mise en boite maison",
+    "annee":1009843200000
+  },
+  {
+    "id":"r915",
+    "ordre":141,
+    "titre":"Les Caves d'Ananké",
+    "annee":220924800000
+  },
+  {
+    "id":"r916",
+    "ordre":141,
+    "titre":"Les Caves d'Ananké",
+    "annee":null
+  },
+  {
+    "id":"r917",
+    "ordre":141,
+    "titre":"Les Caves d'Ananké",
+    "annee":null
+  },
+  {
+    "id":"r918",
+    "ordre":142,
+    "titre":"Dans le triangle des Bermudes",
+    "annee":220924800000
+  },
+  {
+    "id":"r919",
+    "ordre":142,
+    "titre":"Dans le triangle des Bermudes",
+    "annee":820454400000
+  },
+  {
+    "id":"r920",
+    "ordre":142,
+    "titre":"Dans le triangle des Bermudes",
+    "annee":null
+  },
+  {
+    "id":"r921",
+    "ordre":143,
+    "titre":"La Prisonnière de l'Ombre Jaune",
+    "annee":252460800000
+  },
+  {
+    "id":"r922",
+    "ordre":143,
+    "titre":"La Prisonnière de l'Ombre Jaune",
+    "annee":null
+  },
+  {
+    "id":"r923",
+    "ordre":143,
+    "titre":"La Prisonnière de l'Ombre Jaune",
+    "annee":null
+  },
+  {
+    "id":"r924",
+    "ordre":143,
+    "titre":"La Prisonnière de l'Ombre Jaune",
+    "annee":null
+  },
+  {
+    "id":"r925",
+    "ordre":143,
+    "titre":"La Prisonnière de l'Ombre Jaune",
+    "annee":70934400000
+  },
+  {
+    "id":"r926",
+    "ordre":143,
+    "titre":"La Prisonnière de l'Ombre Jaune",
+    "annee":63072000000
+  },
+  {
+    "id":"r927",
+    "ordre":144,
+    "titre":"La Griffe de l'Ombre Jaune",
+    "annee":252460800000
+  },
+  {
+    "id":"r928",
+    "ordre":144,
+    "titre":"La Griffe de l'Ombre Jaune",
+    "annee":null
+  },
+  {
+    "id":"r929",
+    "ordre":144,
+    "titre":"La Griffe de l'Ombre Jaune",
+    "annee":null
+  },
+  {
+    "id":"r930",
+    "ordre":145,
+    "titre":"La Tanière du Tigre",
+    "annee":252460800000
+  },
+  {
+    "id":"r931",
+    "ordre":145,
+    "titre":"La Tanière du Tigre",
+    "annee":null
+  },
+  {
+    "id":"r932",
+    "ordre":146,
+    "titre":"Les Plaines d'Ananké",
+    "annee":283996800000
+  },
+  {
+    "id":"r933",
+    "ordre":146,
+    "titre":"Les Plaines d'Ananké",
+    "annee":null
+  },
+  {
+    "id":"r934",
+    "ordre":146,
+    "titre":"Les Plaines d'Ananké",
+    "annee":null
+  },
+  {
+    "id":"r935",
+    "ordre":147,
+    "titre":"Le Trésor de l'Ombre Jaune",
+    "annee":283996800000
+  },
+  {
+    "id":"r936",
+    "ordre":147,
+    "titre":"Le Trésor de l'Ombre Jaune",
+    "annee":null
+  },
+  {
+    "id":"r937",
+    "ordre":147,
+    "titre":"Le Trésor de l'Ombre Jaune",
+    "annee":null
+  },
+  {
+    "id":"r938",
+    "ordre":148,
+    "titre":"L'Ombre Jaune et l'héritage du Tigre",
+    "annee":283996800000
+  },
+  {
+    "id":"r939",
+    "ordre":148,
+    "titre":"L'Ombre Jaune et l'héritage du Tigre",
+    "annee":null
+  },
+  {
+    "id":"r940",
+    "ordre":148,
+    "titre":"L'Ombre Jaune et l'héritage du Tigre",
+    "annee":null
+  },
+  {
+    "id":"r941",
+    "ordre":149,
+    "titre":"Le Soleil de l'Ombre Jaune",
+    "annee":283996800000
+  },
+  {
+    "id":"r942",
+    "ordre":149,
+    "titre":"Le Soleil de l'Ombre Jaune",
+    "annee":null
+  },
+  {
+    "id":"r943",
+    "ordre":149,
+    "titre":"Le Soleil de l'Ombre Jaune",
+    "annee":null
+  },
+  {
+    "id":"r944",
+    "ordre":150,
+    "titre":"Trafics à Paloma",
+    "annee":315532800000
+  },
+  {
+    "id":"r945",
+    "ordre":150,
+    "titre":"Trafics à Paloma",
+    "annee":757382400000
+  },
+  {
+    "id":"r946",
+    "ordre":151,
+    "titre":"Des Loups sur la piste",
+    "annee":315532800000
+  },
+  {
+    "id":"r947",
+    "ordre":151,
+    "titre":"Des Loups sur la piste",
+    "annee":757382400000
+  },
+  {
+    "id":"r948",
+    "ordre":152,
+    "titre":"Snake",
+    "annee":315532800000
+  },
+  {
+    "id":"r949",
+    "ordre":152,
+    "titre":"Snake",
+    "annee":631152000000
+  },
+  {
+    "id":"r950",
+    "ordre":152,
+    "titre":"Snake",
+    "annee":820454400000
+  },
+  {
+    "id":"r951",
+    "ordre":152,
+    "titre":"Snake",
+    "annee":599616000000
+  },
+  {
+    "id":"r952",
+    "ordre":153,
+    "titre":"Trois petits singes",
+    "annee":315532800000
+  },
+  {
+    "id":"r953",
+    "ordre":153,
+    "titre":"Trois petits singes",
+    "annee":567993600000
+  },
+  {
+    "id":"r954",
+    "ordre":153,
+    "titre":"Trois petits singes",
+    "annee":820454400000
+  },
+  {
+    "id":"r955",
+    "ordre":153,
+    "titre":"Trois petits singes",
+    "annee":683683200000
+  },
+  {
+    "id":"r956",
+    "ordre":154,
+    "titre":"L'Oeil du samouraï",
+    "annee":378691200000
+  },
+  {
+    "id":"r957",
+    "ordre":154,
+    "titre":"L'Oeil du samouraï",
+    "annee":631152000000
+  },
+  {
+    "id":"r958",
+    "ordre":154,
+    "titre":"L'Oeil du samouraï",
+    "annee":820454400000
+  },
+  {
+    "id":"r959",
+    "ordre":155,
+    "titre":"Les Yeux du brouillard",
+    "annee":410227200000
+  },
+  {
+    "id":"r960",
+    "ordre":155,
+    "titre":"Les Yeux du brouillard",
+    "annee":631152000000
+  },
+  {
+    "id":"r961",
+    "ordre":155,
+    "titre":"Les Yeux du brouillard",
+    "annee":883612800000
+  },
+  {
+    "id":"r962",
+    "ordre":155,
+    "titre":"Les Yeux du brouillard",
+    "annee":null
+  },
+  {
+    "id":"r963",
+    "ordre":155,
+    "titre":"Les Yeux du brouillard",
+    "annee":55123200000
+  },
+  {
+    "id":"r964",
+    "ordre":156,
+    "titre":"L'Arbre de la vie",
+    "annee":567993600000
+  },
+  {
+    "id":"r965",
+    "ordre":156,
+    "titre":"L'Arbre de la vie",
+    "annee":757382400000
+  },
+  {
+    "id":"r966",
+    "ordre":157,
+    "titre":"L'Ombre Jaune s'en va-t-en guerre",
+    "annee":567993600000
+  },
+  {
+    "id":"r967",
+    "ordre":157,
+    "titre":"L'Ombre Jaune s'en va-t-en guerre",
+    "annee":null
+  },
+  {
+    "id":"r968",
+    "ordre":157,
+    "titre":"L'Ombre Jaune s'en va-t-en guerre",
+    "annee":null
+  },
+  {
+    "id":"r969",
+    "ordre":158,
+    "titre":"L'Exterminateur",
+    "annee":599616000000
+  },
+  {
+    "id":"r970",
+    "ordre":158,
+    "titre":"L'Exterminateur",
+    "annee":883612800000
+  },
+  {
+    "id":"r971",
+    "ordre":158,
+    "titre":"L'Exterminateur",
+    "annee":null
+  },
+  {
+    "id":"r972",
+    "ordre":158,
+    "titre":"L'Exterminateur",
+    "annee":null
+  },
+  {
+    "id":"r973",
+    "ordre":158,
+    "titre":"L'Exterminateur",
+    "annee":null
+  },
+  {
+    "id":"r974",
+    "ordre":159,
+    "titre":"Les Berges du temps",
+    "annee":599616000000
+  },
+  {
+    "id":"r975",
+    "ordre":159,
+    "titre":"Les Berges du temps",
+    "annee":820454400000
+  },
+  {
+    "id":"r976",
+    "ordre":159,
+    "titre":"Les Berges du temps",
+    "annee":null
+  },
+  {
+    "id":"r977",
+    "ordre":159,
+    "titre":"Les Berges du temps",
+    "annee":null
+  },
+  {
+    "id":"r978",
+    "ordre":159,
+    "titre":"Les Berges du temps",
+    "annee":1207008000000
+  },
+  {
+    "id":"r979",
+    "ordre":160,
+    "titre":"La Nuit des négriers",
+    "annee":599616000000
+  },
+  {
+    "id":"r980",
+    "ordre":160,
+    "titre":"La Nuit des négriers",
+    "annee":820454400000
+  },
+  {
+    "id":"r981",
+    "ordre":161,
+    "titre":"Le Jade de Séoul",
+    "annee":631152000000
+  },
+  {
+    "id":"r982",
+    "ordre":161,
+    "titre":"Le Jade de Séoul",
+    "annee":820454400000
+  },
+  {
+    "id":"r983",
+    "ordre":161,
+    "titre":"Le Jade de Séoul",
+    "annee":null
+  },
+  {
+    "id":"r984",
+    "ordre":161,
+    "titre":"Le Jade de Séoul",
+    "annee":null
+  },
+  {
+    "id":"r985",
+    "ordre":161,
+    "titre":"Le Jade de Séoul",
+    "annee":null
+  },
+  {
+    "id":"r986",
+    "ordre":161,
+    "titre":"Le Jade de Séoul",
+    "annee":723168000000
+  },
+  {
+    "id":"r987",
+    "ordre":162,
+    "titre":"La Cité des rêves",
+    "annee":631152000000
+  },
+  {
+    "id":"r988",
+    "ordre":162,
+    "titre":"La Cité des rêves",
+    "annee":1009843200000
+  },
+  {
+    "id":"r989",
+    "ordre":162,
+    "titre":"La Cité des rêves",
+    "annee":null
+  },
+  {
+    "id":"r990",
+    "ordre":162,
+    "titre":"La Cité des rêves",
+    "annee":754704000000
+  },
+  {
+    "id":"r991",
+    "ordre":163,
+    "titre":"Rendez-vous à Maripasoula",
+    "annee":662688000000
+  },
+  {
+    "id":"r992",
+    "ordre":163,
+    "titre":"Rendez-vous à Maripasoula",
+    "annee":1009843200000
+  },
+  {
+    "id":"r993",
+    "ordre":163,
+    "titre":"Rendez-vous à Maripasoula",
+    "annee":null
+  },
+  {
+    "id":"r994",
+    "ordre":164,
+    "titre":"La Panthère des hauts plateaux",
+    "annee":694224000000
+  },
+  {
+    "id":"r995",
+    "ordre":164,
+    "titre":"La Panthère des hauts plateaux",
+    "annee":757382400000
+  },
+  {
+    "id":"r996",
+    "ordre":164,
+    "titre":"La Panthère des hauts plateaux",
+    "annee":null
+  },
+  {
+    "id":"r997",
+    "ordre":164,
+    "titre":"La Panthère des hauts plateaux",
+    "annee":1072915200000
+  },
+  {
+    "id":"r998",
+    "ordre":165,
+    "titre":"La Guerre du cristal",
+    "annee":694224000000
+  },
+  {
+    "id":"r999",
+    "ordre":165,
+    "titre":"La Guerre du cristal",
+    "annee":1004572800000
+  },
+  {
+    "id":"r1000",
+    "ordre":165,
+    "titre":"La Guerre du cristal",
+    "annee":1262304000000
+  },
+  {
+    "id":"r1001",
+    "ordre":165,
+    "titre":"La Guerre du cristal",
+    "annee":1483228800000
+  },
+  {
+    "id":"r1002",
+    "ordre":166,
+    "titre":"Les Larmes du soleil",
+    "annee":694224000000
+  },
+  {
+    "id":"r1003",
+    "ordre":166,
+    "titre":"Les Larmes du soleil",
+    "annee":883612800000
+  },
+  {
+    "id":"r1004",
+    "ordre":166,
+    "titre":"Les Larmes du soleil",
+    "annee":1070236800000
+  },
+  {
+    "id":"r1005",
+    "ordre":166,
+    "titre":"Les Larmes du soleil",
+    "annee":1489276800000
+  },
+  {
+    "id":"r1006",
+    "ordre":166,
+    "titre":"Les Larmes du soleil",
+    "annee":1125532800000
+  },
+  {
+    "id":"r1007",
+    "ordre":167,
+    "titre":"Les Démons de la guerre",
+    "annee":725846400000
+  },
+  {
+    "id":"r1008",
+    "ordre":167,
+    "titre":"Les Démons de la guerre",
+    "annee":883612800000
+  },
+  {
+    "id":"r1009",
+    "ordre":167,
+    "titre":"Les Démons de la guerre",
+    "annee":1489276800000
+  },
+  {
+    "id":"r1010",
+    "ordre":168,
+    "titre":"Les Déserts d'Amazonie",
+    "annee":725846400000
+  },
+  {
+    "id":"r1011",
+    "ordre":168,
+    "titre":"Les Déserts d'Amazonie",
+    "annee":904608000000
+  },
+  {
+    "id":"r1012",
+    "ordre":168,
+    "titre":"Les Déserts d'Amazonie",
+    "annee":1078099200000
+  },
+  {
+    "id":"r1013",
+    "ordre":168,
+    "titre":"Les Déserts d'Amazonie",
+    "annee":1489276800000
+  },
+  {
+    "id":"r1014",
+    "ordre":168,
+    "titre":"Les Déserts d'Amazonie",
+    "annee":1576108800000
+  },
+  {
+    "id":"r1015",
+    "ordre":168,
+    "titre":"Les Déserts d'Amazonie",
+    "annee":1046476800000
+  },
+  {
+    "id":"r1016",
+    "ordre":169,
+    "titre":"Bételgeuse & Cie",
+    "annee":770428800000
+  },
+  {
+    "id":"r1017",
+    "ordre":169,
+    "titre":"Bételgeuse & Cie",
+    "annee":1080777600000
+  },
+  {
+    "id":"r1018",
+    "ordre":169,
+    "titre":"Bételgeuse & Cie",
+    "annee":1496620800000
+  },
+  {
+    "id":"r1019",
+    "ordre":170,
+    "titre":"Le Réveil de Kukulkan",
+    "annee":757382400000
+  },
+  {
+    "id":"r1020",
+    "ordre":170,
+    "titre":"Le Réveil de Kukulkan",
+    "annee":883612800000
+  },
+  {
+    "id":"r1021",
+    "ordre":170,
+    "titre":"Le Réveil de Kukulkan",
+    "annee":1354147200000
+  },
+  {
+    "id":"r1022",
+    "ordre":170,
+    "titre":"Le Réveil de Kukulkan",
+    "annee":1496620800000
+  },
+  {
+    "id":"r1023",
+    "ordre":171,
+    "titre":"L'Anneau de Salomon",
+    "annee":788918400000
+  },
+  {
+    "id":"r1024",
+    "ordre":171,
+    "titre":"L'Anneau de Salomon",
+    "annee":883612800000
+  },
+  {
+    "id":"r1025",
+    "ordre":171,
+    "titre":"L'Anneau de Salomon",
+    "annee":1363824000000
+  },
+  {
+    "id":"r1026",
+    "ordre":171,
+    "titre":"L'Anneau de Salomon",
+    "annee":1496620800000
+  },
+  {
+    "id":"r1027",
+    "ordre":171,
+    "titre":"L'Anneau de Salomon",
+    "annee":854755200000
+  },
+  {
+    "id":"r1028",
+    "ordre":172,
+    "titre":"Les Mille et une vies de l'Ombre Jaune",
+    "annee":788918400000
+  },
+  {
+    "id":"r1029",
+    "ordre":172,
+    "titre":"Les Mille et une vies de l'Ombre Jaune",
+    "annee":883612800000
+  },
+  {
+    "id":"r1030",
+    "ordre":172,
+    "titre":"Les Mille et une vies de l'Ombre Jaune",
+    "annee":1088640000000
+  },
+  {
+    "id":"r1031",
+    "ordre":172,
+    "titre":"Les Mille et une vies de l'Ombre Jaune",
+    "annee":1477526400000
+  },
+  {
+    "id":"r1032",
+    "ordre":172,
+    "titre":"Les Mille et une vies de l'Ombre Jaune",
+    "annee":1503792000000
+  },
+  {
+    "id":"r1033",
+    "ordre":173,
+    "titre":"La Bête hors des âges",
+    "annee":826675200000
+  },
+  {
+    "id":"r1034",
+    "ordre":173,
+    "titre":"La Bête hors des âges",
+    "annee":1342224000000
+  },
+  {
+    "id":"r1035",
+    "ordre":173,
+    "titre":"La Bête hors des âges",
+    "annee":1503792000000
+  },
+  {
+    "id":"r1036",
+    "ordre":174,
+    "titre":"L'Antre du crapaud",
+    "annee":841190400000
+  },
+  {
+    "id":"r1037",
+    "ordre":174,
+    "titre":"L'Antre du crapaud",
+    "annee":946684800000
+  },
+  {
+    "id":"r1038",
+    "ordre":174,
+    "titre":"L'Antre du crapaud",
+    "annee":1199145600000
+  },
+  {
+    "id":"r1039",
+    "ordre":174,
+    "titre":"L'Antre du crapaud",
+    "annee":1503792000000
+  },
+  {
+    "id":"r1040",
+    "ordre":175,
+    "titre":"Yang = Yin",
+    "annee":967766400000
+  },
+  {
+    "id":"r1041",
+    "ordre":175,
+    "titre":"Yang = Yin",
+    "annee":853891200000
+  },
+  {
+    "id":"r1042",
+    "ordre":175,
+    "titre":"Yang = Yin",
+    "annee":1369267200000
+  },
+  {
+    "id":"r1043",
+    "ordre":175,
+    "titre":"Yang = Yin",
+    "annee":1515456000000
+  },
+  {
+    "id":"r1044",
+    "ordre":176,
+    "titre":"Les Pièges du cristal",
+    "annee":863740800000
+  },
+  {
+    "id":"r1045",
+    "ordre":176,
+    "titre":"Les Pièges du cristal",
+    "annee":1004572800000
+  },
+  {
+    "id":"r1046",
+    "ordre":176,
+    "titre":"Les Pièges du cristal",
+    "annee":1262304000000
+  },
+  {
+    "id":"r1047",
+    "ordre":176,
+    "titre":"Les Pièges du cristal",
+    "annee":1515456000000
+  },
+  {
+    "id":"r1048",
+    "ordre":177,
+    "titre":"Guerre Pacifique n'aura pas lieu",
+    "annee":852076800000
+  },
+  {
+    "id":"r1049",
+    "ordre":177,
+    "titre":"Guerre Pacifique n'aura pas lieu",
+    "annee":992044800000
+  },
+  {
+    "id":"r1050",
+    "ordre":177,
+    "titre":"Guerre Pacifique n'aura pas lieu",
+    "annee":1136073600000
+  },
+  {
+    "id":"r1051",
+    "ordre":177,
+    "titre":"Guerre Pacifique n'aura pas lieu",
+    "annee":1285200000000
+  },
+  {
+    "id":"r1052",
+    "ordre":177,
+    "titre":"Guerre Pacifique n'aura pas lieu",
+    "annee":1515456000000
+  },
+  {
+    "id":"r1053",
+    "ordre":178,
+    "titre":"Santeria Drums",
+    "annee":883612800000
+  },
+  {
+    "id":"r1054",
+    "ordre":178,
+    "titre":"Santeria Drums",
+    "annee":1285200000000
+  },
+  {
+    "id":"r1055",
+    "ordre":178,
+    "titre":"Santeria Drums",
+    "annee":1621296000000
+  },
+  {
+    "id":"r1056",
+    "ordre":179,
+    "titre":"Demonia Maxima",
+    "annee":883612800000
+  },
+  {
+    "id":"r1057",
+    "ordre":179,
+    "titre":"Demonia Maxima",
+    "annee":1009843200000
+  },
+  {
+    "id":"r1058",
+    "ordre":179,
+    "titre":"Demonia Maxima",
+    "annee":1621296000000
+  },
+  {
+    "id":"r1059",
+    "ordre":180,
+    "titre":"Le Pharaon de Venise",
+    "annee":915148800000
+  },
+  {
+    "id":"r1060",
+    "ordre":180,
+    "titre":"Le Pharaon de Venise",
+    "annee":996624000000
+  },
+  {
+    "id":"r1061",
+    "ordre":180,
+    "titre":"Le Pharaon de Venise",
+    "annee":1151712000000
+  },
+  {
+    "id":"r1062",
+    "ordre":180,
+    "titre":"Le Pharaon de Venise",
+    "annee":1621296000000
+  },
+  {
+    "id":"r1063",
+    "ordre":180,
+    "titre":"Le Pharaon de Venise",
+    "annee":996624000000
+  },
+  {
+    "id":"r1064",
+    "ordre":181,
+    "titre":"L'Oeil de l'iguanodon",
+    "annee":957139200000
+  },
+  {
+    "id":"r1065",
+    "ordre":181,
+    "titre":"L'Oeil de l'iguanodon",
+    "annee":1043971200000
+  },
+  {
+    "id":"r1066",
+    "ordre":181,
+    "titre":"L'Oeil de l'iguanodon",
+    "annee":1256169600000
+  },
+  {
+    "id":"r1067",
+    "ordre":181,
+    "titre":"L'Oeil de l'iguanodon",
+    "annee":1256169600000
+  },
+  {
+    "id":"r1068",
+    "ordre":181,
+    "titre":"L'Oeil de l'iguanodon",
+    "annee":1621296000000
+  },
+  {
+    "id":"r1069",
+    "ordre":182,
+    "titre":"Les Passagers du miroir",
+    "annee":980985600000
+  },
+  {
+    "id":"r1070",
+    "ordre":182,
+    "titre":"Les Passagers du miroir",
+    "annee":1152230400000
+  },
+  {
+    "id":"r1071",
+    "ordre":182,
+    "titre":"Les Passagers du miroir",
+    "annee":1621296000000
+  },
+  {
+    "id":"r1072",
+    "ordre":183,
+    "titre":"Le Dernier Massaï",
+    "annee":991353600000
+  },
+  {
+    "id":"r1073",
+    "ordre":183,
+    "titre":"Le Dernier Massaï",
+    "annee":1380672000000
+  },
+  {
+    "id":"r1074",
+    "ordre":183,
+    "titre":"Le Dernier Massaï",
+    "annee":1621296000000
+  },
+  {
+    "id":"r1075",
+    "ordre":184,
+    "titre":"La Fille de l'anaconda",
+    "annee":1009843200000
+  },
+  {
+    "id":"r1076",
+    "ordre":184,
+    "titre":"La Fille de l'anaconda",
+    "annee":1622246400000
+  },
+  {
+    "id":"r1077",
+    "ordre":185,
+    "titre":"Le Portrait de la Walkyrie",
+    "annee":1036454400000
+  },
+  {
+    "id":"r1078",
+    "ordre":185,
+    "titre":"Le Portrait de la Walkyrie",
+    "annee":1128643200000
+  },
+  {
+    "id":"r1079",
+    "ordre":185,
+    "titre":"Le Portrait de la Walkyrie",
+    "annee":1213920000000
+  },
+  {
+    "id":"r1080",
+    "ordre":185,
+    "titre":"Le Portrait de la Walkyrie",
+    "annee":1431302400000
+  },
+  {
+    "id":"r1081",
+    "ordre":185,
+    "titre":"Le Portrait de la Walkyrie",
+    "annee":1622246400000
+  },
+  {
+    "id":"r1082",
+    "ordre":186,
+    "titre":"Les Esprits du vent et de la peste",
+    "annee":1049155200000
+  },
+  {
+    "id":"r1083",
+    "ordre":186,
+    "titre":"Les Esprits du vent et de la peste",
+    "annee":1622246400000
+  },
+  {
+    "id":"r1084",
+    "ordre":187,
+    "titre":"L'Anse du pirate",
+    "annee":1051747200000
+  },
+  {
+    "id":"r1085",
+    "ordre":187,
+    "titre":"L'Anse du pirate",
+    "annee":1260403200000
+  },
+  {
+    "id":"r1086",
+    "ordre":187,
+    "titre":"L'Anse du pirate",
+    "annee":1626307200000
+  },
+  {
+    "id":"r1087",
+    "ordre":188,
+    "titre":"L'Épée de d'Artagnan",
+    "annee":1070236800000
+  },
+  {
+    "id":"r1088",
+    "ordre":188,
+    "titre":"L'Épée de d'Artagnan",
+    "annee":1167609600000
+  },
+  {
+    "id":"r1089",
+    "ordre":188,
+    "titre":"L'Épée de d'Artagnan",
+    "annee":1285891200000
+  },
+  {
+    "id":"r1090",
+    "ordre":188,
+    "titre":"L'Épée de d'Artagnan",
+    "annee":1285891200000
+  },
+  {
+    "id":"r1091",
+    "ordre":188,
+    "titre":"L'Épée de d'Artagnan",
+    "annee":"2021-17-15"
+  },
+  {
+    "id":"r1092",
+    "ordre":189,
+    "titre":"La Plume de cristal",
+    "annee":1080777600000
+  },
+  {
+    "id":"r1093",
+    "ordre":189,
+    "titre":"La Plume de cristal",
+    "annee":1212278400000
+  },
+  {
+    "id":"r1094",
+    "ordre":189,
+    "titre":"La Plume de cristal",
+    "annee":1431302400000
+  },
+  {
+    "id":"r1095",
+    "ordre":189,
+    "titre":"La Plume de cristal",
+    "annee":1626307200000
+  },
+  {
+    "id":"r1096",
+    "ordre":190,
+    "titre":"Le Cri de la louve",
+    "annee":1083369600000
+  },
+  {
+    "id":"r1097",
+    "ordre":190,
+    "titre":"Le Cri de la louve",
+    "annee":1167609600000
+  },
+  {
+    "id":"r1098",
+    "ordre":190,
+    "titre":"Le Cri de la louve",
+    "annee":1285891200000
+  },
+  {
+    "id":"r1099",
+    "ordre":190,
+    "titre":"Le Cri de la louve",
+    "annee":1285891200000
+  },
+  {
+    "id":"r1100",
+    "ordre":190,
+    "titre":"Le Cri de la louve",
+    "annee":1643241600000
+  },
+  {
+    "id":"r1101",
+    "ordre":191,
+    "titre":"L'Émissaire du 6 juin",
+    "annee":1086998400000
+  },
+  {
+    "id":"r1102",
+    "ordre":191,
+    "titre":"L'Émissaire du 6 juin",
+    "annee":1086998400000
+  },
+  {
+    "id":"r1103",
+    "ordre":191,
+    "titre":"L'Émissaire du 6 juin",
+    "annee":1104537600000
+  },
+  {
+    "id":"r1104",
+    "ordre":191,
+    "titre":"L'Émissaire du 6 juin",
+    "annee":1643241600000
+  },
+  {
+    "id":"r1105",
+    "ordre":192,
+    "titre":"La Lumière de l'Ombre Jaune",
+    "annee":1096588800000
+  },
+  {
+    "id":"r1106",
+    "ordre":192,
+    "titre":"La Lumière de l'Ombre Jaune",
+    "annee":1213488000000
+  },
+  {
+    "id":"r1107",
+    "ordre":192,
+    "titre":"La Lumière de l'Ombre Jaune",
+    "annee":1643241600000
+  },
+  {
+    "id":"r1108",
+    "ordre":193,
+    "titre":"Aux origines de l'imaginaire",
+    "annee":1102118400000
+  },
+  {
+    "id":"r1109",
+    "ordre":193,
+    "titre":"Aux origines de l'imaginaire",
+    "annee":1167609600000
+  },
+  {
+    "id":"r1110",
+    "ordre":193,
+    "titre":"Aux origines de l'imaginaire",
+    "annee":1646265600000
+  },
+  {
+    "id":"r1111",
+    "ordre":194,
+    "titre":"La Porte du cauchemar",
+    "annee":1115337600000
+  },
+  {
+    "id":"r1112",
+    "ordre":194,
+    "titre":"La Porte du cauchemar",
+    "annee":1388534400000
+  },
+  {
+    "id":"r1113",
+    "ordre":194,
+    "titre":"La Porte du cauchemar",
+    "annee":1646265600000
+  },
+  {
+    "id":"r1114",
+    "ordre":195,
+    "titre":"Retour à Overlord",
+    "annee":1104537600000
+  },
+  {
+    "id":"r1115",
+    "ordre":195,
+    "titre":"Retour à Overlord",
+    "annee":1646265600000
+  },
+  {
+    "id":"r1116",
+    "ordre":196,
+    "titre":"L'Affaire du Louvre",
+    "annee":1128643200000
+  },
+  {
+    "id":"r1117",
+    "ordre":196,
+    "titre":"L'Affaire du Louvre",
+    "annee":1314230400000
+  },
+  {
+    "id":"r1118",
+    "ordre":196,
+    "titre":"L'Affaire du Louvre",
+    "annee":1646352000000
+  },
+  {
+    "id":"r1119",
+    "ordre":197,
+    "titre":"Chambre 312",
+    "annee":1104537600000
+  },
+  {
+    "id":"r1120",
+    "ordre":197,
+    "titre":"Chambre 312",
+    "annee":1167609600000
+  },
+  {
+    "id":"r1121",
+    "ordre":197,
+    "titre":"Chambre 312",
+    "annee":1285891200000
+  },
+  {
+    "id":"r1122",
+    "ordre":197,
+    "titre":"Chambre 312",
+    "annee":1285891200000
+  },
+  {
+    "id":"r1123",
+    "ordre":197,
+    "titre":"Chambre 312",
+    "annee":1646352000000
+  },
+  {
+    "id":"r1124",
+    "ordre":198,
+    "titre":"Les Ruines de Barkalia",
+    "annee":1137110400000
+  },
+  {
+    "id":"r1125",
+    "ordre":198,
+    "titre":"Les Ruines de Barkalia",
+    "annee":1420070400000
+  },
+  {
+    "id":"r1126",
+    "ordre":198,
+    "titre":"Les Ruines de Barkalia",
+    "annee":1646352000000
+  },
+  {
+    "id":"r1127",
+    "ordre":199,
+    "titre":"Les Cavaliers de l'apocalypse",
+    "annee":1128124800000
+  },
+  {
+    "id":"r1128",
+    "ordre":199,
+    "titre":"Les Cavaliers de l'apocalypse",
+    "annee":1128124800000
+  },
+  {
+    "id":"r1129",
+    "ordre":199,
+    "titre":"Les Cavaliers de l'apocalypse",
+    "annee":1198108800000
+  },
+  {
+    "id":"r1130",
+    "ordre":199,
+    "titre":"Les Cavaliers de l'apocalypse",
+    "annee":1260403200000
+  },
+  {
+    "id":"r1131",
+    "ordre":199,
+    "titre":"Les Cavaliers de l'apocalypse",
+    "annee":1657152000000
+  },
+  {
+    "id":"r1132",
+    "ordre":200,
+    "titre":"Les Secrets de l'Ombre Jaune",
+    "annee":1136073600000
+  },
+  {
+    "id":"r1133",
+    "ordre":200,
+    "titre":"Les Secrets de l'Ombre Jaune",
+    "annee":1657152000000
+  },
+  {
+    "id":"r1134",
+    "ordre":201,
+    "titre":"Escale forcée",
+    "annee":1152230400000
+  },
+  {
+    "id":"r1135",
+    "ordre":201,
+    "titre":"Escale forcée",
+    "annee":1152230400000
+  },
+  {
+    "id":"r1136",
+    "ordre":201,
+    "titre":"Escale forcée",
+    "annee":1199145600000
+  },
+  {
+    "id":"r1137",
+    "ordre":201,
+    "titre":"Escale forcée",
+    "annee":1314230400000
+  },
+  {
+    "id":"r1138",
+    "ordre":201,
+    "titre":"Escale forcée",
+    "annee":1677888000000
+  },
+  {
+    "id":"r1139",
+    "ordre":202,
+    "titre":"Les Nuits de l'Ombre Jaune",
+    "annee":1136073600000
+  },
+  {
+    "id":"r1140",
+    "ordre":202,
+    "titre":"Les Nuits de l'Ombre Jaune",
+    "annee":1547164800000
+  },
+  {
+    "id":"r1141",
+    "ordre":202,
+    "titre":"Les Nuits de l'Ombre Jaune",
+    "annee":1662854400000
+  },
+  {
+    "id":"r1142",
+    "ordre":203,
+    "titre":"L'Ombre du lieutenant",
+    "annee":1161216000000
+  },
+  {
+    "id":"r1143",
+    "ordre":203,
+    "titre":"L'Ombre du lieutenant",
+    "annee":1167609600000
+  },
+  {
+    "id":"r1144",
+    "ordre":203,
+    "titre":"L'Ombre du lieutenant",
+    "annee":1315440000000
+  },
+  {
+    "id":"r1145",
+    "ordre":203,
+    "titre":"L'Ombre du lieutenant",
+    "annee":1677888000000
+  },
+  {
+    "id":"r1146",
+    "ordre":204,
+    "titre":"Mngwa !",
+    "annee":1168473600000
+  },
+  {
+    "id":"r1147",
+    "ordre":204,
+    "titre":"Mngwa !",
+    "annee":1662854400000
+  },
+  {
+    "id":"r1148",
+    "ordre":205,
+    "titre":"Une voix d'enfant",
+    "annee":1172707200000
+  },
+  {
+    "id":"r1149",
+    "ordre":205,
+    "titre":"Une voix d'enfant",
+    "annee":"2008-03-00"
+  },
+  {
+    "id":"r1150",
+    "ordre":205,
+    "titre":"Une voix d'enfant",
+    "annee":1354147200000
+  },
+  {
+    "id":"r1151",
+    "ordre":205,
+    "titre":"Une voix d'enfant",
+    "annee":1690243200000
+  },
+  {
+    "id":"r1152",
+    "ordre":206,
+    "titre":"L'Énigme du Pôle",
+    "annee":1217462400000
+  },
+  {
+    "id":"r1153",
+    "ordre":206,
+    "titre":"L'Énigme du Pôle",
+    "annee":1662854400000
+  },
+  {
+    "id":"r1154",
+    "ordre":207,
+    "titre":"L'Idole Atlante",
+    "annee":1167609600000
+  },
+  {
+    "id":"r1155",
+    "ordre":207,
+    "titre":"L'Idole Atlante",
+    "annee":1177977600000
+  },
+  {
+    "id":"r1156",
+    "ordre":207,
+    "titre":"L'Idole Atlante",
+    "annee":1177977600000
+  },
+  {
+    "id":"r1157",
+    "ordre":207,
+    "titre":"L'Idole Atlante",
+    "annee":1690243200000
+  },
+  {
+    "id":"r1158",
+    "ordre":208,
+    "titre":"Les Géants de Mû",
+    "annee":1191196800000
+  },
+  {
+    "id":"r1159",
+    "ordre":208,
+    "titre":"Les Géants de Mû",
+    "annee":1668211200000
+  },
+  {
+    "id":"r1160",
+    "ordre":208,
+    "titre":"Les Géants de Mû",
+    "annee":162864000000
+  },
+  {
+    "id":"r1161",
+    "ordre":209,
+    "titre":"Un beau dimanche à Bruxelles",
+    "annee":1233446400000
+  },
+  {
+    "id":"r1162",
+    "ordre":209,
+    "titre":"Un beau dimanche à Bruxelles",
+    "annee":1259625600000
+  },
+  {
+    "id":"r1163",
+    "ordre":209,
+    "titre":"Un beau dimanche à Bruxelles",
+    "annee":1353628800000
+  },
+  {
+    "id":"r1164",
+    "ordre":209,
+    "titre":"Un beau dimanche à Bruxelles",
+    "annee":1370044800000
+  },
+  {
+    "id":"r1165",
+    "ordre":209,
+    "titre":"Un beau dimanche à Bruxelles",
+    "annee":1679788800000
+  },
+  {
+    "id":"r1166",
+    "ordre":210,
+    "titre":"Le Kraken",
+    "annee":1229299200000
+  },
+  {
+    "id":"r1167",
+    "ordre":210,
+    "titre":"Le Kraken",
+    "annee":1229299200000
+  },
+  {
+    "id":"r1168",
+    "ordre":210,
+    "titre":"Le Kraken",
+    "annee":1259625600000
+  },
+  {
+    "id":"r1169",
+    "ordre":210,
+    "titre":"Le Kraken",
+    "annee":1354147200000
+  },
+  {
+    "id":"r1170",
+    "ordre":210,
+    "titre":"Le Kraken",
+    "annee":1690243200000
+  },
+  {
+    "id":"r1171",
+    "ordre":211,
+    "titre":"Le Manuscrit explosif",
+    "annee":1188604800000
+  },
+  {
+    "id":"r1172",
+    "ordre":211,
+    "titre":"Le Manuscrit explosif",
+    "annee":1233446400000
+  },
+  {
+    "id":"r1173",
+    "ordre":211,
+    "titre":"Le Manuscrit explosif",
+    "annee":1314230400000
+  },
+  {
+    "id":"r1174",
+    "ordre":211,
+    "titre":"Le Manuscrit explosif",
+    "annee":1677888000000
+  },
+  {
+    "id":"r1175",
+    "ordre":212,
+    "titre":"Quand le chauve sourit",
+    "annee":828316800000
+  },
+  {
+    "id":"r1176",
+    "ordre":212,
+    "titre":"Quand le chauve sourit",
+    "annee":1167609600000
+  },
+  {
+    "id":"r1177",
+    "ordre":212,
+    "titre":"Quand le chauve sourit",
+    "annee":1315440000000
+  },
+  {
+    "id":"r1178",
+    "ordre":212,
+    "titre":"Quand le chauve sourit",
+    "annee":1677888000000
+  },
+  {
+    "id":"r1179",
+    "ordre":213,
+    "titre":"Murder Party",
+    "annee":1209600000000
+  },
+  {
+    "id":"r1180",
+    "ordre":213,
+    "titre":"Murder Party",
+    "annee":1259625600000
+  },
+  {
+    "id":"r1181",
+    "ordre":213,
+    "titre":"Murder Party",
+    "annee":1353628800000
+  },
+  {
+    "id":"r1182",
+    "ordre":213,
+    "titre":"Murder Party",
+    "annee":1679788800000
+  },
+  {
+    "id":"r1183",
+    "ordre":214,
+    "titre":"Les Perles de l'Oncle Robert",
+    "annee":1204329600000
+  },
+  {
+    "id":"r1184",
+    "ordre":215,
+    "titre":"Un étrange trio",
+    "annee":1191196800000
+  },
+  {
+    "id":"r1185",
+    "ordre":215,
+    "titre":"Un étrange trio",
+    "annee":1315440000000
+  },
+  {
+    "id":"r1186",
+    "ordre":215,
+    "titre":"Un étrange trio",
+    "annee":1677888000000
+  },
+  {
+    "id":"r1187",
+    "ordre":216,
+    "titre":"Le Conseil des 7 Sages",
+    "annee":1289347200000
+  },
+  {
+    "id":"r1188",
+    "ordre":216,
+    "titre":"Le Conseil des 7 Sages",
+    "annee":1289347200000
+  },
+  {
+    "id":"r1189",
+    "ordre":216,
+    "titre":"Le Conseil des 7 Sages",
+    "annee":1656547200000
+  },
+  {
+    "id":"r1190",
+    "ordre":216,
+    "titre":"Le Conseil des 7 Sages",
+    "annee":"2023-03-04+"
+  },
+  {
+    "id":"r1191",
+    "ordre":217,
+    "titre":"La Bête aux six doigts",
+    "annee":1242345600000
+  },
+  {
+    "id":"r1192",
+    "ordre":217,
+    "titre":"La Bête aux six doigts",
+    "annee":1242345600000
+  },
+  {
+    "id":"r1193",
+    "ordre":217,
+    "titre":"La Bête aux six doigts",
+    "annee":1668211200000
+  },
+  {
+    "id":"r1194",
+    "ordre":218,
+    "titre":"Une mystérieuse proposition",
+    "annee":1229299200000
+  },
+  {
+    "id":"r1195",
+    "ordre":218,
+    "titre":"Une mystérieuse proposition",
+    "annee":1275350400000
+  },
+  {
+    "id":"r1196",
+    "ordre":218,
+    "titre":"Une mystérieuse proposition",
+    "annee":1354147200000
+  },
+  {
+    "id":"r1197",
+    "ordre":218,
+    "titre":"Une mystérieuse proposition",
+    "annee":1690243200000
+  },
+  {
+    "id":"r1198",
+    "ordre":219,
+    "titre":"La Pyramide des Ratapignata",
+    "annee":1233446400000
+  },
+  {
+    "id":"r1199",
+    "ordre":219,
+    "titre":"La Pyramide des Ratapignata",
+    "annee":1314230400000
+  },
+  {
+    "id":"r1200",
+    "ordre":219,
+    "titre":"La Pyramide des Ratapignata",
+    "annee":1677888000000
+  },
+  {
+    "id":"r1201",
+    "ordre":220,
+    "titre":"Yukon Quest",
+    "annee":1306368000000
+  },
+  {
+    "id":"r1202",
+    "ordre":220,
+    "titre":"Yukon Quest",
+    "annee":1306368000000
+  },
+  {
+    "id":"r1203",
+    "ordre":220,
+    "titre":"Yukon Quest",
+    "annee":1304208000000
+  },
+  {
+    "id":"r1204",
+    "ordre":220,
+    "titre":"Yukon Quest",
+    "annee":1648425600000
+  },
+  {
+    "id":"r1205",
+    "ordre":221,
+    "titre":"Chantage mortel",
+    "annee":1322006400000
+  },
+  {
+    "id":"r1206",
+    "ordre":221,
+    "titre":"Chantage mortel",
+    "annee":1648684800000
+  },
+  {
+    "id":"r1207",
+    "ordre":221,
+    "titre":"Chantage mortel",
+    "annee":1679788800000
+  },
+  {
+    "id":"r1208",
+    "ordre":222,
+    "titre":"Game over",
+    "annee":1256169600000
+  },
+  {
+    "id":"r1209",
+    "ordre":222,
+    "titre":"Game over",
+    "annee":1256169600000
+  },
+  {
+    "id":"r1210",
+    "ordre":222,
+    "titre":"Game over",
+    "annee":1293840000000
+  },
+  {
+    "id":"r1211",
+    "ordre":223,
+    "titre":"Alerte aux V1",
+    "annee":1230768000000
+  },
+  {
+    "id":"r1212",
+    "ordre":223,
+    "titre":"Alerte aux V1",
+    "annee":1251763200000
+  },
+  {
+    "id":"r1213",
+    "ordre":223,
+    "titre":"Alerte aux V1",
+    "annee":1353628800000
+  },
+  {
+    "id":"r1214",
+    "ordre":223,
+    "titre":"Alerte aux V1",
+    "annee":1679788800000
+  },
+  {
+    "id":"r1215",
+    "ordre":224,
+    "titre":"Le Clone D'Hash-Khe-Neh",
+    "annee":1275350400000
+  },
+  {
+    "id":"r1216",
+    "ordre":224,
+    "titre":"Le Clone D'Hash-Khe-Neh",
+    "annee":1354147200000
+  },
+  {
+    "id":"r1217",
+    "ordre":224,
+    "titre":"Le Clone D'Hash-Khe-Neh",
+    "annee":1690243200000
+  },
+  {
+    "id":"r1218",
+    "ordre":225,
+    "titre":"Coup de théâtre",
+    "annee":1285891200000
+  },
+  {
+    "id":"r1219",
+    "ordre":225,
+    "titre":"Coup de théâtre",
+    "annee":1285891200000
+  },
+  {
+    "id":"r1220",
+    "ordre":225,
+    "titre":"Coup de théâtre",
+    "annee":1293840000000
+  },
+  {
+    "id":"r1221",
+    "ordre":226,
+    "titre":"Une mauvaise surprise",
+    "annee":1293840000000
+  },
+  {
+    "id":"r1222",
+    "ordre":226,
+    "titre":"Une mauvaise surprise",
+    "annee":1314230400000
+  },
+  {
+    "id":"r1223",
+    "ordre":226,
+    "titre":"Une mauvaise surprise",
+    "annee":1677888000000
+  },
+  {
+    "id":"r1224",
+    "ordre":227,
+    "titre":"Le Monstre du métro",
+    "annee":1293840000000
+  },
+  {
+    "id":"r1225",
+    "ordre":227,
+    "titre":"Le Monstre du métro",
+    "annee":1315440000000
+  },
+  {
+    "id":"r1226",
+    "ordre":227,
+    "titre":"Le Monstre du métro",
+    "annee":1677888000000
+  },
+  {
+    "id":"r1227",
+    "ordre":228,
+    "titre":"Contre-Attaque",
+    "annee":1358985600000
+  },
+  {
+    "id":"r1228",
+    "ordre":228,
+    "titre":"Contre-Attaque",
+    "annee":1438473600000
+  },
+  {
+    "id":"r1229",
+    "ordre":228,
+    "titre":"Contre-Attaque",
+    "annee":1690243200000
+  },
+  {
+    "id":"r1230",
+    "ordre":229,
+    "titre":"L'Or gris de Bolivie",
+    "annee":1342051200000
+  },
+  {
+    "id":"r1231",
+    "ordre":229,
+    "titre":"L'Or gris de Bolivie",
+    "annee":1700352000000
+  },
+  {
+    "id":"r1232",
+    "ordre":230,
+    "titre":"Duplication",
+    "annee":1354147200000
+  },
+  {
+    "id":"r1233",
+    "ordre":230,
+    "titre":"Duplication",
+    "annee":1385164800000
+  },
+  {
+    "id":"r1234",
+    "ordre":230,
+    "titre":"Duplication",
+    "annee":1700352000000
+  },
+  {
+    "id":"r1235",
+    "ordre":231,
+    "titre":"Le Sanctuaire des Arrowukas",
+    "annee":1363824000000
+  },
+  {
+    "id":"r1236",
+    "ordre":231,
+    "titre":"Le Sanctuaire des Arrowukas",
+    "annee":1385942400000
+  },
+  {
+    "id":"r1237",
+    "ordre":231,
+    "titre":"Le Sanctuaire des Arrowukas",
+    "annee":1700352000000
+  },
+  {
+    "id":"r1238",
+    "ordre":232,
+    "titre":"La Malédiction de Michel-Ange",
+    "annee":1369267200000
+  },
+  {
+    "id":"r1239",
+    "ordre":232,
+    "titre":"La Malédiction de Michel-Ange",
+    "annee":1705881600000
+  },
+  {
+    "id":"r1240",
+    "ordre":233,
+    "titre":"Alerte à Londres",
+    "annee":1380153600000
+  },
+  {
+    "id":"r1241",
+    "ordre":233,
+    "titre":"Alerte à Londres",
+    "annee":1386979200000
+  },
+  {
+    "id":"r1242",
+    "ordre":233,
+    "titre":"Alerte à Londres",
+    "annee":1705881600000
+  },
+  {
+    "id":"r1243",
+    "ordre":234,
+    "titre":"Les Faiseurs d'oasis",
+    "annee":1393459200000
+  },
+  {
+    "id":"r1244",
+    "ordre":234,
+    "titre":"Les Faiseurs d'oasis",
+    "annee":1705881600000
+  },
+  {
+    "id":"r1245",
+    "ordre":235,
+    "titre":"Menace au château Frontenac",
+    "annee":1385856000000
+  },
+  {
+    "id":"r1246",
+    "ordre":236,
+    "titre":"Le Souffle de Vénus",
+    "annee":1356998400000
+  },
+  {
+    "id":"r1247",
+    "ordre":236,
+    "titre":"Le Souffle de Vénus",
+    "annee":1540425600000
+  },
+  {
+    "id":"r1248",
+    "ordre":237,
+    "titre":"La Forteresse des nuages",
+    "annee":1396310400000
+  },
+  {
+    "id":"r1249",
+    "ordre":237,
+    "titre":"La Forteresse des nuages",
+    "annee":1506816000000
+  },
+  {
+    "id":"r1250",
+    "ordre":237,
+    "titre":"La Forteresse des nuages",
+    "annee":1762732800000
+  },
+  {
+    "id":"r1251",
+    "ordre":238,
+    "titre":"La Cité hors du temps",
+    "annee":1417046400000
+  },
+  {
+    "id":"r1252",
+    "ordre":238,
+    "titre":"La Cité hors du temps",
+    "annee":1730419200000
+  },
+  {
+    "id":"r1253",
+    "ordre":239,
+    "titre":"Détour par Banshee Bay",
+    "annee":1420070400000
+  },
+  {
+    "id":"r1254",
+    "ordre":240,
+    "titre":"Le Médaillon à la salamandre",
+    "annee":1396310400000
+  },
+  {
+    "id":"r1255",
+    "ordre":241,
+    "titre":"Plein ciel",
+    "annee":1420070400000
+  },
+  {
+    "id":"r1256",
+    "ordre":241,
+    "titre":"Plein ciel",
+    "annee":1540425600000
+  },
+  {
+    "id":"r1257",
+    "ordre":242,
+    "titre":"Le Murmure des ombres",
+    "annee":1417046400000
+  },
+  {
+    "id":"r1258",
+    "ordre":242,
+    "titre":"Le Murmure des ombres",
+    "annee":1730419200000
+  },
+  {
+    "id":"r1259",
+    "ordre":243,
+    "titre":"Opération Chronos",
+    "annee":1444867200000
+  },
+  {
+    "id":"r1260",
+    "ordre":243,
+    "titre":"Opération Chronos",
+    "annee":1444867200000
+  },
+  {
+    "id":"r1261",
+    "ordre":243,
+    "titre":"Opération Chronos",
+    "annee":1730419200000
+  },
+  {
+    "id":"r1262",
+    "ordre":244,
+    "titre":"L'Idole viking",
+    "annee":1477526400000
+  },
+  {
+    "id":"r1263",
+    "ordre":244,
+    "titre":"L'Idole viking",
+    "annee":1757462400000
+  },
+  {
+    "id":"r1264",
+    "ordre":245,
+    "titre":"Brutux",
+    "annee":1420070400000
+  },
+  {
+    "id":"r1265",
+    "ordre":245,
+    "titre":"Brutux",
+    "annee":1506816000000
+  },
+  {
+    "id":"r1266",
+    "ordre":245,
+    "titre":"Brutux",
+    "annee":1757462400000
+  },
+  {
+    "id":"r1267",
+    "ordre":246,
+    "titre":"Le Retour de l’aigle",
+    "annee":1420070400000
+  },
+  {
+    "id":"r1268",
+    "ordre":246,
+    "titre":"Le Retour de l’aigle",
+    "annee":1506816000000
+  },
+  {
+    "id":"r1269",
+    "ordre":247,
+    "titre":"Le Syndrome du pharaon",
+    "annee":1451606400000
+  },
+  {
+    "id":"r1270",
+    "ordre":247,
+    "titre":"Le Syndrome du pharaon",
+    "annee":1506816000000
+  },
+  {
+    "id":"r1271",
+    "ordre":247,
+    "titre":"Le Syndrome du pharaon",
+    "annee":1757462400000
+  },
+  {
+    "id":"r1272",
+    "ordre":248,
+    "titre":"Les Passagers de la nuit",
+    "annee":1451606400000
+  },
+  {
+    "id":"r1273",
+    "ordre":249,
+    "titre":"Retour à Gray précédé de Guet-apens à Gray",
+    "annee":1451606400000
+  },
+  {
+    "id":"r1274",
+    "ordre":249,
+    "titre":"Retour à Gray précédé de Guet-apens à Gray",
+    "annee":1451606400000
+  },
+  {
+    "id":"r1275",
+    "ordre":250,
+    "titre":"Les Fils d'Orion",
+    "annee":1451606400000
+  },
+  {
+    "id":"r1276",
+    "ordre":250,
+    "titre":"Les Fils d'Orion",
+    "annee":1605225600000
+  },
+  {
+    "id":"r1277",
+    "ordre":251,
+    "titre":"Les Créatures de l’Ombre Jaune",
+    "annee":1451606400000
+  },
+  {
+    "id":"r1278",
+    "ordre":252,
+    "titre":"La Chauve-souris de Xibalba",
+    "annee":1451606400000
+  },
+  {
+    "id":"r1279",
+    "ordre":253,
+    "titre":"« KUSTLAND » l'invisible menace",
+    "annee":1490227200000
+  },
+  {
+    "id":"r1280",
+    "ordre":254,
+    "titre":"Le Poucet de Vendôme",
+    "annee":1475280000000
+  },
+  {
+    "id":"r1281",
+    "ordre":254,
+    "titre":"Le Poucet de Vendôme",
+    "annee":1506816000000
+  },
+  {
+    "id":"r1282",
+    "ordre":255,
+    "titre":"Les Colosses de l'Ombre Jaune",
+    "annee":1475280000000
+  },
+  {
+    "id":"r1283",
+    "ordre":256,
+    "titre":"Les Larmes du Bonsaï",
+    "annee":1475280000000
+  },
+  {
+    "id":"r1284",
+    "ordre":257,
+    "titre":"Les Enfants maudits d’Adjouna",
+    "annee":1496275200000
+  },
+  {
+    "id":"r1285",
+    "ordre":258,
+    "titre":"Le Grand Mogol",
+    "annee":1477526400000
+  },
+  {
+    "id":"r1286",
+    "ordre":259,
+    "titre":"Le Manoir des mensonges",
+    "annee":1485907200000
+  },
+  {
+    "id":"r1287",
+    "ordre":260,
+    "titre":"Péril sur Chinatown",
+    "annee":1485907200000
+  },
+  {
+    "id":"r1288",
+    "ordre":261,
+    "titre":"La Relique maudite",
+    "annee":1499904000000
+  },
+  {
+    "id":"r1289",
+    "ordre":262,
+    "titre":"Opération « Micromégas »",
+    "annee":1485907200000
+  },
+  {
+    "id":"r1290",
+    "ordre":263,
+    "titre":"Le Pont incertain",
+    "annee":1496275200000
+  },
+  {
+    "id":"r1291",
+    "ordre":264,
+    "titre":"L'Écumeuse de la Jamaïque",
+    "annee":1515715200000
+  },
+  {
+    "id":"r1292",
+    "ordre":265,
+    "titre":"Les Ténèbres d’Ananké",
+    "annee":1496275200000
+  },
+  {
+    "id":"r1293",
+    "ordre":265,
+    "titre":"Les Ténèbres d’Ananké",
+    "annee":1506816000000
+  },
+  {
+    "id":"r1294",
+    "ordre":265,
+    "titre":"Les Ténèbres d’Ananké",
+    "annee":1506816000000
+  },
+  {
+    "id":"r1295",
+    "ordre":266,
+    "titre":"Le Diable d'Angoulême",
+    "annee":1325376000000
+  },
+  {
+    "id":"r1296",
+    "ordre":266,
+    "titre":"Le Diable d'Angoulême",
+    "annee":1506816000000
+  },
+  {
+    "id":"r1297",
+    "ordre":267,
+    "titre":"Terminus fatal",
+    "annee":1506816000000
+  },
+  {
+    "id":"r1298",
+    "ordre":267,
+    "titre":"Terminus fatal",
+    "annee":1540425600000
+  },
+  {
+    "id":"r1299",
+    "ordre":268,
+    "titre":"Les Chemins d’Ananké",
+    "annee":1527811200000
+  },
+  {
+    "id":"r1300",
+    "ordre":268,
+    "titre":"Les Chemins d’Ananké",
+    "annee":1542844800000
+  },
+  {
+    "id":"r1301",
+    "ordre":268,
+    "titre":"Les Chemins d’Ananké",
+    "annee":1542844800000
+  },
+  {
+    "id":"r1302",
+    "ordre":269,
+    "titre":"Rencontres à Altamira",
+    "annee":1512086400000
+  },
+  {
+    "id":"r1303",
+    "ordre":269,
+    "titre":"Rencontres à Altamira",
+    "annee":1605225600000
+  },
+  {
+    "id":"r1304",
+    "ordre":270,
+    "titre":"Les Ruses de l’Ombre Jaune",
+    "annee":1519862400000
+  },
+  {
+    "id":"r1305",
+    "ordre":271,
+    "titre":"Les Diamants perdus",
+    "annee":1517443200000
+  },
+  {
+    "id":"r1306",
+    "ordre":271,
+    "titre":"Les Diamants perdus",
+    "annee":1605225600000
+  },
+  {
+    "id":"r1307",
+    "ordre":272,
+    "titre":"Asgard la noire",
+    "annee":1517443200000
+  },
+  {
+    "id":"r1308",
+    "ordre":272,
+    "titre":"Asgard la noire",
+    "annee":1605225600000
+  },
+  {
+    "id":"r1309",
+    "ordre":273,
+    "titre":"Virus AL-1",
+    "annee":1547164800000
+  },
+  {
+    "id":"r1310",
+    "ordre":274,
+    "titre":"Le Spectre de Radio Z",
+    "annee":1527811200000
+  },
+  {
+    "id":"r1311",
+    "ordre":275,
+    "titre":"La Cinquième dimension",
+    "annee":1535760000000
+  },
+  {
+    "id":"r1312",
+    "ordre":276,
+    "titre":"Les Marais d'Ananké",
+    "annee":1535760000000
+  },
+  {
+    "id":"r1313",
+    "ordre":276,
+    "titre":"Les Marais d'Ananké",
+    "annee":1556668800000
+  },
+  {
+    "id":"r1314",
+    "ordre":276,
+    "titre":"Les Marais d'Ananké",
+    "annee":1556668800000
+  },
+  {
+    "id":"r1315",
+    "ordre":277,
+    "titre":"L'Arche de l’Ombre Jaune",
+    "annee":1556668800000
+  },
+  {
+    "id":"r1316",
+    "ordre":278,
+    "titre":"Sans espoir de retour",
+    "annee":1556668800000
+  },
+  {
+    "id":"r1317",
+    "ordre":279,
+    "titre":"L'Ombre du lac bleu",
+    "annee":1567296000000
+  },
+  {
+    "id":"r1318",
+    "ordre":280,
+    "titre":"Le Labyrinthe du condor",
+    "annee":1556668800000
+  },
+  {
+    "id":"r1319",
+    "ordre":281,
+    "titre":"Les Gardiens d’Ishango",
+    "annee":1556668800000
+  },
+  {
+    "id":"r1320",
+    "ordre":282,
+    "titre":"Le Général de l’ombre",
+    "annee":1567296000000
+  },
+  {
+    "id":"r1321",
+    "ordre":282,
+    "titre":"Le Général de l’ombre",
+    "annee":1671753600000
+  },
+  {
+    "id":"r1322",
+    "ordre":283,
+    "titre":"24 cents",
+    "annee":1567296000000
+  },
+  {
+    "id":"r1323",
+    "ordre":284,
+    "titre":"Les Hommes taupes d'Ananké",
+    "annee":1580515200000
+  },
+  {
+    "id":"r1324",
+    "ordre":284,
+    "titre":"Les Hommes taupes d'Ananké",
+    "annee":1603843200000
+  },
+  {
+    "id":"r1325",
+    "ordre":284,
+    "titre":"Les Hommes taupes d'Ananké",
+    "annee":1603843200000
+  },
+  {
+    "id":"r1326",
+    "ordre":285,
+    "titre":"Opération « Blanche Neige »",
+    "annee":1556668800000
+  },
+  {
+    "id":"r1327",
+    "ordre":285,
+    "titre":"Opération « Blanche Neige »",
+    "annee":1580515200000
+  },
+  {
+    "id":"r1328",
+    "ordre":286,
+    "titre":"L'Empire des chimères",
+    "annee":1576108800000
+  },
+  {
+    "id":"r1329",
+    "ordre":287,
+    "titre":"Poison noir",
+    "annee":1576108800000
+  },
+  {
+    "id":"r1330",
+    "ordre":288,
+    "titre":"Les Naufragés de la pleine lune",
+    "annee":1685577600000
+  },
+  {
+    "id":"r1331",
+    "ordre":289,
+    "titre":"Le Druide du Val des Nymphes",
+    "annee":1575158400000
+  },
+  {
+    "id":"r1332",
+    "ordre":290,
+    "titre":"Alerte en mer de Chine",
+    "annee":1575158400000
+  },
+  {
+    "id":"r1333",
+    "ordre":291,
+    "titre":"Le Moulin aux Goules de Penoweth",
+    "annee":1590969600000
+  },
+  {
+    "id":"r1334",
+    "ordre":292,
+    "titre":"La Singulière affaire de Mylor Bridge",
+    "annee":1601510400000
+  },
+  {
+    "id":"r1335",
+    "ordre":293,
+    "titre":"Via Caesar",
+    "annee":1617062400000
+  },
+  {
+    "id":"r1336",
+    "ordre":294,
+    "titre":"Le Magicien du Hasard",
+    "annee":1590969600000
+  },
+  {
+    "id":"r1337",
+    "ordre":295,
+    "titre":"Chairs de poules",
+    "annee":1590969600000
+  },
+  {
+    "id":"r1338",
+    "ordre":296,
+    "titre":"Là où souffle le vent",
+    "annee":1671753600000
+  },
+  {
+    "id":"r1339",
+    "ordre":297,
+    "titre":"Ananké L'océane",
+    "annee":1601510400000
+  },
+  {
+    "id":"r1340",
+    "ordre":297,
+    "titre":"Ananké L'océane",
+    "annee":1630454400000
+  },
+  {
+    "id":"r1341",
+    "ordre":298,
+    "titre":"Le Cinquième cavalier",
+    "annee":1630454400000
+  },
+  {
+    "id":"r1342",
+    "ordre":299,
+    "titre":"L'Ombre du passé",
+    "annee":1606780800000
+  },
+  {
+    "id":"r1343",
+    "ordre":299,
+    "titre":"L'Ombre du passé",
+    "annee":1706745600000
+  },
+  {
+    "id":"r1344",
+    "ordre":300,
+    "titre":"La Mort de l'Ombre Jaune",
+    "annee":1685577600000
+  },
+  {
+    "id":"r1345",
+    "ordre":301,
+    "titre":"Celui qui feule",
+    "annee":1638316800000
+  },
+  {
+    "id":"r1346",
+    "ordre":302,
+    "titre":"Outre-tombe",
+    "annee":1635465600000
+  },
+  {
+    "id":"r1347",
+    "ordre":303,
+    "titre":"Le Magicien de l’ombre",
+    "annee":1606780800000
+  },
+  {
+    "id":"r1348",
+    "ordre":303,
+    "titre":"Le Magicien de l’ombre",
+    "annee":1706745600000
+  },
+  {
+    "id":"r1349",
+    "ordre":305,
+    "titre":"Coqs en stocks",
+    "annee":1630454400000
+  },
+  {
+    "id":"r1350",
+    "ordre":306,
+    "titre":"Les Héritiers des Pharaons noirs",
+    "annee":1609459200000
+  },
+  {
+    "id":"r1351",
+    "ordre":306,
+    "titre":"Les Héritiers des Pharaons noirs",
+    "annee":1704067200000
+  },
+  {
+    "id":"r1352",
+    "ordre":307,
+    "titre":"Le Secret des Puquios",
+    "annee":1638316800000
+  },
+  {
+    "id":"r1353",
+    "ordre":308,
+    "titre":"Opération « Chaos »",
+    "annee":1646092800000
+  },
+  {
+    "id":"r1354",
+    "ordre":309,
+    "titre":"Les Crocs du panda",
+    "annee":1643673600000
+  },
+  {
+    "id":"r1355",
+    "ordre":309,
+    "titre":"Les Crocs du panda",
+    "annee":1685577600000
+  },
+  {
+    "id":"r1356",
+    "ordre":309,
+    "titre":"Les Crocs du panda",
+    "annee":1696032000000
+  },
+  {
+    "id":"r1357",
+    "ordre":310,
+    "titre":"La Chimère de l'ombre",
+    "annee":1638316800000
+  },
+  {
+    "id":"r1358",
+    "ordre":310,
+    "titre":"La Chimère de l'ombre",
+    "annee":1704067200000
+  },
+  {
+    "id":"r1359",
+    "ordre":311,
+    "titre":"Prologue",
+    "annee":1638316800000
+  },
+  {
+    "id":"r1360",
+    "ordre":311,
+    "titre":"Prologue",
+    "annee":1638316800000
+  },
+  {
+    "id":"r1361",
+    "ordre":311,
+    "titre":"Prologue",
+    "annee":1696032000000
+  },
+  {
+    "id":"r1362",
+    "ordre":312,
+    "titre":"La Résurrection de Kulshedra",
+    "annee":1669852800000
+  },
+  {
+    "id":"r1363",
+    "ordre":313,
+    "titre":"La Guerre du carbone",
+    "annee":1675209600000
+  },
+  {
+    "id":"r1364",
+    "ordre":314,
+    "titre":"Mokélé",
+    "annee":1669852800000
+  },
+  {
+    "id":"r1365",
+    "ordre":314,
+    "titre":"Mokélé",
+    "annee":1696032000000
+  },
+  {
+    "id":"r1366",
+    "ordre":315,
+    "titre":"Cauchemar pour l'Ombre Jaune",
+    "annee":1685577600000
+  },
+  {
+    "id":"r1367",
+    "ordre":316,
+    "titre":"Les Légions de l'ombre",
+    "annee":1706745600000
+  },
+  {
+    "id":"r1368",
+    "ordre":317,
+    "titre":"S.A.L.A.",
+    "annee":1675209600000
+  },
+  {
+    "id":"r1369",
+    "ordre":321,
+    "titre":"L'Astre de Civa",
+    "annee":1706745600000
+  },
+  {
+    "id":"r1370",
+    "ordre":322,
+    "titre":"Enigma",
+    "annee":1706745600000
+  },
+  {
+    "id":"r1371",
+    "ordre":323,
+    "titre":"Opération Ambre",
+    "annee":1717200000000
+  },
+  {
+    "id":"r1372",
+    "ordre":324,
+    "titre":"À la manière de…",
+    "annee":1738368000000
+  },
+  {
+    "id":"r1373",
+    "ordre":325,
+    "titre":"La Jonque rouge",
+    "annee":1727740800000
+  },
+  {
+    "id":"r1374",
+    "ordre":326,
+    "titre":"Kairos",
+    "annee":1727740800000
+  },
+  {
+    "id":"r1375",
+    "ordre":328,
+    "titre":"L'Homme aux yeux jaunes",
+    "annee":1727740800000
+  }
+]
