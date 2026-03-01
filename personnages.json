@@ -1527,7 +1527,7 @@
   },
   {
     "romanId":"r17",
-    "nom":"Émir Zaal",
+    "nom":"Zaal (Émir)",
     "role":"Oncle de Yassim et beau-frère d’Ibn Zeid. D’abord régent, il devient usurpateur du trône de Kabbah avec l’appui d’Orgonetz et d’intérêts étrangers. Il utilise Yassim comme otage et prépare la livraison du pays à une puissance étrangère. Il est finalement tué par Kerim dans le palais.",
     "physique":"Petit homme obèse, au corps replet, triple menton, visage olivâtre et huileux, yeux petits, noirs, porcins où brille parfois une terreur ou un triomphe cruel. Il porte des babouches richement brodées, des vêtements de soie chamarrée, un bonnet de caracul orné d’une énorme émeraude et une large ceinture de cuir décorée de pierres précieuses avec un poignard à fourreau et poignée d’or.",
     "image":""
@@ -1537,7 +1537,7 @@
     "nom":"Ali Djem",
     "role":"Envoyé de l’émir Zaal auprès de Yassim. Se présente comme défenseur de l’intégrité de Kabbah pour l’attirer à bord du boutre, le livrer à Zaal et coopérer avec Orgonetz. Dirige un groupe d’hommes armés dans le désert, capture Bob et utilise ce dernier pour tenter de faire pression sur sir George Lester.",
     "physique":"Arabe grand et maigre, au visage étroit marqué par une expression de froide cruauté, soulignée par de courtes moustaches dont les pointes tombent. Il est présenté comme un homme dur, aux gestes brusques (gifle Bob), souvent vêtu à la manière des notables du désert (sans détails vestimentaires précis au-delà du contexte).",
-    "image":""
+    "image":"personnages\/zaal.png"
   },
   {
     "romanId":"r17",
@@ -1548,10 +1548,10 @@
   },
   {
     "romanId":"r17",
-    "nom":"Capitaine Kerim",
+    "nom":"Kerim (Capitaine)",
     "role":"Capitaine de boutre puis officier de Kabbah. D’abord au service officiel de Zaal, il aide secrètement Bob à s’évader, se rallie à la cause de Yassim, va chercher Choukri, détourne les armes du convoi d’Orgonetz et finit par abattre Zaal dans le palais.",
     "physique":"Grand Arabe, décrit comme un géant à plusieurs reprises. Visage basané, courte barbe noire, moustaches aux pointes tombantes, donnant un visage de conquérant maure. Il porte un turban à coiffe de cuivre lorsqu’il surgit dans le palais. Sa force est rapprochée de celle de Ballantine, qu’on qualifie d’herculéenne.",
-    "image":"personnages\/Kerim.png"
+    "image":"personnages\/kerim.png"
   },
   {
     "romanId":"r17",
@@ -1607,7 +1607,7 @@
     "nom":"Roman Orgonetz",
     "role":"Agent secret étranger, pivot de la conspiration autour de Kabbah. Repéré à Marseille puis à Djibouti, il est lié à Ali Djem et à Zaal et soutenu par une nation puissante pour s’emparer des pétroles de Kabbah. Commande ou doit commander le convoi « scientifique » armé.",
     "physique":"Homme au corps informe, de taille moyenne presque obèse. Porte un panama cabossé et un complet de chantoung blanc chiffonné qu’il semble ne pas avoir quitté « jour et nuit durant un mois » ; on dit qu’il porte ses vêtements comme le ferait un sac de sable. Il a un gros nez, un teint blafard, des dents aurifiées et une face molle souvent éclairée d’un sourire inquiétant. Il cache parfois son visage sous de grandes lunettes aux verres fumés.",
-    "image":""
+    "image":"personnages\/roman_orgonetz__02.png"
   },
   {
     "romanId":"r17",
@@ -2216,7 +2216,7 @@
     "nom":"Bob Morane",
     "role":"Héros du roman, Français, pilote venu en avion visiter son ami Allan Wood à Walobo, puis associé malgré lui à l’expédition de Pete Van Horn contre les « Démons des cataractes ».",
     "physique":"Homme français au visage bronzé, cheveux taillés en brosse. Physiquement robuste, très entraîné, excellent tireur, capable de se battre au corps à corps contre les Jujurus. L’auteur insiste plus sur son sang-froid et son endurance que sur des détails fins (taille, couleur des yeux, etc.)",
-    "image":""
+    "image":"personnages\/jujurus.png"
   },
   {
     "romanId":"r22",
@@ -2290,142 +2290,23 @@
   },
   {
     "romanId":"r23",
-    "nom":"Bob Morane",
-    "role":"Protagoniste. Ami de sir George Lester, il est chargé de retrouver Harpe et Xarof, puis de remonter toute l’“Opération Fleur du Sommeil” jusqu’au repaire d’Orgonetz ; il mène les actions de terrain (Londres, Paris, Farsistan, côte, etc.) et contribue à la destruction de l’organisation.",
-    "physique":"Le texte le montre très résistant physiquement (supporte ligotages, combats, marches en montagne), mais ne donne pas de portrait détaillé (taille, cheveux, etc.) dans ce roman.",
-    "image":""
-  },
-  {
-    "romanId":"r23",
-    "nom":"Bill Ballantine",
-    "role":"Second protagoniste, compagnon de Bob. Ami écossais que Bob fait venir d’Écosse pour l’accompagner en Iran et dans la vallée secrète où est cultivé le pavot ; participe aux repérages, aux combats contre les gardes, à la libération des esclaves et à la destruction de la base d’Orgonetz.",
-    "physique":"Décrit comme un colosse, un géant roux aux lourdes épaules et à « l’épaisse chevelure de cuivre rouge ».",
-    "image":""
-  },
-  {
-    "romanId":"r23",
-    "nom":"Sir George Lester",
-    "role":"Chef de la brigade spéciale des narcotiques pour le Moyen-Orient ; vieil ami de Bob, il lui confie la mission d’approcher Harpe et Xarof, coordonne l’enquête avec Interpol et les polices, arrive en renfort à la clinique des Praxette et clôt l’affaire au Caire en exploitant le carnet d’Orgonetz.",
-    "physique":"Aucune description physique précise n’est donnée dans les extraits narratifs (on sait seulement qu’il est Anglais, boit du whisky avec respect quasi religieux, etc.).",
-    "image":""
-  },
-  {
-    "romanId":"r23",
-    "nom":"Major Haymes",
-    "role":"Responsable important du service secret britannique ; il prévient sir George de la mort du professeur Harpe à Londres et sert de relais avec les autorités anglaises.",
-    "physique":"Pas de description physique détaillée dans ce roman.",
-    "image":""
-  },
-  {
-    "romanId":"r23",
-    "nom":"Lew Harding",
-    "role":"Archéologue, compagnon de mission de Harpe et Xarof en Iran ; premier des trois savants à être assassiné (au Caire). Avant de mourir dans la chambre de Bob, il prononce « Fleur du Sommeil, Harpe, Xarof », ce qui déclenche l’enquête.",
-    "physique":"Le corps est simplement décrit comme recouvert d’un drap après le meurtre ; aucun détail physique précis (taille, visage, etc.) n’est donné.",
-    "image":""
-  },
-  {
-    "romanId":"r23",
-    "nom":"Anthony Harpe (professeur Harpe)",
-    "role":"Archéologue britannique, collègue de Harding et Xarof dans l’expédition en Iran. Il détient le même secret que Harding ; il est assassiné à Londres avant que Bob ne puisse le voir.",
-    "physique":"Major Haymes explique que Conan Doyle aurait pu, moralement et physiquement, le prendre pour modèle du professeur Challenger : Harpe a donc un physique rappelant celui de ce personnage, sans autre détail concret ajouté.",
-    "image":""
-  },
-  {
-    "romanId":"r23",
-    "nom":"Nicolas Xarof",
-    "role":"Archéologue français du Musée de l’Homme, troisième savant de l’expédition avec Harding et Harpe. Il est assassiné à coups de hache de pierre dans son laboratoire au Trocadéro, ce qui confirme l’ampleur du complot.",
-    "physique":"Aucune description physique directe ; le texte insiste surtout sur sa vie « retirée et paisible » et sur les circonstances de son meurtre.",
-    "image":""
-  },
-  {
-    "romanId":"r23",
-    "nom":"Michel Litvine",
-    "role":"Entomologiste (professeur). Proche de Xarof ; contacté par Bob à Paris, il devient une cible de la Fleur du Sommeil et est enlevé avec Morane. Il co-subit la captivité à la clinique des Praxette puis aide Bob lors de la confrontation avec Albert Praxette.",
-    "physique":"« Petit et malingre », entre deux âges ; visage mince aux joues creuses, quasiment masqué par d’« énormes lunettes aux verres grossissants » ; yeux d’un bleu limpide derrière ces verres, donnant l’impression d’un être d’un autre monde.",
-    "image":"personnages\/Michel Litvine.png"
-  },
-  {
-    "romanId":"r23",
-    "nom":"Jean Brulé",
-    "role":"Prospecteur pétrolier français ; quatrième homme de l’expédition en Iran avec Harding, Harpe et Xarof. Il a quitté les savants avant Téhéran, puis, se sentant menacé, s’est mis en relation avec Interpol. Plus tard, il raconte à Bob, sir George et Prunet tout le plan d’Orgonetz\/Greenstreet et fournit une carte détaillée des plantations au Farsistan.",
-    "physique":"Aucune description physique précise (âge, taille, etc.) ; on apprend seulement qu’il s’est tiré presque sans égratignure d’un attentat à la grenade, avec une oreille légèrement éraflée qui saigne.",
-    "image":""
-  },
-  {
-    "romanId":"r23",
-    "nom":"Lieutenant Achmed",
+    "nom":"Achmed (Lieutenant)",
     "role":"Officier de police égyptien au Caire ; dirige l’interrogatoire de Bob après le meurtre de Harding, se montre soupçonneux et agressif envers Morane avant d’être recadré par sir George.",
     "physique":"Grand, large d’épaules, avec un début d’embonpoint masqué par un uniforme très serré ; teint plombé, paupière lourde et moustache conquérante aux pointes relevées.",
-    "image":""
-  },
-  {
-    "romanId":"r23",
-    "nom":"Inspecteur Daudrais",
-    "role":"Inspecteur chargé de l’enquête sur le meurtre de Xarof au Musée de l’Homme.",
-    "physique":"Aucun portrait direct n’est donné dans la narration (le texte mentionne seulement sa fonction dans l’article de journal sur le meurtre de Xarof).",
-    "image":""
-  },
-  {
-    "romanId":"r23",
-    "nom":"Inspecteur Prunet",
-    "role":"Inspecteur de la Sûreté française et chef d’Interpol à Paris. Il prend en main la partie française de l’affaire (poursuite de la bande, analyse des tirs sur Praxette, coordination avec sir George).",
-    "physique":"« Homme grand et mince, aux cheveux grisonnants et aux lunettes cerclées d’écaille » lorsqu’il entre dans la pièce où se trouvent Bob, sir George et Praxette.",
-    "image":""
-  },
-  {
-    "romanId":"r23",
-    "nom":"Daniel Praxette (docteur)",
-    "role":"L’un des deux frères Praxette, directeurs de la clinique psychiatrique de Neuilly ; lié à la bande de la Fleur du Sommeil. Sa clinique sert de lieu de séquestration\/torture (Bob et Litvine y sont attachés), et sa complicité dans l’organisation criminelle est évoquée.",
-    "physique":"Le roman le mentionne parmi les « docteurs Praxette » mais ne fournit pas de description physique distincte pour Daniel (la description détaillée concerne explicitement Albert).",
-    "image":""
+    "image":"personnages\/achmed.png"
   },
   {
     "romanId":"r23",
     "nom":"Albert Praxette (docteur)",
     "role":"L’autre frère Praxette, psychiatre, co-directeur de la clinique. Il supervise l’“expérience” sur Bob et Litvine (table d’opération, ligotage), se présente lui-même comme le docteur Albert Praxette, et avoue ses liens avec la Fleur du Sommeil ; blessé par un tir venu de l’extérieur, il est ensuite interrogé.",
-    "physique":"« Grand, mince », vêtu d’une blouse blanche de chirurgien ; calvitie avec tempes grises, mais visage étonnamment jeune aux yeux d’un bleu vitreux.",
-    "image":""
-  },
-  {
-    "romanId":"r23",
-    "nom":"Roman Orgonetz (alias Arthur Greenstreet)",
-    "role":"Principal antagoniste. Agent secret au service d’une grande puissance avide de conquête mondiale ; il dirige sur le terrain l’“Opération Fleur du Sommeil” et commande la vallée de culture du pavot, les convois d’opium et les gardes. Il est aussi appelé « l’homme aux dents dorées » et « l’homme aux dents dorées » est craint par les esclaves.",
-    "physique":"Présenté comme un monstre au visage humain : un « masque lunaire au nez informe » ; visage blafard sous un chapeau à larges bords, dents aurifiées (dents dorées). Il a un ventre énorme, des jambes courtes, donnant l’impression d’une barrique soudain prise d’envie de voyager ; apparence de clown obèse, malgré une âme énergique et sanguinaire.",
-    "image":""
-  },
-  {
-    "romanId":"r23",
-    "nom":"Arthur Greenstreet",
-    "role":"Nom civil \/ alias d’Orgonetz, utilisé notamment par Jean Brulé pour raconter l’histoire : même personne que Roman Orgonetz.",
-    "physique":"Identique à Roman Orgonetz (même physique, simplement un autre nom).",
-    "image":""
-  },
-  {
-    "romanId":"r23",
-    "nom":"Herbert Fuchs",
-    "role":"Tueur au service de la bande de la Fleur du Sommeil, venu à Paris quelques jours avant les événements ; il a l’adresse de Litvine, surveille Bob, tente d’exécuter Morane et est ensuite tué (qualifié de « défunt Herbert Fuchs »).",
-    "physique":"Le texte ne donne pas de portrait détaillé (uniquement son rôle et sa mort).",
-    "image":""
+    "physique":"Grand, mince, vêtu d’une blouse blanche de chirurgien ; calvitie avec tempes grises, mais visage étonnamment jeune aux yeux d’un bleu vitreux.",
+    "image":"personnages\/albert_praxette.png"
   },
   {
     "romanId":"r23",
     "nom":"Aldo Vincetti",
     "role":"Autre homme de main de la bande, venu également à Paris ; présenté comme l’homme qui utilise un pistolet Lüger, chargé de liquider Jean Brulé, Fuchs et de protéger le secret de l’organisation. On apprend plus tard qu’il n’est en réalité pas mort, contrairement à l’information diffusée dans la presse.",
     "physique":"Décrit, lors de l’attentat contre la voiture de Brulé, comme un individu grand, maigre, vêtu d’une veste de sport marron (ou veston de tweed) et portant un chapeau mou à bords baissés ; il a l’oreille éraflée, avec un filet de sang qui coule.",
-    "image":""
-  },
-  {
-    "romanId":"r23",
-    "nom":"Direk Zelfar",
-    "role":"Tueur qui assassine Lew Harding dans la chambre de Bob au Caire ; capturé par Morane. Il est lié à la filière de la drogue et aux événements d’Iran.",
-    "physique":"Le roman le présente comme un homme « oriental », associé aux trafiquants d’opium ; aucune description plus précise (taille, visage, etc.) n’est fournie dans les passages consultés.",
-    "image":""
-  },
-  {
-    "romanId":"r23",
-    "nom":"Mohamed Lazzi",
-    "role":"Esclave arabe enchaîné dans le hangar de la vallée ; originaire des côtes d’Oman, enlevé par des esclavagistes et conduit jusqu’au repaire. Il devient le porte-parole des esclaves, leur chef moral, et collabore avec Bob et Bill pour l’émeute et la destruction de la base.",
-    "physique":"Vieux grand vieillard à la barbe grise, d’une maigreur effrayante ; épaules décharnées ; son poignet est cerclé d’un épais bracelet d’acier (ses fers).",
     "image":""
   },
   {
@@ -2437,9 +2318,121 @@
   },
   {
     "romanId":"r23",
+    "nom":"Anthony Harpe (Professeur)",
+    "role":"Archéologue britannique, collègue de Harding et Xarof dans l’expédition en Iran. Il détient le même secret que Harding ; il est assassiné à Londres avant que Bob ne puisse le voir.",
+    "physique":"Major Haymes explique que Conan Doyle aurait pu, moralement et physiquement, le prendre pour modèle du professeur Challenger : Harpe a donc un physique rappelant celui de ce personnage, sans autre détail concret ajouté. plutôt petit, avec un torse prodigieusement développé, un crâne énorme et un visage envahi par les poils d’une longue et épaisse barbe noire.",
+    "image":""
+  },
+  {
+    "romanId":"r23",
+    "nom":"Arthur Greenstreet",
+    "role":"Nom civil \/ alias d’Orgonetz, utilisé notamment par Jean Brulé pour raconter l’histoire : même personne que Roman Orgonetz.",
+    "physique":"Identique à Roman Orgonetz (même physique, simplement un autre nom).",
+    "image":""
+  },
+  {
+    "romanId":"r23",
+    "nom":"Bill Ballantine",
+    "role":"Second protagoniste, compagnon de Bob. Ami écossais que Bob fait venir d’Écosse pour l’accompagner en Iran et dans la vallée secrète où est cultivé le pavot ; participe aux repérages, aux combats contre les gardes, à la libération des esclaves et à la destruction de la base d’Orgonetz.",
+    "physique":"Décrit comme un colosse, un géant roux aux lourdes épaules et à « l’épaisse chevelure de cuivre rouge ».",
+    "image":""
+  },
+  {
+    "romanId":"r23",
+    "nom":"Bob Morane",
+    "role":"Protagoniste. Ami de sir George Lester, il est chargé de retrouver Harpe et Xarof, puis de remonter toute l’“Opération Fleur du Sommeil” jusqu’au repaire d’Orgonetz ; il mène les actions de terrain (Londres, Paris, Farsistan, côte, etc.) et contribue à la destruction de l’organisation.",
+    "physique":"Le texte le montre très résistant physiquement (supporte ligotages, combats, marches en montagne), mais ne donne pas de portrait détaillé (taille, cheveux, etc.) dans ce roman.",
+    "image":""
+  },
+  {
+    "romanId":"r23",
+    "nom":"Challengeur (Professeur)",
+    "role":"Personnage de fiction des romans de Sherlock Holmes écrit par Conan Doyle. Bien que ce personnage ne fait pas partie de l'aventure de Bob Morane, il est mentionné à titre de référence  afin de décrire l'aspect physique du Professeur Anthony Harpe.",
+    "physique":"Il possède une tête énorme, souvent comparée à celle d’un taureau assyrien barbu, surmontant un torse de barrique et des épaules formidables.  Son visage est marqué par des larges maxillaires, un menton épais et une barbe hérissée qui s’unit aux poils de son torse.  Son apparence physique, à la fois grotesque et impressionnante, reflète son tempérament violent et passionné. ",
+    "image":""
+  },
+  {
+    "romanId":"r23",
+    "nom":"Conan Doyle",
+    "role":"Arthur Conan Doyle (1859–1930), n'est pas un personnage de l'aventure, mais l'auteur de la célèbre  série de romans mettant en scène le détective Sherlock Holmes dans laquelle nous retrouvons un personnage du nom de Challenger (Professeur)",
+    "physique":null,
+    "image":"personnages\/conan_doyle.jpg"
+  },
+  {
+    "romanId":"r23",
+    "nom":"Daniel Praxette (Docteur)",
+    "role":"L’un des deux frères Praxette, directeurs de la clinique psychiatrique de Neuilly ; lié à la bande de la Fleur du Sommeil. Sa clinique sert de lieu de séquestration\/torture (Bob et Litvine y sont attachés), et sa complicité dans l’organisation criminelle est évoquée.",
+    "physique":"Le roman ne mentionne pas de description physique distincte pour Daniel (la description détaillée concerne explicitement Albert). Nous savons seulement que Daniel semble plus âgé qu’Albert.",
+    "image":""
+  },
+  {
+    "romanId":"r23",
+    "nom":"Daudrais (Inspecteur)",
+    "role":"Inspecteur chargé de l’enquête sur le meurtre de Xarof au Musée de l’Homme.",
+    "physique":"Grand et mince, avec un visage jeune et énergique et des cheveux bruns coupés en brosse. Il paraissait intelligent et son complet de sport sortait de chez un bon faiseur.",
+    "image":"personnages\/daudrais.png"
+  },
+  {
+    "romanId":"r23",
+    "nom":"Direk Zelfar",
+    "role":"Tueur qui assassine Lew Harding dans la chambre de Bob au Caire ; capturé par Morane. Il est lié à la filière de la drogue et aux événements d’Iran.",
+    "physique":"Homme d’origine orientale, associé aux trafiquants d’opium.",
+    "image":""
+  },
+  {
+    "romanId":"r23",
+    "nom":"George Lester (Sir)",
+    "role":"Chef de la brigade spéciale des narcotiques pour le Moyen-Orient ; vieil ami de Bob, il lui confie la mission d’approcher Harpe et Xarof, coordonne l’enquête avec Interpol et les polices, arrive en renfort à la clinique des Praxette et clôt l’affaire au Caire en exploitant le carnet d’Orgonetz.",
+    "physique":"Grand gaillard Anglais de quarante- cinq ans environ, aux cheveux blonds, aux yeux clairs et au teint couleur de brique trop cuite. Il porte avec élégance, lors de la rencontre avec Bob, un complet d’alpaga clair et tout, dans son maintien, ses gestes et son anglais précis, digne d’un ancien étudiant d’Oxford, témoigne d’une parfaite assurance. Il aime boire du whisky avec un respect quasi religieux.",
+    "image":"personnages\/george_lester.png"
+  },
+  {
+    "romanId":"r23",
+    "nom":"Gertrude",
+    "role":"Femme de ménage \/ bonne du professeur Litvine ; elle ouvre la porte à Bob, le fait patienter et l’annonce à Litvine. Elle réagit avec émotion lorsqu’il se dit ami de « m’sieu Nicolas » Xarof.",
+    "physique":"Décrite comme une matrone portant un tablier à petits carreaux bleus et blancs, avec une voix bourrue et un fort accent paysan. Elle porte sur la tête un invraisemblable chapeau orné de fruits en étoupe colorée et de faux oiseaux exotiques.",
+    "image":""
+  },
+  {
+    "romanId":"r23",
+    "nom":"Haymes (Major)",
+    "role":"Responsable important du service secret britannique ; il prévient sir George de la mort du professeur Harpe à Londres et sert de relais avec les autorités anglaises.",
+    "physique":"Pas de description physique détaillée dans ce roman.",
+    "image":""
+  },
+  {
+    "romanId":"r23",
+    "nom":"Herbert Fuchs",
+    "role":"Tueur au service de la bande de la Fleur du Sommeil, venu à Paris quelques jours avant les événements ; il a l’adresse de Litvine, surveille Bob, tente d’exécuter Morane et est ensuite tué par une voiture de taxi.",
+    "physique":"Il possède un passeport américain. Un visage dur et hargneux, dans lequel brillaient deux yeux méchants, comme taillés dans des éclats de verre noir.",
+    "image":""
+  },
+  {
+    "romanId":"r23",
+    "nom":"Jean Brulé",
+    "role":"Prospecteur pétrolier français ; quatrième homme de l’expédition en Iran avec Harding, Harpe et Xarof. Il a quitté les savants avant Téhéran, puis, se sentant menacé, s’est mis en relation avec Interpol. Plus tard, il raconte à Bob, sir George et Prunet tout le plan d’Orgonetz\/Greenstreet et fournit une carte détaillée des plantations au Farsistan.",
+    "physique":"un individu blond, aux traits basanés, portait un pantalon de flanelle grise et une veste de tweed de même couleur, à larges chevrons. Grand, blond et portant une veste de tweed gris à larges chevrons ; on apprend seulement qu’il s’est tiré presque sans égratignure d’un attentat à la grenade, avec une oreille légèrement éraflée qui saigne.",
+    "image":""
+  },
+  {
+    "romanId":"r23",
+    "nom":"Lew Harding",
+    "role":"Archéologue, compagnon de mission de Harpe et Xarof en Iran ; premier des trois savants à être assassiné (au Caire). Avant de mourir dans la chambre de Bob, il prononce « Danger, Fleur du Sommeil, Harpe, Xarof », ce qui déclenche l’enquête.",
+    "physique":"Anglais à l’air distingué. Tempes grisonnantes et lunettes cerclées d’or.",
+    "image":"personnages\/lew_harding.png"
+  },
+  {
+    "romanId":"r23",
     "nom":"Mansour",
     "role":"Idem Ali : compagnon arabe de Lazzi, réduit en esclavage dans la vallée des plantations ; il participe au soulèvement.",
     "physique":"Même cas : identifié comme Arabe et esclave, sans autre détail physique individuel.",
+    "image":""
+  },
+  {
+    "romanId":"r23",
+    "nom":"Michel Litvine (Professeur)",
+    "role":"Entomologiste (professeur). Proche de Xarof ; contacté par Bob à Paris, il devient une cible de la Fleur du Sommeil et est enlevé avec Morane. Il co-subit la captivité à la clinique des Praxette puis aide Bob lors de la confrontation avec Albert Praxette.",
+    "physique":"« Petit et malingre », entre deux âges ; visage mince aux joues creuses, quasiment masqué par d’« énormes lunettes aux verres grossissants » ; yeux d’un bleu limpide derrière ces verres, donnant l’impression d’un être d’un autre monde.",
     "image":""
   },
   {
@@ -2451,16 +2444,44 @@
   },
   {
     "romanId":"r23",
-    "nom":"Gertrude \/ la matrone (bonne de Litvine)",
-    "role":"Femme de ménage \/ bonne du professeur Litvine ; elle ouvre la porte à Bob, le fait patienter et l’annonce à Litvine. Elle réagit avec émotion lorsqu’il se dit ami de « m’sieu Nicolas » Xarof.",
-    "physique":"Décrite comme une matrone portant un tablier à petits carreaux bleus et blancs, avec une voix bourrue et un fort accent paysan. Le prénom « Gertrude » n’apparaît pas, elle reste désignée comme « la matrone »\/« la bonne ».",
+    "nom":"Mohamed Lazzi",
+    "role":"Esclave arabe enchaîné dans le hangar de la vallée ; originaire des côtes d’Oman, enlevé par des esclavagistes et conduit jusqu’au repaire. Il devient le porte-parole des esclaves, leur chef moral, et collabore avec Bob et Bill pour l’émeute et la destruction de la base.",
+    "physique":"Crédit Lyonnais, boulevard Saint-Germain. Rencontre avec Jean Brulé. Arrivé de Sir Georges et Inspecteur Prunet.",
     "image":""
   },
   {
     "romanId":"r23",
     "nom":"Nick Carter (référence)",
     "role":"Détective de fiction cité par sir George et par la narration comme référence pour les exploits de Bob (et pour les regrets de sir George d’avoir voulu “jouer les Nick Carter”). Il ne joue pas un rôle dans l’intrigue mais est nommément mentionné.",
-    "physique":"Pas de description physique : simple allusion littéraire.",
+    "physique":"Henri Vernes a effectivement fait référence à Nick Carter, l'un des héros emblématiques de la littérature d'aventures et de la science-fiction populaire, comme l'indique un article du Monde daté du 29 août 1970. Dans ce texte, il déclare : « Buffalo Bill avait vieilli, nous dit-il, Nick Carter aussi. » Cette remarque souligne que, dans les années 1950, les grands héros de l'aventure classique, comme Nick Carter, étaient perçus comme dépassés, ce qui a contribué à la création de nouveaux personnages, tels que Bob Morane, conçu par Vernes comme une figure moderne, dynamique et inépuisable, capable de s'adapter à toutes les époques et tous les lieux. Pas de description physique : simple allusion littéraire.",
+    "image":""
+  },
+  {
+    "romanId":"r23",
+    "nom":"Nicolas Xarof",
+    "role":"Archéologue français du Musée de l’Homme, troisième savant de l’expédition avec Harding et Harpe. Il est assassiné à coups de hache de pierre dans son laboratoire au Trocadéro, ce qui confirme l’ampleur du complot.",
+    "physique":"Aucune description physique directe ; le texte insiste surtout sur sa vie « retirée et paisible » et sur les circonstances de son meurtre.",
+    "image":""
+  },
+  {
+    "romanId":"r23",
+    "nom":"Praxette II",
+    "role":"(voir Daniel Praxette)",
+    "physique":null,
+    "image":""
+  },
+  {
+    "romanId":"r23",
+    "nom":"Prunet (Inspecteur)",
+    "role":"Inspecteur de la Sûreté française et chef d’Interpol à Paris. Il prend en main la partie française de l’affaire (poursuite de la bande, analyse des tirs sur Praxette, coordination avec sir George).",
+    "physique":"Homme grand et mince, aux cheveux grisonnants et aux lunettes cerclées d’écaille.",
+    "image":""
+  },
+  {
+    "romanId":"r23",
+    "nom":"Roman Orgonetz (alias Arthur Greenstreet)",
+    "role":"Principal antagoniste. Agent secret au service d’une grande puissance avide de conquête mondiale ; il dirige sur le terrain l’“Opération Fleur du Sommeil” et commande la vallée de culture du pavot, les convois d’opium et les gardes. Il est aussi appelé « l’homme aux dents dorées » et « l’homme aux dents dorées » est craint par les esclaves.",
+    "physique":"Présenté comme un monstre au visage humain : un « masque lunaire au nez informe » ; visage blafard sous un chapeau à larges bords, dents aurifiées (dents dorées). Il a un ventre énorme, des jambes courtes, donnant l’impression d’une barrique soudain prise d’envie de voyager ; apparence de clown obèse, malgré une âme énergique et sanguinaire.",
     "image":""
   },
   {
@@ -2482,7 +2503,7 @@
     "nom":"Lil Haston",
     "role":"Héroïne ; fille du colonel Douglas Haston ; vient expressément en Amazonie pour retrouver son père disparu ; à l’origine seule avec deux guides, elle convainc Bob et Bill de l’accompagner ; participe à toute l’expédition jusqu’au temple des Yaupis.",
     "physique":"Jeune fille d’environ vingt ans (« une vingtaine d’années ») ; visage étroit éclairé par de longs yeux verts ; cheveux formant une “mousse d’or fin”, décrits aussi comme une chevelure couleur de miel ; traits purs et lisses ; elle tend à Bob une main aux doigts fuselés ; porte avec une grande élégance un complet de toile kaki (pantalon et veste à grandes poches) qui, sur une autre, serait sans grâce ; présentée comme américaine.",
-    "image":"personnages\/Lil Haston.png"
+    "image":"personnages\/lil_haston.png"
   },
   {
     "romanId":"r24",
@@ -2493,17 +2514,17 @@
   },
   {
     "romanId":"r24",
-    "nom":"Lieutenant Manuel Abraz",
+    "nom":"Manuel Abraz (Lieutenant)",
     "role":"Officier de la police des frontières équatorienne ; chef du poste d’Alcantara ; accueille Bob, Lil et Bill, les met en garde contre les Yaupis et les Moronas ; partage ses informations sur la situation politique et les tensions entre tribus ; fournit un cadre légal et militaire au début de l’expédition.",
     "physique":"Présenté comme « un homme, un Blanc », âgé d’une quarantaine d’années, portant l’uniforme des forces de police équatoriennes ; il arrive à la rencontre de Bob suivi de deux Jivaros en uniforme kaki ; le texte ne donne pas plus de détails physiques (ni taille, ni traits du visage).",
-    "image":"personnages\/Lieutenant Manuel Abraz.png"
+    "image":"personnages\/manuel_abraz.png"
   },
   {
     "romanId":"r24",
     "nom":"Ti",
     "role":"Chef jivaro des Moronas ; allié essentiel des héros ; accepte de guider la petite troupe jusqu’au territoire des Yaupis et de fournir des guerriers ; négocie avec Bob, prête ses hommes, participe à la stratégie contre les Yaupis et à la guerre de représailles.",
     "physique":"Guerrier plus grand que les autres Moronas, qui sont de petite taille et trapus ; homme en pleine force de l’âge, d’environ 1,70 m, à la poitrine puissante et aux bras d’athlète ; visage arrondi, nez légèrement épaté ; le visage est barré de larges raies jaunes verticales ; le torse marbré de marques rouges évoquant du sang (peintures rituelles à base de suc de baies) ; longs cheveux noirs tombant raides sur les épaules et le dos ; porte un morceau de tissu bariolé de la taille aux genoux ; tient une Winchester à répétition plus récente que celles de ses hommes et un panier en osier tressé.",
-    "image":"personnages\/Ti.png"
+    "image":"personnages\/ti.png"
   },
   {
     "romanId":"r24",
